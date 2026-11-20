@@ -1,0 +1,208 @@
+{
+  "id": 1028832,
+  "title": "Quiz: Bài Tập Toán Kinh Tế Chính Trị - Giải Thích Lý Thuyết và Câu Hỏi",
+  "totalQuestions": 9,
+  "questions": [
+    {
+      "question": "The value of a commodity in the market is determined by the necessary labor time and does not depend on individual labor costs. Is this statement true or false?",
+      "explanation": "The value of a commodity in the market is influenced by the necessary labor time required for its production and is not affected by individual labor costs, which is a key concept in Marxist economics.",
+      "answers": [
+        {
+          "text": "Partially true",
+          "correct": false
+        },
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False",
+          "correct": false
+        },
+        {
+          "text": "Cannot be determined",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In the process of commodity production, abstract labor and specific labor are two aspects of the labor that produces goods, not any labor. Is this statement true or false?",
+      "explanation": "In Marxist economics, abstract labor and specific labor are essential components of the labor involved in commodity production, distinguishing between the general human labor required for production and the specific individual labor.",
+      "answers": [
+        {
+          "text": "Cannot be determined",
+          "correct": false
+        },
+        {
+          "text": "False",
+          "correct": true
+        },
+        {
+          "text": "True",
+          "correct": false
+        },
+        {
+          "text": "Partially true",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "When both the intensity and duration of labor increase, the quantity of goods produced also increases, but the labor costs will increase proportionally, resulting in the value of a unit of the commodity remaining constant. Is this statement true or false?",
+      "explanation": "The statement explains the relationship between labor intensity, production quantity, and labor costs in determining the value of commodities, highlighting the impact of labor inputs on the final value of goods.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "Partially true",
+          "correct": false
+        },
+        {
+          "text": "False",
+          "correct": false
+        },
+        {
+          "text": "Cannot be determined",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Money (gold) is a special commodity because it is used as a universal equivalent, not because of its intrinsic value. Is this statement true or false?",
+      "explanation": "The role of money as a universal equivalent in exchange is emphasized, highlighting its function in facilitating transactions rather than its intrinsic value, as explained in Marxist economic theory.",
+      "answers": [
+        {
+          "text": "Partially true",
+          "correct": false
+        },
+        {
+          "text": "Cannot be determined",
+          "correct": false
+        },
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "The relationship of supply and demand for a commodity only affects its price, not its value. Is this statement true or false?",
+      "explanation": "The distinction between the market price influenced by supply and demand dynamics and the intrinsic value of a commodity determined by labor inputs is crucial in Marxist economics, emphasizing the separation of price and value.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": false
+        },
+        {
+          "text": "Partially true",
+          "correct": false
+        },
+        {
+          "text": "False",
+          "correct": true
+        },
+        {
+          "text": "Cannot be determined",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In the process of commodity production, wage laborers create new value, including surplus value and the value of labor power. Is this statement true or false?",
+      "explanation": "The concept of surplus value and the creation of new value by wage laborers in the production process, as outlined in Marxist economics, highlights the distinction between labor inputs and the value generated through labor.",
+      "answers": [
+        {
+          "text": "Partially true",
+          "correct": false
+        },
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False",
+          "correct": false
+        },
+        {
+          "text": "Cannot be determined",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "The division of capital into constant capital and variable capital is based on the role of these components in the production process. Is this statement true or false?",
+      "explanation": "The classification of capital into constant and variable components based on their functions in creating surplus value and the production of goods is a fundamental concept in Marxist economic analysis.",
+      "answers": [
+        {
+          "text": "Cannot be determined",
+          "correct": false
+        },
+        {
+          "text": "False",
+          "correct": false
+        },
+        {
+          "text": "Partially true",
+          "correct": false
+        },
+        {
+          "text": "True",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "The primary driving force of economic development is not only the benefit of investors but also includes the state and laborers. Is this statement true or false?",
+      "explanation": "The statement highlights the multifaceted nature of economic development, emphasizing that it is not solely driven by investor interests but also involves the state and laborers in the process, as per Marxist economic perspectives.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False",
+          "correct": false
+        },
+        {
+          "text": "Partially true",
+          "correct": false
+        },
+        {
+          "text": "Cannot be determined",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In the circulation of capital, the quantity of money required for circulation can be explained by the formula PQ = G3, assuming a certain amount of money M. Is this statement true or false?",
+      "explanation": "The relationship between the circulation of capital and the necessary money supply, as expressed in the formula PQ = G3, with a specific money amount M, is a key concept in understanding the flow of capital in economic systems.",
+      "answers": [
+        {
+          "text": "False",
+          "correct": false
+        },
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "Partially true",
+          "correct": false
+        },
+        {
+          "text": "Cannot be determined",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "bai-tap-toan-kinh-te-chinh-tri-co-giai",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/bai-tap-toan-kinh-te-chinh-tri-co-giai/1028832"
+}

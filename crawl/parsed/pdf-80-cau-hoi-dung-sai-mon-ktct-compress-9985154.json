@@ -1,0 +1,450 @@
+{
+  "id": 9985154,
+  "title": "Quiz: Đúng hay Sai: 80 Câu Hỏi Kinh Tế Chính Trị Mác - Lênin (KTCT)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "Đối tượng nghiên cứu của kinh tế chính trị Mác Lênin là gì?",
+      "explanation": "Đối tượng nghiên cứu là các quan hệ sản xuất và trao đổi trong phương thức sản xuất.",
+      "answers": [
+        {
+          "text": "Sự phân phối thu nhập quốc dân",
+          "correct": false
+        },
+        {
+          "text": "Các quan hệ sản xuất và trao đổi trong phương thức sản xuất",
+          "correct": true
+        },
+        {
+          "text": "Các quy luật tự nhiên tác động đến sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Các chính sách kinh tế của nhà nước",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mục đích của nghiên cứu kinh tế chính trị Mác Lênin là gì?",
+      "explanation": "Mục đích là phát hiện ra các quy luật chi phối quan hệ giữa người trong sản xuất và trao đổi.",
+      "answers": [
+        {
+          "text": "Xây dựng mô hình kinh tế vĩ mô",
+          "correct": false
+        },
+        {
+          "text": "Phát hiện ra các quy luật chi phối quan hệ giữa người trong sản xuất và trao đổi",
+          "correct": true
+        },
+        {
+          "text": "Đưa ra các dự báo về tăng trưởng kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Nắm vững các chính sách kinh tế hiện hành",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đâu là điểm khác biệt giữa quy luật kinh tế và chính sách kinh tế?",
+      "explanation": "Quy luật kinh tế tồn tại khách quan, còn chính sách kinh tế là sản phẩm chủ quan của con người.",
+      "answers": [
+        {
+          "text": "Quy luật kinh tế chỉ áp dụng cho kinh tế vi mô, chính sách kinh tế cho kinh tế vĩ mô",
+          "correct": false
+        },
+        {
+          "text": "Quy luật kinh tế tồn tại khách quan, còn chính sách kinh tế là sản phẩm chủ quan của con người",
+          "correct": true
+        },
+        {
+          "text": "Quy luật kinh tế mang tính ngắn hạn, chính sách kinh tế mang tính dài hạn",
+          "correct": false
+        },
+        {
+          "text": "Quy luật kinh tế do nhà nước ban hành, chính sách kinh tế do thị trường quyết định",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Phương pháp nào là đặc thù trong nghiên cứu kinh tế chính trị?",
+      "explanation": "Phương pháp trừu tượng hóa khoa học giúp đơn giản hóa và tiếp cận bản chất vấn đề.",
+      "answers": [
+        {
+          "text": "Điều tra xã hội học",
+          "correct": false
+        },
+        {
+          "text": "Thống kê toán học",
+          "correct": false
+        },
+        {
+          "text": "Trừu tượng hóa khoa học",
+          "correct": true
+        },
+        {
+          "text": "Phân tích hồi quy",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tiền tệ được xem là gì trong kinh tế chính trị?",
+      "explanation": "Tiền tệ là một loại hàng hóa đặc biệt, là kết quả của quá trình phát triển sản xuất và trao đổi.",
+      "answers": [
+        {
+          "text": "Một công cụ thanh toán do nhà nước phát hành",
+          "correct": false
+        },
+        {
+          "text": "Một loại hàng hóa đặc biệt",
+          "correct": true
+        },
+        {
+          "text": "Một đơn vị đo lường giá trị",
+          "correct": false
+        },
+        {
+          "text": "Một phương tiện tích trữ của cải",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong tái sản xuất giản đơn, giá trị thặng dư được sử dụng như thế nào?",
+      "explanation": "Trong tái sản xuất giản đơn, toàn bộ giá trị thặng dư được sử dụng cho tiêu dùng cá nhân.",
+      "answers": [
+        {
+          "text": "Toàn bộ cho tiêu dùng cá nhân",
+          "correct": true
+        },
+        {
+          "text": "Một phần trả nợ, một phần tái đầu tư",
+          "correct": false
+        },
+        {
+          "text": "Một phần cho tiêu dùng, một phần cho tích lũy",
+          "correct": false
+        },
+        {
+          "text": "Toàn bộ cho tích lũy",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hội nhập kinh tế là một quá trình như thế nào?",
+      "explanation": "Hội nhập kinh tế là một quá trình tất yếu khách quan trong bối cảnh toàn cầu hóa.",
+      "answers": [
+        {
+          "text": "Tất yếu khách quan trong bối cảnh toàn cầu hóa",
+          "correct": true
+        },
+        {
+          "text": "Chủ quan hoàn toàn từ mong muốn của con người",
+          "correct": false
+        },
+        {
+          "text": "Chỉ dành cho các nước đang phát triển",
+          "correct": false
+        },
+        {
+          "text": "Phụ thuộc vào ý chí của các nước phát triển",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hình thức phân phối nào phản ánh định hướng xã hội chủ nghĩa trong nền kinh tế thị trường?",
+      "explanation": "Phân phối theo lao động, hiệu quả kinh tế và phúc lợi xã hội thể hiện định hướng xã hội chủ nghĩa.",
+      "answers": [
+        {
+          "text": "Phân phối theo thâm niên công tác",
+          "correct": false
+        },
+        {
+          "text": "Phân phối theo vốn và nguồn lực đóng góp",
+          "correct": false
+        },
+        {
+          "text": "Phân phối theo lao động và hiệu quả kinh tế",
+          "correct": true
+        },
+        {
+          "text": "Phân phối theo địa vị xã hội",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Xuất khẩu tư bản là gì?",
+      "explanation": "Xuất khẩu tư bản là xuất khẩu giá trị ra nước ngoài để thu lợi nhuận.",
+      "answers": [
+        {
+          "text": "Đưa hàng hóa ra nước ngoài để bán",
+          "correct": false
+        },
+        {
+          "text": "Viện trợ không hoàn lại cho các nước nghèo",
+          "correct": false
+        },
+        {
+          "text": "Xuất khẩu giá trị ra nước ngoài để thu lợi nhuận",
+          "correct": true
+        },
+        {
+          "text": "Nhập khẩu công nghệ từ các nước phát triển",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì xảy ra khi năng suất lao động tăng lên?",
+      "explanation": "Năng suất lao động tăng làm giảm lượng thời gian hao phí lao động cần thiết để sản xuất hàng hóa.",
+      "answers": [
+        {
+          "text": "Lượng giá trị của một đơn vị hàng hóa giảm",
+          "correct": true
+        },
+        {
+          "text": "Chi phí sản xuất tăng",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của hàng hóa không đổi",
+          "correct": false
+        },
+        {
+          "text": "Lượng giá trị của một đơn vị hàng hóa tăng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đâu là kết quả của tự do cạnh tranh?",
+      "explanation": "Tự do cạnh tranh dẫn đến tập trung sản xuất và cuối cùng là độc quyền.",
+      "answers": [
+        {
+          "text": "Tập trung sản xuất và độc quyền",
+          "correct": true
+        },
+        {
+          "text": "Sự phân tán sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Năng suất lao động giảm",
+          "correct": false
+        },
+        {
+          "text": "Giá cả hàng hóa giảm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mục đích chính của việc xuất khẩu tư bản là gì?",
+      "explanation": "Xuất khẩu tư bản nhằm thu được giá trị thặng dư và các nguồn lợi nhuận khác ở các nước nhập khẩu tư bản.",
+      "answers": [
+        {
+          "text": "Để tăng cường quan hệ ngoại giao với các quốc gia khác",
+          "correct": false
+        },
+        {
+          "text": "Để thu được giá trị thặng dư và lợi nhuận ở nước ngoài",
+          "correct": true
+        },
+        {
+          "text": "Để hỗ trợ các nước đang phát triển",
+          "correct": false
+        },
+        {
+          "text": "Để giảm sự phụ thuộc vào thị trường trong nước",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá cả độc quyền được các tổ chức độc quyền áp đặt như thế nào?",
+      "explanation": "Các tổ chức độc quyền áp đặt giá cả cao khi bán và giá cả thấp khi mua để tối đa hóa lợi nhuận.",
+      "answers": [
+        {
+          "text": "Giá cả bằng với giá trị hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Giá cả cao khi bán và giá cả thấp khi mua",
+          "correct": true
+        },
+        {
+          "text": "Giá cả được điều chỉnh theo quy luật cung cầu",
+          "correct": false
+        },
+        {
+          "text": "Giá cả thấp khi bán và giá cả cao khi mua",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Lượng giá trị hàng hóa được xác định bởi yếu tố nào?",
+      "explanation": "Lượng giá trị hàng hóa là lượng lao động hao phí trong điều kiện bình thường của xã hội.",
+      "answers": [
+        {
+          "text": "Tổng chi phí sản xuất hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Lượng lao động hao phí trong điều kiện xấu nhất",
+          "correct": false
+        },
+        {
+          "text": "Lượng lao động hao phí trong điều kiện tốt nhất",
+          "correct": false
+        },
+        {
+          "text": "Lượng lao động hao phí trong điều kiện bình thường của xã hội",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Hàng hóa tri thức có đặc điểm gì nổi bật?",
+      "explanation": "Hàng hóa tri thức có tỷ lệ giá trị do lao động tinh thần chuyển hóa vào lớn.",
+      "answers": [
+        {
+          "text": "Giá trị ngang bằng với hàng hóa thông thường",
+          "correct": false
+        },
+        {
+          "text": "Tỷ lệ giá trị do lao động tinh thần chuyển hóa vào lớn",
+          "correct": true
+        },
+        {
+          "text": "Tỷ lệ giá trị do vật chất chuyển hóa vào lớn",
+          "correct": false
+        },
+        {
+          "text": "Tỷ lệ giá trị do lao động cơ bắp chuyển hóa vào lớn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quan hệ cung cầu ảnh hưởng đến giá cả hàng hóa như thế nào?",
+      "explanation": "Cung và cầu tác động lẫn nhau, ảnh hưởng trực tiếp tới giá cả. Cung > cầu thì giá < giá trị, cung < cầu thì giá > giá trị.",
+      "answers": [
+        {
+          "text": "Cung và cầu không ảnh hưởng đến giá cả",
+          "correct": false
+        },
+        {
+          "text": "Cung lớn hơn cầu thì giá cả lớn hơn giá trị",
+          "correct": false
+        },
+        {
+          "text": "Cung lớn hơn cầu thì giá cả nhỏ hơn giá trị",
+          "correct": true
+        },
+        {
+          "text": "Cung nhỏ hơn cầu thì giá cả nhỏ hơn giá trị",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì xảy ra với lượng giá trị của một đơn vị hàng hóa khi cường độ lao động tăng lên?",
+      "explanation": "Khi tăng cường độ lao động, tổng sản phẩm tăng nhưng lượng thời gian lao động xã hội cần thiết để sản xuất một đơn vị hàng hóa không đổi, do đó lượng giá trị giảm.",
+      "answers": [
+        {
+          "text": "Lượng giá trị của một đơn vị hàng hóa giảm",
+          "correct": true
+        },
+        {
+          "text": "Lượng giá trị của một đơn vị hàng hóa không đổi",
+          "correct": false
+        },
+        {
+          "text": "Lượng giá trị của một đơn vị hàng hóa tăng",
+          "correct": false
+        },
+        {
+          "text": "Lượng giá trị của một đơn vị hàng hóa biến động ngẫu nhiên",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ai được hưởng lợi khi tăng năng suất lao động?",
+      "explanation": "Khi tăng năng suất lao động, doanh nghiệp có thể giảm giá thành và người tiêu dùng mua hàng rẻ hơn, nhanh hơn.",
+      "answers": [
+        {
+          "text": "Chỉ nhà sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Cả nhà sản xuất và người tiêu dùng",
+          "correct": true
+        },
+        {
+          "text": "Không ai được hưởng lợi",
+          "correct": false
+        },
+        {
+          "text": "Chỉ người tiêu dùng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong cùng một đơn vị thời gian, lao động phức tạp so với lao động giản đơn tạo ra giá trị như thế nào?",
+      "explanation": "Lao động phức tạp tạo ra nhiều giá trị hơn so với lao động giản đơn trong cùng một đơn vị thời gian.",
+      "answers": [
+        {
+          "text": "Tạo ra giá trị tương đương",
+          "correct": false
+        },
+        {
+          "text": "Không tạo ra giá trị",
+          "correct": false
+        },
+        {
+          "text": "Tạo ra ít giá trị hơn",
+          "correct": false
+        },
+        {
+          "text": "Tạo ra nhiều giá trị hơn",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Đặc điểm của kinh tế thị trường tự do là gì?",
+      "explanation": "Kinh tế thị trường tự do là nền kinh tế mà các lực lượng thị trường chi phối các quá trình kinh tế, không phải nhà nước.",
+      "answers": [
+        {
+          "text": "Hoạt động dưới sự điều tiết của nhà nước",
+          "correct": false
+        },
+        {
+          "text": "Nhà nước độc quyền kiểm soát",
+          "correct": false
+        },
+        {
+          "text": "Sản xuất để dùng là chính, thừa thì bán",
+          "correct": false
+        },
+        {
+          "text": "Các lực lượng thị trường chi phối các quá trình kinh tế",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "slug": "pdf-80-cau-hoi-dung-sai-mon-ktct-compress",
+  "kind": "truefalse",
+  "url": "https://www.studocu.vn/vn/quiz/pdf-80-cau-hoi-dung-sai-mon-ktct-compress/9985154"
+}

@@ -1,0 +1,230 @@
+{
+  "id": 1186582,
+  "title": "Quiz: Đúng Sai KTCT - Đánh Giá Các Khái Niệm Trong Kinh Tế Chính Trị",
+  "totalQuestions": 10,
+  "questions": [
+    {
+      "question": "Giá trị trao đổi là biểu hiện của giá trị hàng hóa. Đúng hay Sai?",
+      "explanation": "Giá trị trao đổi là hình thức biểu hiện ra bên ngoài của giá trị hàng hóa, là cơ sở của giá trị trao đổi.",
+      "answers": [
+        {
+          "text": "Không rõ",
+          "correct": false
+        },
+        {
+          "text": "Sai",
+          "correct": false
+        },
+        {
+          "text": "Đúng",
+          "correct": true
+        },
+        {
+          "text": "Chưa rõ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tất cả các loại lao động đều có tính hai mặt là lao động cụ thể và lao động trừu tượng. Đúng hay Sai?",
+      "explanation": "Chỉ có lao động của người sản xuất hàng hóa mới có lao động trừu tượng vì lao động trừu tượng tạo ra giá trị của hàng hóa, lao động cụ thể tạo ra giá trị sử dụng của hàng hóa.",
+      "answers": [
+        {
+          "text": "Chưa rõ",
+          "correct": false
+        },
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Không rõ",
+          "correct": false
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sự biến động của giá trị hàng hóa trên thị trường là do tác động của quan hệ cung cầu. Đúng hay Sai?",
+      "explanation": "Vì hao phí lao động hàng hoá quyết định sự biến động của giá trị hàng hóa trên thị trường, còn cung cầu chỉ ảnh hưởng đến giá cả.",
+      "answers": [
+        {
+          "text": "Đúng",
+          "correct": false
+        },
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Chưa rõ",
+          "correct": false
+        },
+        {
+          "text": "Không rõ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đất đai nếu không kể đến chi phí lao động để khai phá, cải tạo thì chúng không có giá trị mà chỉ có giá cả. Đúng hay Sai?",
+      "explanation": "Nếu không kể đến chi phí lao động, đất đai chỉ có giá cả, không có giá trị.",
+      "answers": [
+        {
+          "text": "Chưa rõ",
+          "correct": false
+        },
+        {
+          "text": "Sai",
+          "correct": false
+        },
+        {
+          "text": "Đúng",
+          "correct": true
+        },
+        {
+          "text": "Không rõ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Dấu hiệu đặc trưng của cơ chế thị trường không phải là sự ra đời của tiền tệ. Đúng hay Sai?",
+      "explanation": "Dấu hiệu của cơ chế thị trường không phải là sự ra đời của tiền tệ, mà là sự hình thành của giá cả tự do.",
+      "answers": [
+        {
+          "text": "Sai",
+          "correct": false
+        },
+        {
+          "text": "Chưa rõ",
+          "correct": false
+        },
+        {
+          "text": "Đúng",
+          "correct": true
+        },
+        {
+          "text": "Không rõ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khi năng suất lao động và cường độ lao động đều giảm thì giá trị của đơn vị hàng hóa cũng giảm. Đúng hay Sai?",
+      "explanation": "Khi năng suất lao động giảm, giá trị của 1 đơn vị hàng hóa tăng, và khi cường độ lao động giảm, giá trị của 1 đơn vị hàng hóa không đổi.",
+      "answers": [
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Không rõ",
+          "correct": false
+        },
+        {
+          "text": "Chưa rõ",
+          "correct": false
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tiền ký hiệu giá trị nếu chưa sử dụng đến (tiền tiết kiệm) là tiền được rút khỏi lưu thông để cất trữ. Đúng hay Sai?",
+      "explanation": "Tiền ký hiệu giá trị không thể làm phương tiện cất trữ vì nó không đủ thước đo nội tại, do đó để một thời gian dài thì nó sẽ bị mất giá.",
+      "answers": [
+        {
+          "text": "Không rõ",
+          "correct": false
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        },
+        {
+          "text": "Chưa rõ",
+          "correct": false
+        },
+        {
+          "text": "Sai",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Quy luật giá trị là quy luật kinh tế tác động trong cả sản xuất hàng hóa giản đơn và sản xuất hàng hóa tư bản chủ nghĩa. Đúng hay Sai?",
+      "explanation": "Quy luật giá trị là quy luật kinh tế cơ bản của sản xuất hàng hóa, quy định bản chất của sản xuất hàng hóa, là cơ sở của tất cả các quy luật khác của sản xuất hàng hóa.",
+      "answers": [
+        {
+          "text": "Sai",
+          "correct": false
+        },
+        {
+          "text": "Chưa rõ",
+          "correct": false
+        },
+        {
+          "text": "Không rõ",
+          "correct": false
+        },
+        {
+          "text": "Đúng",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Sản xuất và tiêu dùng hàng hóa dịch vụ là hai quá trình diễn ra tách rời nhau. Đúng hay Sai?",
+      "explanation": "Sản xuất và tiêu dùng hàng hóa dịch vụ không phải là hai quá trình diễn ra tách rời nhau, mà chúng liên kết chặt chẽ với nhau trong chuỗi cung ứng và kinh doanh.",
+      "answers": [
+        {
+          "text": "Không rõ",
+          "correct": false
+        },
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Chưa rõ",
+          "correct": false
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong sản xuất hàng hóa, hao phí thời gian lao động của người sản xuất ra hàng hóa lớn hơn thời gian lao động xã hội cần thiết thì giá trị của nó càng lớn. Đúng hay Sai?",
+      "explanation": "Hao phí thời gian lao động của người sản xuất ra hàng hóa lớn hơn thời gian lao động xã hội cần thiết không làm tăng giá trị của hàng hóa.",
+      "answers": [
+        {
+          "text": "Chưa rõ",
+          "correct": false
+        },
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        },
+        {
+          "text": "Không rõ",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "dung-sai-ktct-dungsai-ktct",
+  "kind": "truefalse",
+  "url": "https://www.studocu.vn/vn/quiz/dung-sai-ktct-dungsai-ktct/1186582"
+}

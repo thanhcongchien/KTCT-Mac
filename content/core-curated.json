@@ -1,0 +1,96 @@
+{
+  "essays": [
+    {
+      "chapter": 2,
+      "topic": "Hàng hóa",
+      "question": "Vì sao hàng hóa có hai thuộc tính là giá trị sử dụng và giá trị?",
+      "modelAnswer": "Hàng hóa là sản phẩm của lao động dùng để trao đổi, mua bán. Tính hai mặt của lao động sản xuất hàng hóa quy định hai thuộc tính của hàng hóa: lao động cụ thể tạo ra giá trị sử dụng (công dụng thỏa mãn nhu cầu), còn lao động trừu tượng tạo ra giá trị (lao động xã hội kết tinh trong hàng hóa). Giá trị sử dụng là thuộc tính tự nhiên, còn giá trị là thuộc tính xã hội phản ánh quan hệ giữa những người sản xuất."
+    },
+    {
+      "chapter": 2,
+      "topic": "Lao động",
+      "question": "Vì sao lao động sản xuất hàng hóa có tính hai mặt?",
+      "modelAnswer": "Lao động sản xuất hàng hóa vừa là lao động cụ thể vừa là lao động trừu tượng. Lao động cụ thể là lao động dưới một hình thức nghề nghiệp chuyên môn nhất định, tạo ra giá trị sử dụng. Lao động trừu tượng là sự hao phí sức lao động nói chung, không kể hình thức cụ thể, tạo ra giá trị. Hai mặt này thống nhất trong cùng một lao động và là cơ sở giải thích hai thuộc tính của hàng hóa."
+    },
+    {
+      "chapter": 2,
+      "topic": "Tiền tệ",
+      "question": "Vì sao tiền tệ xuất hiện và bản chất của tiền tệ là gì?",
+      "modelAnswer": "Tiền tệ xuất hiện do sự phát triển của sản xuất và trao đổi hàng hóa, khi một loại hàng hóa đặc biệt được tách ra làm vật ngang giá chung cho tất cả các hàng hóa khác. Bản chất của tiền tệ là hàng hóa đặc biệt, đóng vai trò vật ngang giá chung. Tiền có năm chức năng: thước đo giá trị, phương tiện lưu thông, phương tiện cất trữ, phương tiện thanh toán và tiền tệ thế giới."
+    },
+    {
+      "chapter": 3,
+      "topic": "Sức lao động",
+      "question": "Vì sao sức lao động trở thành hàng hóa trong nền kinh tế thị trường tư bản chủ nghĩa?",
+      "modelAnswer": "Sức lao động trở thành hàng hóa khi có hai điều kiện: người lao động được tự do về thân thể (có quyền bán sức lao động) và người lao động không có tư liệu sản xuất, buộc phải bán sức lao động để sống. Sức lao động có hai thuộc tính: giá trị (do tư liệu sinh hoạt cần thiết để tái sản xuất sức lao động quyết định) và giá trị sử dụng đặc biệt (khi tiêu dùng tạo ra giá trị mới lớn hơn giá trị bản thân nó — nguồn gốc giá trị thặng dư)."
+    },
+    {
+      "chapter": 3,
+      "topic": "Giá trị thặng dư",
+      "question": "Vì sao nói giá trị thặng dư là cơ sở của lợi nhuận?",
+      "modelAnswer": "Lợi nhuận là hình thức biến tướng của giá trị thặng dư. Giá trị thặng dư do lao động sống tạo ra trong quá trình sản xuất, còn lợi nhuận được quan niệm là con đẻ của toàn bộ tư bản ứng trước. Về lượng, khi chỉ có một doanh nghiệp thì lợi nhuận bằng giá trị thặng dư (p = m); về chất, lợi nhuận che giấu nguồn gốc là giá trị thặng dư do lao động làm thuê tạo ra."
+    },
+    {
+      "chapter": 3,
+      "topic": "Tích lũy tư bản",
+      "question": "Vì sao tích lũy tư bản trong điều kiện tiến bộ kỹ thuật có thể làm gia tăng nạn thất nghiệp?",
+      "modelAnswer": "Tích lũy tư bản làm tăng cấu tạo hữu cơ của tư bản (c/v tăng), tức tư bản bất biến tăng nhanh hơn tư bản khả biến. Do đó nhu cầu về sức lao động giảm tương đối so với quy mô tư bản, tạo ra đội quân thất nghiệp tương đối. Đó là quy luật chung của tích lũy tư bản trong điều kiện tiến bộ kỹ thuật."
+    },
+    {
+      "chapter": 3,
+      "topic": "Tỷ suất lợi nhuận",
+      "question": "Vì sao cấu tạo hữu cơ của tư bản tăng làm tỷ suất lợi nhuận giảm?",
+      "modelAnswer": "Tỷ suất lợi nhuận p' = m/(c+v). Khi cấu tạo hữu cơ c/v tăng, tư bản bất biến c tăng nhanh hơn tư bản khả biến v; với m' không đổi, khối lượng giá trị thặng dư trên một đơn vị tư bản ứng trước giảm, nên p' giảm. Đây là quan hệ tỷ lệ nghịch giữa c/v và p'."
+    },
+    {
+      "chapter": 4,
+      "topic": "Độc quyền",
+      "question": "Vì sao độc quyền không xóa bỏ cạnh tranh mà làm cạnh tranh gay gắt hơn?",
+      "modelAnswer": "Độc quyền hình thành từ cạnh tranh tự do và sự tích tụ, tập trung sản xuất đến mức cao. Khi độc quyền xuất hiện, vẫn tồn tại cạnh tranh giữa các tổ chức độc quyền, giữa độc quyền với các doanh nghiệp ngoài độc quyền và cạnh tranh trong nội bộ tổ chức độc quyền. Mục tiêu lợi nhuận độc quyền cao càng làm các hình thức cạnh tranh trở nên gay gắt."
+    },
+    {
+      "chapter": 4,
+      "topic": "Độc quyền",
+      "question": "Trình bày năm đặc điểm kinh tế cơ bản của độc quyền trong nền kinh tế thị trường tư bản chủ nghĩa theo Lênin.",
+      "modelAnswer": "Theo Lênin: (1) Tập trung sản xuất và các tổ chức độc quyền; (2) Tư bản tài chính và hệ thống tài phiệt chi phối; (3) Xuất khẩu tư bản trở nên đặc biệt quan trọng; (4) Sự phân chia thế giới về mặt kinh tế giữa các liên minh độc quyền; (5) Sự phân chia thế giới về mặt lãnh thổ giữa các cường quốc đế quốc."
+    },
+    {
+      "chapter": 5,
+      "topic": "KTTT định hướng XHCN",
+      "question": "Vì sao Việt Nam phát triển kinh tế thị trường định hướng xã hội chủ nghĩa?",
+      "modelAnswer": "Đó là mô hình kinh tế tổng quát phù hợp với quy luật phát triển khách quan trong thời kỳ quá độ lên chủ nghĩa xã hội. Mô hình kết hợp cơ chế thị trường với vai trò điều tiết của nhà nước, hướng tới mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh; phát triển vì con người, không vì lợi nhuận thuần túy."
+    },
+    {
+      "chapter": 6,
+      "topic": "CNH-HĐH",
+      "question": "Vì sao công nghiệp hóa, hiện đại hóa ở Việt Nam phải gắn với phát triển bền vững?",
+      "modelAnswer": "CNH-HĐH nhằm phát triển lực lượng sản xuất, chuyển dịch cơ cấu kinh tế theo hướng hiện đại và nâng cao năng suất. Nếu tách rời phát triển bền vững sẽ dẫn tới cạn kiệt tài nguyên, ô nhiễm môi trường và bất bình đẳng xã hội. Vì vậy cần gắn CNH-HĐH với bảo vệ môi trường, sử dụng hiệu quả nguồn lực và hội nhập quốc tế."
+    },
+    {
+      "chapter": 1,
+      "topic": "Đối tượng nghiên cứu",
+      "question": "Trình bày đối tượng nghiên cứu của Kinh tế chính trị Mác – Lênin.",
+      "modelAnswer": "Đối tượng nghiên cứu của KTCT Mác – Lênin là các quan hệ sản xuất và trao đổi trong phương thức sản xuất mà quan hệ đó hình thành và phát triển. Trọng tâm là hệ thống các quan hệ xã hội của sản xuất và trao đổi, gồm quan hệ sở hữu, quan hệ quản lý và quan hệ phân phối, trong sự tương tác với lực lượng sản xuất và kiến trúc thượng tầng tương ứng."
+    }
+  ],
+  "truefalse": [
+    { "chapter": 2, "topic": "Hàng hóa", "question": "Giá trị sử dụng là thuộc tính xã hội của hàng hóa.", "answer": false, "explanation": "Giá trị sử dụng là thuộc tính tự nhiên; giá trị mới là thuộc tính xã hội." },
+    { "chapter": 2, "topic": "Hàng hóa", "question": "Lao động trừu tượng tạo ra giá trị của hàng hóa.", "answer": true, "explanation": "Lao động trừu tượng là hao phí sức lao động nói chung, tạo ra giá trị." },
+    { "chapter": 2, "topic": "Năng suất lao động", "question": "Tăng năng suất lao động làm tăng lượng giá trị của một đơn vị sản phẩm.", "answer": false, "explanation": "Tăng NSLĐ làm giảm lượng giá trị trong một đơn vị sản phẩm (tỷ lệ nghịch)." },
+    { "chapter": 2, "topic": "Cường độ lao động", "question": "Tăng cường độ lao động làm giá trị của một đơn vị sản phẩm không đổi.", "answer": true, "explanation": "CĐLĐ tăng làm tăng tổng sản phẩm và tổng giá trị, nhưng giá trị một đơn vị sản phẩm không đổi." },
+    { "chapter": 2, "topic": "Tiền tệ", "question": "Tiền tệ có năm chức năng cơ bản.", "answer": true, "explanation": "Thước đo giá trị, phương tiện lưu thông, phương tiện cất trữ, phương tiện thanh toán, tiền tệ thế giới." },
+    { "chapter": 3, "topic": "Sức lao động", "question": "Sức lao động trở thành hàng hóa chỉ cần người lao động được tự do về thân thể.", "answer": false, "explanation": "Cần đủ hai điều kiện: tự do về thân thể và không có tư liệu sản xuất, buộc phải bán sức lao động." },
+    { "chapter": 3, "topic": "Tư bản", "question": "Tư bản bất biến là bộ phận tư bản biến thành sức lao động.", "answer": false, "explanation": "Tư bản bất biến biến thành tư liệu sản xuất; tư bản khả biến biến thành sức lao động." },
+    { "chapter": 3, "topic": "Tư bản lưu động", "question": "Tư bản lưu động gồm nguyên nhiên vật liệu và tư bản khả biến.", "answer": true, "explanation": "TBLĐ = c2 + v, chuyển toàn bộ giá trị một lần vào sản phẩm." },
+    { "chapter": 3, "topic": "Giá trị thặng dư", "question": "Giá trị thặng dư tuyệt đối được tạo ra bằng cách rút ngắn thời gian lao động tất yếu trong điều kiện ngày lao động không đổi.", "answer": false, "explanation": "Giá trị thặng dư tuyệt đối kéo dài ngày lao động hoặc rút ngắn thời gian lao động tất yếu khi ngày lao động không đổi; cách rút ngắn tất yếu dựa trên tăng NSLĐ là m tương đối." },
+    { "chapter": 3, "topic": "Tích lũy tư bản", "question": "Tích lũy tư bản là việc chuyển hóa một phần giá trị thặng dư trở lại thành tư bản.", "answer": true, "explanation": "Đó là bản chất của tích lũy tư bản nhằm mở rộng quy mô sản xuất." },
+    { "chapter": 3, "topic": "Tỷ suất lợi nhuận", "question": "Cấu tạo hữu cơ của tư bản càng cao thì tỷ suất lợi nhuận càng cao.", "answer": false, "explanation": "c/v càng cao thì p' càng thấp (tỷ lệ nghịch)." },
+    { "chapter": 3, "topic": "Lợi tức", "question": "Lợi tức là một phần của lợi nhuận bình quân mà nhà tư bản đi vay trả cho nhà tư bản cho vay.", "answer": true, "explanation": "Lợi tức (z) là phần lợi nhuận bình quân trả cho quyền sử dụng tư bản vay." },
+    { "chapter": 4, "topic": "Độc quyền", "question": "Độc quyền xóa bỏ hoàn toàn cạnh tranh.", "answer": false, "explanation": "Độc quyền không xóa bỏ cạnh tranh mà làm cạnh tranh gay gắt hơn." },
+    { "chapter": 4, "topic": "Giá cả độc quyền", "question": "Giá cả độc quyền thường là giá mua thấp và giá bán cao.", "answer": true, "explanation": "Tổ chức độc quyền mua TLSX với giá thấp và bán sản phẩm với giá cao." },
+    { "chapter": 5, "topic": "KTTT định hướng XHCN", "question": "Trong kinh tế thị trường định hướng XHCN ở Việt Nam, kinh tế nhà nước giữ vai trò chủ đạo.", "answer": true, "explanation": "Kinh tế nhà nước giữ vai trò chủ đạo, kinh tế tư nhân là động lực quan trọng." },
+    { "chapter": 5, "topic": "KTTT định hướng XHCN", "question": "Mục tiêu của kinh tế thị trường định hướng XHCN là tối đa hóa lợi nhuận thuần túy.", "answer": false, "explanation": "Mục tiêu là dân giàu, nước mạnh, dân chủ, công bằng, văn minh; phát triển vì con người." },
+    { "chapter": 6, "topic": "Cách mạng công nghiệp", "question": "Cách mạng công nghiệp lần thứ tư gắn với AI, IoT, dữ liệu lớn và robot.", "answer": true, "explanation": "Đó là các đặc trưng của CMCN 4.0." },
+    { "chapter": 6, "topic": "CNH-HĐH", "question": "Công nghiệp hóa là quá trình chuyển từ lao động máy móc sang lao động thủ công.", "answer": false, "explanation": "CNH là chuyển từ lao động thủ công là chính sang sử dụng máy móc, công nghệ hiện đại." }
+  ]
+}

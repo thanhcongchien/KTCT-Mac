@@ -1,0 +1,230 @@
+{
+  "id": 1028807,
+  "title": "Quiz: ĐÁP ÁN CÂU HỎI TỰ LUẬN KTCT - KINH TẾ CHÍNH TRỊ MÁC - LÊNIN",
+  "totalQuestions": 10,
+  "questions": [
+    {
+      "question": "Vì sao tích luỹ tư bản trong điều kiện tiến bộ kỹ thuật có thể làm gia tăng nạn thất nghiệp?",
+      "explanation": "Tích lũy tư bản làm tăng cấu tạo hữu cơ tư bản, dẫn đến giảm cầu về sức lao động và tăng tỷ lệ thất nghiệp.",
+      "answers": [
+        {
+          "text": "Tích lũy tư bản làm giảm cấu tạo hữu cơ tư bản.",
+          "correct": false
+        },
+        {
+          "text": "Tích lũy TB là làm tăng quy mô của tư bản cá biệt bằng cách tư bản hóa giá trị thặng dư.",
+          "correct": true
+        },
+        {
+          "text": "Tích lũy tư bản không ảnh hưởng đến nạn thất nghiệp.",
+          "correct": false
+        },
+        {
+          "text": "Tích lũy tư bản làm tăng cấu tạo hữu cơ tư bản tăng.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vì sao quyền sử dụng đất được coi là hàng hoá đặc biệt?",
+      "explanation": "Quyền sử dụng đất mang lại lợi ích vật chất cho chủ sử dụng và không phụ thuộc vào giá trị đất đai.",
+      "answers": [
+        {
+          "text": "Quyền sử dụng đất là quyền khai thác các thuộc tính có ích của đất đai.",
+          "correct": true
+        },
+        {
+          "text": "Quyền sử dụng đất không ảnh hưởng đến chủ sử dụng.",
+          "correct": false
+        },
+        {
+          "text": "Quyền sử dụng đất không có giá trị sử dụng.",
+          "correct": false
+        },
+        {
+          "text": "Quyền sử dụng đất không liên quan đến lợi ích vật chất.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vì sao hàng hóa sức lao động được xem là hàng hoá đặc biệt?",
+      "explanation": "Hàng hóa sức lao động tạo ra giá trị mới và có yếu tố tinh thần, lịch sử.",
+      "answers": [
+        {
+          "text": "Hàng hóa sức lao động không mang yếu tố lịch sử.",
+          "correct": false
+        },
+        {
+          "text": "Hàng hóa sức lao động không có yếu tố tinh thần.",
+          "correct": false
+        },
+        {
+          "text": "Hàng hóa sức lao động tạo ra giá trị mới và có yếu tố tinh thần, lịch sử.",
+          "correct": true
+        },
+        {
+          "text": "Hàng hóa sức lao động không tạo ra giá trị mới.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao chi phí sản xuất tư bản chủ nghĩa luôn nhỏ hơn giá trị hàng hoá?",
+      "explanation": "Chi phí sản xuất tư bản chủ nghĩa nhỏ hơn giá trị hàng hoá do lao động xã hội kết tinh trong hàng hoá.",
+      "answers": [
+        {
+          "text": "Chi phí sản xuất tư bản chủ nghĩa không ảnh hưởng đến giá trị hàng hoá.",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất tư bản chủ nghĩa không liên quan đến giá trị hàng hoá.",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất tư bản chủ nghĩa lớn hơn giá trị hàng hoá.",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất tư bản chủ nghĩa nhỏ hơn giá trị hàng hoá.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tại sao giá trị thặng dư siêu ngạch được xem là hình thức biến tướng của giá trị thặng dư tương đối?",
+      "explanation": "Giá trị thặng dư siêu ngạch là do tăng năng suất lao động cá biệt, tạo ra giá trị cá biệt thấp hơn giá trị xã hội.",
+      "answers": [
+        {
+          "text": "Giá trị thặng dư siêu ngạch không phụ thuộc vào năng suất lao động.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư siêu ngạch không liên quan đến giá trị xã hội.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư siêu ngạch không tạo ra giá trị mới.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư siêu ngạch là hình thức biến tướng của giá trị thặng dư tương đối.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tại sao khi cường độ lao động thay đổi, các nhân tố khác không đổi không ảnh hưởng đến giá trị của một đơn vị hàng hoá?",
+      "explanation": "Cường độ lao động thay đổi dẫn đến thay đổi số lượng hàng hoá sản xuất, nhưng giá trị của một đơn vị hàng hoá không thay đổi.",
+      "answers": [
+        {
+          "text": "Cường độ lao động thay đổi làm tăng giá trị hàng hoá.",
+          "correct": false
+        },
+        {
+          "text": "Cường độ lao động thay đổi không ảnh hưởng đến giá trị hàng hoá.",
+          "correct": true
+        },
+        {
+          "text": "Cường độ lao động thay đổi làm giảm giá trị hàng hoá.",
+          "correct": false
+        },
+        {
+          "text": "Cường độ lao động thay đổi làm tăng số lượng hàng hoá.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao giá trị của đơn vị hàng hoá có quan hệ tỷ lệ nghịch với năng suất lao động?",
+      "explanation": "Giá trị của đơn vị hàng hoá giảm khi năng suất lao động tăng và tăng khi năng suất lao động giảm.",
+      "answers": [
+        {
+          "text": "Giá trị của đơn vị hàng hoá tăng khi năng suất lao động giảm.",
+          "correct": false
+        },
+        {
+          "text": "Năng suất lao động tăng khi giá trị hàng hoá tăng.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của đơn vị hàng hoá giảm khi năng suất lao động tăng.",
+          "correct": true
+        },
+        {
+          "text": "Năng suất lao động giảm khi giá trị hàng hoá giảm.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao tư bản cho vay được coi là hàng hoá đặc biệt?",
+      "explanation": "Tư bản cho vay có giá trị và giá trị sử dụng không mất đi khi sử dụng, lợi tức không phụ thuộc vào giá trị mà vào giá trị sử dụng.",
+      "answers": [
+        {
+          "text": "Tư bản cho vay có giá trị và giá trị sử dụng không mất đi khi sử dụng.",
+          "correct": true
+        },
+        {
+          "text": "Tư bản cho vay không phụ thuộc vào giá trị sử dụng.",
+          "correct": false
+        },
+        {
+          "text": "Tư bản cho vay không có giá trị sử dụng.",
+          "correct": false
+        },
+        {
+          "text": "Tư bản cho vay không mang lại lợi tức.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao độc quyền ra đời là do sự phát triển của cạnh tranh tự do?",
+      "explanation": "Độc quyền xuất phát từ việc nhà tư bản lớn thỏa thuận liên minh để chiếm lợi nhuận độc quyền và tránh tổn thất từ cạnh tranh gay gắt.",
+      "answers": [
+        {
+          "text": "Độc quyền ra đời do sự phát triển của cạnh tranh tự do.",
+          "correct": true
+        },
+        {
+          "text": "Độc quyền xuất phát từ sự can thiệp của Chính phủ.",
+          "correct": false
+        },
+        {
+          "text": "Độc quyền không liên quan đến cạnh tranh tự do.",
+          "correct": false
+        },
+        {
+          "text": "Độc quyền không ảnh hưởng đến lợi nhuận của nhà tư bản lớn.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vai trò của kinh tế nhà nước trong cơ cấu kinh tế nhiều thành phần ở nước ta hiện nay như thế nào?",
+      "explanation": "Kinh tế nhà nước đóng vai trò chủ đạo, thúc đẩy tăng trưởng và quản lý nền kinh tế.",
+      "answers": [
+        {
+          "text": "Kinh tế nhà nước đóng vai trò chủ đạo, thúc đẩy tăng trưởng và quản lý nền kinh tế.",
+          "correct": true
+        },
+        {
+          "text": "Kinh tế nhà nước không quản lý nền kinh tế.",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế nhà nước chỉ đầu tư vào ngành kinh tế phụ trợ.",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế nhà nước không đóng vai trò chủ đạo.",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "dap-an-cau-hoi-tu-luan-ktct-2-diem",
+  "kind": "essay",
+  "url": "https://www.studocu.vn/vn/quiz/dap-an-cau-hoi-tu-luan-ktct-2-diem/1028807"
+}

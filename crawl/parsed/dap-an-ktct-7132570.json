@@ -1,0 +1,296 @@
+{
+  "id": 7132570,
+  "title": "Quiz: Đáp Án Kiểm Tra Kinh Tế Chính Trị - KTCT 2023",
+  "totalQuestions": 13,
+  "questions": [
+    {
+      "question": "Khi năng suất lao động và cường độ lao động đều giảm, giá trị của đơn vị hàng hóa sẽ như thế nào?",
+      "explanation": "Khi năng suất lao động giảm, giá trị của đơn vị hàng hóa sẽ tăng, vì vậy khi cả hai đều giảm, giá trị hàng hóa cũng tăng.",
+      "answers": [
+        {
+          "text": "Giá trị của đơn vị hàng hóa giảm xuống",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của đơn vị hàng hóa tăng lên",
+          "correct": true
+        },
+        {
+          "text": "Giá trị của đơn vị hàng hóa tăng nhưng không đáng kể",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của đơn vị hàng hóa không thay đổi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản bất biến bao gồm những thành phần nào?",
+      "explanation": "Tư bản bất biến bao gồm tư bản bất biến lưu động và tư bản bất biến cố định, không chỉ là tư bản cố định.",
+      "answers": [
+        {
+          "text": "Chỉ có tư bản lưu động",
+          "correct": false
+        },
+        {
+          "text": "Chỉ có tư bản cố định",
+          "correct": false
+        },
+        {
+          "text": "Tư bản bất biến và tư bản chủ nghĩa",
+          "correct": false
+        },
+        {
+          "text": "Tư bản bất biến lưu động và tư bản bất biến cố định",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Quy luật giá trị có tác động như thế nào trong sản xuất hàng hóa?",
+      "explanation": "Quy luật giá trị là quy luật kinh tế cơ bản, tác động trong cả sản xuất hàng hóa giản đơn và sản xuất hàng hóa tư bản chủ nghĩa.",
+      "answers": [
+        {
+          "text": "Không có tác động nào trong sản xuất hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Chỉ tác động trong sản xuất hàng hóa tư bản chủ nghĩa",
+          "correct": false
+        },
+        {
+          "text": "Tác động trong cả sản xuất hàng hóa giản đơn và sản xuất hàng hóa tư bản chủ nghĩa",
+          "correct": true
+        },
+        {
+          "text": "Chỉ tác động trong sản xuất hàng hóa giản đơn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong lưu thông, trao đổi không ngang giá có làm thay đổi tổng số giá trị của hàng hóa không?",
+      "explanation": "Trao đổi không ngang giá chỉ làm thay đổi giá trị của mỗi bên, tổng số giá trị không thay đổi.",
+      "answers": [
+        {
+          "text": "Có, tổng số giá trị sẽ tăng lên",
+          "correct": false
+        },
+        {
+          "text": "Không, nhưng giá trị của hàng hóa sẽ tăng lên",
+          "correct": false
+        },
+        {
+          "text": "Có, tổng số giá trị sẽ giảm xuống",
+          "correct": false
+        },
+        {
+          "text": "Không, tổng số giá trị không thay đổi",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tiền có thể trở thành tư bản khi nào?",
+      "explanation": "Tiền chỉ trở thành tư bản khi được sử dụng để bóc lột lao động của người khác, không chỉ đơn thuần là tiền thông thường.",
+      "answers": [
+        {
+          "text": "Khi nó được sử dụng để mua hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Khi nó được lưu thông trong thị trường hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Khi nó được đầu tư vào sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Khi được sử dụng để bóc lột lao động của người khác",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tiền được coi là tư bản khi nào?",
+      "explanation": "Tiền được coi là tư bản khi nó vận động theo công thức lưu thông tư bản chủ nghĩa, không phải theo công thức lưu thông hàng hóa.",
+      "answers": [
+        {
+          "text": "Khi nó được chuyển đổi thành dịch vụ.",
+          "correct": false
+        },
+        {
+          "text": "Khi nó vận động theo công thức lưu thông tư bản chủ nghĩa.",
+          "correct": true
+        },
+        {
+          "text": "Khi nó được sử dụng để mua hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Khi nó được tích lũy trong ngân hàng.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Để rút ngắn thời gian lao động, cần phải làm gì?",
+      "explanation": "Để rút ngắn thời gian lao động, cần phải tăng năng suất lao động và giảm giá trị của một đơn vị hàng hóa, không phải tăng thời gian lao động.",
+      "answers": [
+        {
+          "text": "Giảm số lượng công nhân trong sản xuất.",
+          "correct": false
+        },
+        {
+          "text": "Tăng thời gian lao động để sản xuất nhiều hàng hóa hơn.",
+          "correct": false
+        },
+        {
+          "text": "Tăng năng suất lao động và giảm giá trị của một đơn vị hàng hóa.",
+          "correct": true
+        },
+        {
+          "text": "Tăng giá trị sức lao động của công nhân.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao tiền không phải là tư bản theo công thức lưu thông hàng hóa?",
+      "explanation": "Tiền không phải là tư bản theo công thức lưu thông hàng hóa vì nó chỉ là phương tiện trao đổi, không tạo ra giá trị gia tăng như tư bản.",
+      "answers": [
+        {
+          "text": "Vì nó không có giá trị thực tế.",
+          "correct": false
+        },
+        {
+          "text": "Vì nó chỉ là phương tiện trao đổi, không tạo ra giá trị gia tăng.",
+          "correct": true
+        },
+        {
+          "text": "Vì nó không thể được sử dụng để đầu tư.",
+          "correct": false
+        },
+        {
+          "text": "Vì nó không thể chuyển đổi thành hàng hóa.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị sức lao động có quan hệ như thế nào với thời gian lao động tất yếu?",
+      "explanation": "Giá trị sức lao động có quan hệ trực tiếp với thời gian lao động tất yếu; để rút ngắn thời gian lao động, cần giảm giá trị sức lao động.",
+      "answers": [
+        {
+          "text": "Có quan hệ gián tiếp; chỉ cần tăng sản lượng hàng hóa là đủ.",
+          "correct": false
+        },
+        {
+          "text": "Có quan hệ ngược; tăng giá trị sức lao động sẽ rút ngắn thời gian lao động.",
+          "correct": false
+        },
+        {
+          "text": "Không có quan hệ; thời gian lao động không ảnh hưởng đến giá trị sức lao động.",
+          "correct": false
+        },
+        {
+          "text": "Có quan hệ trực tiếp; giảm giá trị sức lao động giúp rút ngắn thời gian lao động.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản sẽ tăng lên khi nào?",
+      "explanation": "Cấu tạo hữu cơ của tư bản tăng lên khi giá cả tư liệu sản xuất tăng nhanh hơn giá cả sức lao động, nhưng điều này chỉ đúng khi cấu tạo kỹ thuật không đổi.",
+      "answers": [
+        {
+          "text": "Khi tư bản khả biến tăng nhanh hơn tư bản bất biến",
+          "correct": false
+        },
+        {
+          "text": "Khi giá cả sức lao động tăng nhanh hơn giá cả tư liệu sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Khi giá cả tư liệu sản xuất tăng nhanh hơn giá cả sức lao động",
+          "correct": true
+        },
+        {
+          "text": "Khi cấu tạo kỹ thuật không thay đổi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản phụ thuộc vào yếu tố nào?",
+      "explanation": "Cấu tạo hữu cơ của tư bản phụ thuộc vào cấu tạo kỹ thuật, vì sự thay đổi của cấu tạo kỹ thuật sẽ ảnh hưởng đến cấu tạo hữu cơ.",
+      "answers": [
+        {
+          "text": "Phân công lao động xã hội",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Giá cả sức lao động",
+          "correct": false
+        },
+        {
+          "text": "Cấu tạo kỹ thuật",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Điều gì xảy ra với cấu tạo hữu cơ của tư bản khi có tiến bộ khoa học và công nghệ?",
+      "explanation": "Cấu tạo hữu cơ của tư bản không ngừng biến đổi theo hướng tăng lên do tác động của tiến bộ khoa học và công nghệ.",
+      "answers": [
+        {
+          "text": "Nó giảm xuống",
+          "correct": false
+        },
+        {
+          "text": "Nó chỉ tăng trong một số trường hợp",
+          "correct": false
+        },
+        {
+          "text": "Nó tăng lên",
+          "correct": true
+        },
+        {
+          "text": "Nó không thay đổi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản được định nghĩa như thế nào trong văn bản này?",
+      "explanation": "Tư bản được định nghĩa là giá trị mang lại giá trị thặng dư, không chỉ là quan hệ sản xuất xã hội giữa những người sản xuất.",
+      "answers": [
+        {
+          "text": "Là quan hệ sản xuất xã hội giữa những người sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Là giá trị mang lại giá trị thặng dư",
+          "correct": true
+        },
+        {
+          "text": "Là một loại tài sản vật chất",
+          "correct": false
+        },
+        {
+          "text": "Là giá trị không thay đổi theo thời gian",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "dap-an-ktct",
+  "kind": "essay",
+  "url": "https://www.studocu.vn/vn/quiz/dap-an-ktct/7132570"
+}

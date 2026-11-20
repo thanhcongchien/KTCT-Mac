@@ -1,0 +1,450 @@
+{
+  "id": 7342253,
+  "title": "Quiz: TỔNG HỢP NỘI DUNG ÔN TẬP KTCMLN - Kinh tế chính trị Mác-Lênin",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "Đối tượng nghiên cứu của Kinh tế chính trị Mác Lênin chủ yếu là gì?",
+      "explanation": "Đối tượng nghiên cứu của Kinh tế chính trị Mác Lênin là các quan hệ xã hội của sản xuất và trao đổi, không phải là kỹ thuật sản xuất hay trao đổi.",
+      "answers": [
+        {
+          "text": "Chỉ số kinh tế vĩ mô",
+          "correct": false
+        },
+        {
+          "text": "Kỹ thuật sản xuất và trao đổi",
+          "correct": false
+        },
+        {
+          "text": "Thị trường tài chính quốc tế",
+          "correct": false
+        },
+        {
+          "text": "Các quan hệ xã hội của sản xuất và trao đổi",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Quy luật kinh tế có đặc điểm gì theo Kinh tế chính trị Mác Lênin?",
+      "explanation": "Quy luật kinh tế tồn tại khách quan, không phụ thuộc vào ý chí con người, và không thể bị thủ tiêu, chỉ có thể được nhận thức và vận dụng.",
+      "answers": [
+        {
+          "text": "Luôn luôn thay đổi theo thời gian",
+          "correct": false
+        },
+        {
+          "text": "Chỉ áp dụng cho các nước phát triển",
+          "correct": false
+        },
+        {
+          "text": "Tồn tại khách quan, không phụ thuộc vào ý chí con người",
+          "correct": true
+        },
+        {
+          "text": "Có thể bị thay đổi theo ý muốn con người",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều kiện nào là cần thiết để sản xuất hàng hóa ra đời?",
+      "explanation": "Để sản xuất hàng hóa ra đời, cần có sự phân công lao động xã hội và sự tách biệt tương đối về mặt kinh tế giữa những người sản xuất hàng hóa.",
+      "answers": [
+        {
+          "text": "Sự phát triển công nghệ sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Chỉ cần một người sản xuất hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Sự đồng nhất về mặt kinh tế giữa người sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Phân công lao động xã hội và tách biệt kinh tế giữa người sản xuất",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Hàng hóa có những thuộc tính nào theo Kinh tế chính trị Mác Lênin?",
+      "explanation": "Hàng hóa có hai thuộc tính chính: là sản phẩm của lao động và thỏa mãn nhu cầu, đồng thời được trao đổi buôn bán.",
+      "answers": [
+        {
+          "text": "Là sản phẩm tự nhiên không cần lao động",
+          "correct": false
+        },
+        {
+          "text": "Chỉ là sản phẩm của lao động",
+          "correct": false
+        },
+        {
+          "text": "Chỉ được trao đổi buôn bán mà không thỏa mãn nhu cầu",
+          "correct": false
+        },
+        {
+          "text": "Là sản phẩm của lao động và thỏa mãn nhu cầu",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá trị sử dụng hàng hóa được định nghĩa là gì?",
+      "explanation": "Giá trị sử dụng hàng hóa là công dụng của vật phẩm để thỏa mãn nhu cầu nào đó của con người, thể hiện tính hữu ích của hàng hóa.",
+      "answers": [
+        {
+          "text": "Giá trị trao đổi của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Công dụng của vật phẩm để thỏa mãn nhu cầu con người",
+          "correct": true
+        },
+        {
+          "text": "Mối quan hệ giữa các giá trị sử dụng khác nhau",
+          "correct": false
+        },
+        {
+          "text": "Giá trị lao động xã hội kết tinh trong hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị trao đổi của hàng hóa được xác định như thế nào?",
+      "explanation": "Giá trị trao đổi là một quan hệ tỉ lệ về lượng, thể hiện sự trao đổi giữa các giá trị sử dụng khác nhau, được đo bằng số lượng hàng hóa tương ứng.",
+      "answers": [
+        {
+          "text": "Là quan hệ tỉ lệ về lượng giữa các giá trị sử dụng khác nhau",
+          "correct": true
+        },
+        {
+          "text": "Là giá trị lao động xã hội kết tinh trong hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Là giá trị sử dụng của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Là thuộc tính tự nhiên của hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tính chất 2 mặt của lao động sản xuất hàng hóa bao gồm những gì?",
+      "explanation": "Tính chất 2 mặt của lao động sản xuất hàng hóa bao gồm lao động cụ thể và lao động trừu tượng, thể hiện cả tính chất tư nhân và xã hội của lao động.",
+      "answers": [
+        {
+          "text": "Lao động cá nhân và lao động tập thể",
+          "correct": false
+        },
+        {
+          "text": "Lao động chuyên môn và lao động không chuyên môn",
+          "correct": false
+        },
+        {
+          "text": "Lao động cụ thể và lao động trừu tượng",
+          "correct": true
+        },
+        {
+          "text": "Lao động thủ công và lao động công nghiệp",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị hàng hóa được quyết định bởi yếu tố nào?",
+      "explanation": "Giá trị hàng hóa được quyết định bởi lao động xã hội kết tinh trong hàng hóa, phản ánh hao phí lao động cần thiết để sản xuất hàng hóa đó.",
+      "answers": [
+        {
+          "text": "Tính chất tự nhiên của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Lao động xã hội kết tinh trong hàng hóa",
+          "correct": true
+        },
+        {
+          "text": "Giá trị trao đổi của hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Thời gian lao động xã hội cần thiết là gì?",
+      "explanation": "Thời gian lao động xã hội cần thiết là thời gian cần để sản xuất ra một giá trị sử dụng trong điều kiện bình thường với trình độ và cường độ lao động trung bình.",
+      "answers": [
+        {
+          "text": "Thời gian tối thiểu để sản xuất hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Thời gian cần để sản xuất ra một giá trị sử dụng trong điều kiện bình thường.",
+          "correct": true
+        },
+        {
+          "text": "Thời gian cần để hoàn thành một sản phẩm cụ thể.",
+          "correct": false
+        },
+        {
+          "text": "Thời gian lao động của một cá nhân trong một ngày.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Nhân tố nào không ảnh hưởng đến lượng giá trị của hàng hóa?",
+      "explanation": "Lượng giá trị của hàng hóa không bị ảnh hưởng bởi cường độ lao động, mà chỉ bị ảnh hưởng bởi năng suất lao động và tính chất lao động.",
+      "answers": [
+        {
+          "text": "Thời gian sản xuất hàng hóa.",
+          "correct": true
+        },
+        {
+          "text": "Tính chất giản đơn hay phức tạp của lao động.",
+          "correct": false
+        },
+        {
+          "text": "Cường độ lao động.",
+          "correct": false
+        },
+        {
+          "text": "Năng suất lao động.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tiền tệ được coi là gì trong nền kinh tế hàng hóa?",
+      "explanation": "Tiền tệ là một loại hàng hóa đặc biệt, là yếu tố ngang giá chung cho thế giới hàng hóa và biểu hiện giá trị của hàng hóa.",
+      "answers": [
+        {
+          "text": "Một loại dịch vụ.",
+          "correct": false
+        },
+        {
+          "text": "Một hình thức đầu tư.",
+          "correct": false
+        },
+        {
+          "text": "Một loại hàng hóa đặc biệt.",
+          "correct": true
+        },
+        {
+          "text": "Một công cụ sản xuất.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Chức năng nào không phải của tiền tệ?",
+      "explanation": "Tiền tệ có nhiều chức năng như thước đo giá trị, phương tiện lưu thông, nhưng không phải là phương tiện sản xuất.",
+      "answers": [
+        {
+          "text": "Thước đo giá trị.",
+          "correct": false
+        },
+        {
+          "text": "Phương tiện sản xuất.",
+          "correct": true
+        },
+        {
+          "text": "Phương tiện thanh toán.",
+          "correct": false
+        },
+        {
+          "text": "Phương tiện cất giữ.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tiền được sử dụng như thế nào trong lưu thông hàng hóa?",
+      "explanation": "Tiền là phương tiện lưu thông và thanh toán, giúp thực hiện các giao dịch hàng hóa và dịch vụ trong nền kinh tế.",
+      "answers": [
+        {
+          "text": "Tiền không có vai trò trong giao dịch hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Tiền chỉ dùng để mua sắm hàng hóa xa xỉ",
+          "correct": false
+        },
+        {
+          "text": "Tiền là phương tiện lưu thông và thanh toán",
+          "correct": true
+        },
+        {
+          "text": "Tiền chỉ được sử dụng để tiết kiệm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá cả hàng hóa được quyết định bởi những yếu tố nào?",
+      "explanation": "Giá cả hàng hóa được quyết định bởi giá trị hàng hóa, giá trị của tiền và quan hệ cung cầu trên thị trường.",
+      "answers": [
+        {
+          "text": "Chỉ bởi giá trị hàng hóa và giá trị của tiền",
+          "correct": false
+        },
+        {
+          "text": "Chỉ bởi quan hệ cung cầu và giá trị của tiền",
+          "correct": false
+        },
+        {
+          "text": "Chỉ bởi giá trị hàng hóa và nhu cầu thị trường",
+          "correct": false
+        },
+        {
+          "text": "Giá trị hàng hóa, giá trị của tiền, quan hệ cung cầu",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Thị trường có vai trò gì trong nền kinh tế?",
+      "explanation": "Thị trường thực hiện giá trị hàng hóa, kích thích sáng tạo và gắn kết nền kinh tế quốc gia với nền kinh tế thế giới.",
+      "answers": [
+        {
+          "text": "Thị trường chỉ là nơi mua bán hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Thị trường chỉ phục vụ cho các doanh nghiệp lớn",
+          "correct": false
+        },
+        {
+          "text": "Thị trường thực hiện giá trị hàng hóa và gắn kết nền kinh tế",
+          "correct": true
+        },
+        {
+          "text": "Thị trường không ảnh hưởng đến sự phát triển kinh tế",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cơ chế thị trường được định nghĩa như thế nào?",
+      "explanation": "Cơ chế thị trường là hệ thống các quan hệ tự điều chỉnh theo yêu cầu của các quy luật kinh tế, giúp phân bổ nguồn lực hiệu quả.",
+      "answers": [
+        {
+          "text": "Hệ thống các quan hệ tự điều chỉnh theo quy luật kinh tế",
+          "correct": true
+        },
+        {
+          "text": "Một cách thức phân phối hàng hóa ngẫu nhiên",
+          "correct": false
+        },
+        {
+          "text": "Một hệ thống quản lý tập trung của nhà nước",
+          "correct": false
+        },
+        {
+          "text": "Một phương pháp kiểm soát giá cả hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của hàng hóa có những hình thức thể hiện nào?",
+      "explanation": "Giá trị hàng hóa thể hiện qua giá trị trao đổi (hiện vật) và giá cả (tiền).",
+      "answers": [
+        {
+          "text": "Giá trị trao đổi và giá trị sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Chỉ có giá cả",
+          "correct": false
+        },
+        {
+          "text": "Giá trị trao đổi và giá cả",
+          "correct": true
+        },
+        {
+          "text": "Chỉ có giá trị trao đổi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đặc trưng nào không phải của nền kinh tế thị trường?",
+      "explanation": "Nền kinh tế thị trường có bốn đặc trưng chính, trong đó không có đặc trưng nào là sự độc quyền của một chủ thể kinh tế. Đặc trưng này không phản ánh tính đa dạng và bình đẳng trong nền kinh tế.",
+      "answers": [
+        {
+          "text": "Nền kinh tế mở với thị trường quốc tế",
+          "correct": false
+        },
+        {
+          "text": "Sự đa dạng của các chủ thể kinh tế",
+          "correct": true
+        },
+        {
+          "text": "Sự độc quyền của một chủ thể kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Giá cả hình thành theo nguyên tắc thị trường",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vai trò nào không thuộc về các chủ thể tham gia thị trường?",
+      "explanation": "Các chủ thể tham gia thị trường bao gồm người sản xuất, người tiêu dùng, các chủ thể trung gian và nhà nước. Vai trò của họ là rất quan trọng trong việc điều tiết và phân bổ nguồn lực.",
+      "answers": [
+        {
+          "text": "Các chủ thể trung gian",
+          "correct": false
+        },
+        {
+          "text": "Người tiêu dùng",
+          "correct": false
+        },
+        {
+          "text": "Người sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Người quản lý nhà nước",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Quy luật giá trị yêu cầu sản xuất và trao đổi hàng hóa phải dựa trên cơ sở nào?",
+      "explanation": "Quy luật giá trị yêu cầu sản xuất và trao đổi hàng hóa phải dựa trên hao phí lao động xã hội cần thiết, điều này đảm bảo sự công bằng trong giao dịch và sản xuất.",
+      "answers": [
+        {
+          "text": "Giá cả thị trường tự do",
+          "correct": false
+        },
+        {
+          "text": "Sự can thiệp của nhà nước",
+          "correct": false
+        },
+        {
+          "text": "Hao phí lao động xã hội cần thiết",
+          "correct": true
+        },
+        {
+          "text": "Lợi nhuận tối đa của người sản xuất",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "noi-dung-on-tap-ktctmln-summary-kinh-te-chinh-tri-mac-lenin",
+  "kind": "mcq",
+  "url": "https://www.studocu.vn/vn/quiz/noi-dung-on-tap-ktctmln-summary-kinh-te-chinh-tri-mac-lenin/7342253"
+}

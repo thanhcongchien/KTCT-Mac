@@ -1,0 +1,450 @@
+{
+  "id": 6924749,
+  "title": "Quiz: Kinh tế chính trị - Bài tập ôn đúng sai và giải bài tập 2023",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "Sản phẩm nào không nhất thiết phải có hai thuộc tính là giá trị sử dụng và giá trị?",
+      "explanation": "Không phải sản phẩm nào cũng đáp ứng đủ hai thuộc tính này, chỉ những hàng hóa mới có giá trị và giá trị sử dụng.",
+      "answers": [
+        {
+          "text": "Sản phẩm công nghệ cao",
+          "correct": false
+        },
+        {
+          "text": "Sản phẩm không phải hàng hóa",
+          "correct": true
+        },
+        {
+          "text": "Sản phẩm tiêu dùng hàng ngày",
+          "correct": false
+        },
+        {
+          "text": "Sản phẩm nông nghiệp",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khi cường độ lao động và thời gian lao động đều tăng, giá trị của một đơn vị hàng hóa sẽ như thế nào?",
+      "explanation": "Giá trị của hàng hóa không đổi vì cường độ lao động chỉ ảnh hưởng đến tổng giá trị và sản lượng, không phải giá trị đơn vị.",
+      "answers": [
+        {
+          "text": "Tăng lên",
+          "correct": false
+        },
+        {
+          "text": "Giảm xuống",
+          "correct": false
+        },
+        {
+          "text": "Không đổi",
+          "correct": true
+        },
+        {
+          "text": "Biến động không xác định",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mục đích của lưu thông hàng hóa giản đơn là gì?",
+      "explanation": "Mục đích chính là tối ưu hóa quá trình vận chuyển, từ đó tăng giá trị thặng dư.",
+      "answers": [
+        {
+          "text": "Giá trị sử dụng",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư",
+          "correct": true
+        },
+        {
+          "text": "Chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Giá trị hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khi thời gian lao động và thời gian tất yếu đều tăng một lượng bằng nhau, tỷ suất giá trị thặng dư sẽ như thế nào?",
+      "explanation": "Tỷ suất giá trị thặng dư sẽ giảm vì cả hai thời gian đều tăng, không làm tăng giá trị thặng dư.",
+      "answers": [
+        {
+          "text": "Tăng",
+          "correct": false
+        },
+        {
+          "text": "Giảm",
+          "correct": true
+        },
+        {
+          "text": "Biến động không xác định",
+          "correct": false
+        },
+        {
+          "text": "Không thay đổi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khi tốc độ chu chuyển của tư bản tăng lên, điều gì xảy ra với giá trị thặng dư?",
+      "explanation": "Giá trị thặng dư thu được trong một chu kỳ sẽ tăng lên khi tốc độ chu chuyển của tư bản tăng.",
+      "answers": [
+        {
+          "text": "Biến động không xác định",
+          "correct": false
+        },
+        {
+          "text": "Tăng lên",
+          "correct": true
+        },
+        {
+          "text": "Không thay đổi",
+          "correct": false
+        },
+        {
+          "text": "Giảm xuống",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Biểu hiện hoạt động của quy luật giá trị trong giai đoạn tự do cạnh tranh là gì?",
+      "explanation": "Quy luật giá cả độc quyền thể hiện sự không thoát ly khỏi giá trị, cho thấy sự tương tác giữa giá cả và giá trị.",
+      "answers": [
+        {
+          "text": "Quy luật giá trị sử dụng",
+          "correct": false
+        },
+        {
+          "text": "Quy luật cung cầu",
+          "correct": false
+        },
+        {
+          "text": "Quy luật cạnh tranh hoàn hảo",
+          "correct": false
+        },
+        {
+          "text": "Quy luật giá cả độc quyền",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Nền kinh tế độc lập tự chủ có đặc điểm gì?",
+      "explanation": "Nền kinh tế này không bị phụ thuộc vào nước ngoài, đảm bảo chủ quyền và lợi ích quốc gia.",
+      "answers": [
+        {
+          "text": "Phụ thuộc vào các tổ chức quốc tế",
+          "correct": false
+        },
+        {
+          "text": "Chỉ phát triển nội địa",
+          "correct": false
+        },
+        {
+          "text": "Phụ thuộc vào nước ngoài",
+          "correct": false
+        },
+        {
+          "text": "Không bị phụ thuộc vào nước ngoài",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá trị trao đổi có phải là thuộc tính của hàng hóa không?",
+      "explanation": "Giá trị trao đổi không phải là thuộc tính của hàng hóa, mà thuộc về giá trị sử dụng và giá trị. Điều này có nghĩa là giá trị trao đổi chỉ xuất hiện khi hàng hóa được trao đổi.",
+      "answers": [
+        {
+          "text": "Không, giá trị trao đổi chỉ là một khái niệm lý thuyết.",
+          "correct": false
+        },
+        {
+          "text": "Có, giá trị trao đổi không phải là thuộc tính của hàng hóa.",
+          "correct": true
+        },
+        {
+          "text": "Có, giá trị trao đổi là thuộc tính chính của hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Không, giá trị trao đổi là thuộc tính của hàng hóa.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khi hao phí lao động của người sản xuất lớn hơn hao phí lao động xã hội cần thiết, giá trị thị trường của hàng hóa sẽ như thế nào?",
+      "explanation": "Nếu hao phí lao động của người sản xuất lớn hơn hao phí lao động xã hội cần thiết, giá trị thị trường của hàng hóa sẽ cao hơn, vì giá trị được xác định bởi hao phí lao động.",
+      "answers": [
+        {
+          "text": "Giá trị thị trường sẽ thấp hơn.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thị trường sẽ cao hơn.",
+          "correct": true
+        },
+        {
+          "text": "Giá trị thị trường sẽ bằng giá trị sử dụng.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thị trường sẽ không thay đổi.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tích tụ và tập trung tư bản có ảnh hưởng như thế nào đến quy mô của tư bản xã hội?",
+      "explanation": "Tích tụ và tập trung tư bản chỉ làm tăng quy mô của tư bản cá biệt, không làm thay đổi quy mô của tư bản xã hội, vì tư bản xã hội không đổi trong quá trình này.",
+      "answers": [
+        {
+          "text": "Không ảnh hưởng đến quy mô của tư bản xã hội.",
+          "correct": true
+        },
+        {
+          "text": "Tăng quy mô của tư bản xã hội nhưng không của tư bản cá biệt.",
+          "correct": false
+        },
+        {
+          "text": "Tăng quy mô của cả tư bản cá biệt và tư bản xã hội.",
+          "correct": false
+        },
+        {
+          "text": "Giảm quy mô của tư bản xã hội.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong nền kinh tế thị trường, lợi ích kinh tế của các chủ thể kinh tế được xác định như thế nào?",
+      "explanation": "Lợi ích kinh tế của các chủ thể kinh tế được xác định gắn với nhu cầu của họ, vì họ thường tìm kiếm cách đáp ứng nhu cầu của khách hàng để tạo ra lợi nhuận.",
+      "answers": [
+        {
+          "text": "Gắn với nhu cầu của họ.",
+          "correct": true
+        },
+        {
+          "text": "Được xác định bởi quy luật giá trị.",
+          "correct": false
+        },
+        {
+          "text": "Chỉ phụ thuộc vào chi phí sản xuất.",
+          "correct": false
+        },
+        {
+          "text": "Không liên quan đến nhu cầu của thị trường.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khấu hao kho tàng, nhà xưởng và các công trình khác phục vụ cho sản xuất mỗi năm là bao nhiêu?",
+      "explanation": "Khấu hao kho tàng, nhà xưởng và các công trình khác phục vụ cho sản xuất mỗi năm là 2,5 triệu USD, phản ánh chi phí sử dụng tài sản cố định trong sản xuất.",
+      "answers": [
+        {
+          "text": "3 triệu USD",
+          "correct": false
+        },
+        {
+          "text": "1 triệu USD",
+          "correct": false
+        },
+        {
+          "text": "0,5 triệu USD",
+          "correct": false
+        },
+        {
+          "text": "2,5 triệu USD",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của hàng hóa được quyết định bởi yếu tố nào?",
+      "explanation": "Giá trị của hàng hóa được quyết định dựa trên hao phí sức lao động, không phải chỉ bởi giá trị sử dụng của hàng hóa.",
+      "answers": [
+        {
+          "text": "Chi phí nguyên liệu",
+          "correct": false
+        },
+        {
+          "text": "Hao phí sức lao động",
+          "correct": true
+        },
+        {
+          "text": "Giá cả thị trường",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khi thời gian lao động thặng dư tăng và thời gian lao động tất yếu giảm, điều gì sẽ xảy ra với tỷ suất giá trị thặng dư?",
+      "explanation": "Nếu thời gian lao động thặng dư tăng và thời gian lao động tất yếu giảm một lượng như nhau, tỷ suất giá trị thặng dư sẽ không thay đổi, không phải tăng.",
+      "answers": [
+        {
+          "text": "Tỷ suất giá trị thặng dư không thay đổi",
+          "correct": true
+        },
+        {
+          "text": "Tỷ suất giá trị thặng dư tăng",
+          "correct": false
+        },
+        {
+          "text": "Tỷ suất giá trị thặng dư gấp đôi",
+          "correct": false
+        },
+        {
+          "text": "Tỷ suất giá trị thặng dư giảm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao tư bản cho vay được coi là hàng hóa đặc biệt?",
+      "explanation": "Tư bản cho vay được coi là hàng hóa đặc biệt vì nó không chỉ là một sản phẩm vật chất mà còn liên quan đến quyền sử dụng và lãi suất, tạo ra giá trị trong quan hệ kinh tế.",
+      "answers": [
+        {
+          "text": "Vì nó là hàng hóa vật chất thông thường",
+          "correct": false
+        },
+        {
+          "text": "Vì nó không có giá trị thực tế",
+          "correct": false
+        },
+        {
+          "text": "Vì nó liên quan đến quyền sử dụng và lãi suất",
+          "correct": true
+        },
+        {
+          "text": "Vì nó chỉ được sử dụng trong một số ngành nhất định",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư mà doanh nghiệp sử dụng để tiêu dùng là bao nhiêu trong năm 2022?",
+      "explanation": "Doanh nghiệp sử dụng 80 tỷ đồng giá trị thặng dư để tiêu dùng, phản ánh quyết định tài chính của doanh nghiệp trong việc phân bổ lợi nhuận.",
+      "answers": [
+        {
+          "text": "100 tỷ đồng",
+          "correct": false
+        },
+        {
+          "text": "500 tỷ đồng",
+          "correct": false
+        },
+        {
+          "text": "80 tỷ đồng",
+          "correct": true
+        },
+        {
+          "text": "50 tỷ đồng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị tư bản bắt biển của doanh nghiệp trong năm 2023 được xác định như thế nào?",
+      "explanation": "Giá trị tư bản bắt biển là phần vốn đầu tư không thay đổi trong quá trình sản xuất, phản ánh sự ổn định của doanh nghiệp.",
+      "answers": [
+        {
+          "text": "Là chi phí sản xuất hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Là tổng doanh thu của doanh nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Là phần lợi nhuận thu được từ sản phẩm",
+          "correct": false
+        },
+        {
+          "text": "Là phần vốn đầu tư không thay đổi trong sản xuất",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tư bản khả biến của doanh nghiệp trong năm 2023 có ý nghĩa gì?",
+      "explanation": "Tư bản khả biến là phần vốn có thể thay đổi, thường liên quan đến chi phí lao động và ảnh hưởng đến lợi nhuận doanh nghiệp.",
+      "answers": [
+        {
+          "text": "Là doanh thu từ bán hàng",
+          "correct": false
+        },
+        {
+          "text": "Là tổng tài sản cố định của doanh nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Là chi phí cố định không thay đổi",
+          "correct": false
+        },
+        {
+          "text": "Là phần vốn có thể thay đổi trong sản xuất",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tỷ suất lợi nhuận trong năm 2023 được tính như thế nào?",
+      "explanation": "Tỷ suất lợi nhuận được tính bằng cách chia lợi nhuận cho tổng vốn đầu tư, phản ánh hiệu quả sử dụng vốn của doanh nghiệp.",
+      "answers": [
+        {
+          "text": "Bằng cách tính tổng doanh thu trừ chi phí",
+          "correct": false
+        },
+        {
+          "text": "Bằng cách cộng tất cả chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Bằng cách nhân tỷ suất giá trị thặng dư với doanh thu",
+          "correct": false
+        },
+        {
+          "text": "Bằng cách chia lợi nhuận cho tổng vốn đầu tư",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tỷ suất giá trị thặng dư trong năm 2023 có vai trò gì đối với doanh nghiệp?",
+      "explanation": "Tỷ suất giá trị thặng dư cho biết mức độ sinh lời của vốn đầu tư, ảnh hưởng trực tiếp đến khả năng tái đầu tư và phát triển của doanh nghiệp.",
+      "answers": [
+        {
+          "text": "Cho biết tổng chi phí sản xuất của doanh nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Cho biết mức độ sinh lời của vốn đầu tư",
+          "correct": true
+        },
+        {
+          "text": "Cho biết giá thành sản phẩm",
+          "correct": false
+        },
+        {
+          "text": "Cho biết số lượng sản phẩm bán ra",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "kinh-te-chinh-tri-bai-tap-on-dung-sai",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/kinh-te-chinh-tri-bai-tap-on-dung-sai/6924749"
+}

@@ -1,0 +1,450 @@
+{
+  "id": 7780244,
+  "title": "Quiz: ĐÚNG SAI KINH TẾ CHÍNH TRỊ - ĐÁNH GIÁ TRẮC NGHIỆM (MÔN KTCT)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "Giá trị trao đổi là gì trong bối cảnh hàng hóa?",
+      "explanation": "Giá trị trao đổi là hình thức biểu hiện bên ngoài của giá trị hàng hóa, không phải là giá trị hàng hóa chính nó.",
+      "answers": [
+        {
+          "text": "Giá cả hàng hóa trên thị trường",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thực tế của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Hình thức biểu hiện bên ngoài của giá trị hàng hóa",
+          "correct": true
+        },
+        {
+          "text": "Chi phí sản xuất hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Loại lao động nào có tính hai mặt?",
+      "explanation": "Chỉ lao động sản xuất hàng hóa mới có tính hai mặt là lao động cụ thể và lao động trừu tượng.",
+      "answers": [
+        {
+          "text": "Lao động tự do",
+          "correct": false
+        },
+        {
+          "text": "Lao động dịch vụ",
+          "correct": false
+        },
+        {
+          "text": "Lao động sản xuất hàng hóa",
+          "correct": true
+        },
+        {
+          "text": "Lao động trí thức",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sự biến động của giá trị hàng hóa trên thị trường chịu tác động bởi yếu tố nào?",
+      "explanation": "Giá trị hàng hóa chịu tác động bởi thời gian lao động cần thiết, không phải quan hệ cung cầu.",
+      "answers": [
+        {
+          "text": "Thời gian lao động cần thiết",
+          "correct": true
+        },
+        {
+          "text": "Chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Giá cả hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Quan hệ cung cầu",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đất đai có giá trị khi nào?",
+      "explanation": "Đất đai chỉ có giá cả do độ khan hiếm, không có giá trị nếu không tính đến chi phí lao động.",
+      "answers": [
+        {
+          "text": "Có giá trị khi được sử dụng",
+          "correct": false
+        },
+        {
+          "text": "Có giá trị ngay cả khi không khai phá",
+          "correct": false
+        },
+        {
+          "text": "Chỉ có giá cả do độ khan hiếm",
+          "correct": true
+        },
+        {
+          "text": "Có giá trị khi có lao động khai thác",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Dấu hiệu đặc trưng của cơ chế thị trường là gì?",
+      "explanation": "Dấu hiệu đặc trưng là sự hình thành giá cả tự do, không phải sự ra đời của tiền tệ.",
+      "answers": [
+        {
+          "text": "Sự cạnh tranh giữa các nhà sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Sự hình thành giá cả tự do",
+          "correct": true
+        },
+        {
+          "text": "Sự gia tăng sản xuất hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Sự ra đời của tiền tệ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá cả hàng hóa biểu hiện điều gì?",
+      "explanation": "Giá cả hàng hóa là biểu hiện bằng tiền của giá trị, mà giá trị là lao động xã hội cần thiết để sản xuất ra hàng hóa.",
+      "answers": [
+        {
+          "text": "Giá trị trao đổi của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Số lượng lao động xã hội cần thiết để sản xuất",
+          "correct": true
+        },
+        {
+          "text": "Giá trị thực tế của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khi năng suất lao động giảm, giá trị đơn vị hàng hóa sẽ như thế nào?",
+      "explanation": "Giá trị đơn vị hàng hóa tăng khi năng suất lao động giảm, vì giá trị tỉ lệ nghịch với năng suất lao động.",
+      "answers": [
+        {
+          "text": "Giảm",
+          "correct": false
+        },
+        {
+          "text": "Tăng",
+          "correct": true
+        },
+        {
+          "text": "Không thay đổi",
+          "correct": false
+        },
+        {
+          "text": "Tăng theo cường độ lao động",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tiền ký hiệu giá trị chưa sử dụng có thể thực hiện chức năng gì?",
+      "explanation": "Tiền ký hiệu chưa đủ giá trị không thể thực hiện chức năng cất giữ.",
+      "answers": [
+        {
+          "text": "Có thể cất giữ như tiền tiết kiệm",
+          "correct": false
+        },
+        {
+          "text": "Không thể thực hiện chức năng cất giữ",
+          "correct": true
+        },
+        {
+          "text": "Có thể đầu tư vào hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Có thể sử dụng để mua hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quy luật giá trị tác động trong bối cảnh nào?",
+      "explanation": "Quy luật giá trị tác động trong cả sản xuất hàng hóa giản đơn và sản xuất hàng hóa tư bản chủ.",
+      "answers": [
+        {
+          "text": "Chỉ trong sản xuất hàng hóa tư bản chủ",
+          "correct": false
+        },
+        {
+          "text": "Chỉ trong sản xuất hàng hóa giản đơn",
+          "correct": false
+        },
+        {
+          "text": "Cả sản xuất hàng hóa giản đơn và tư bản chủ",
+          "correct": true
+        },
+        {
+          "text": "Trong sản xuất dịch vụ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sản xuất và tiêu dùng hàng hóa dịch vụ diễn ra như thế nào?",
+      "explanation": "Sản xuất và tiêu dùng hàng hóa dịch vụ diễn ra đồng thời, không tách rời.",
+      "answers": [
+        {
+          "text": "Diễn ra đồng thời",
+          "correct": true
+        },
+        {
+          "text": "Diễn ra tách rời nhau",
+          "correct": false
+        },
+        {
+          "text": "Chỉ diễn ra khi có nhu cầu",
+          "correct": false
+        },
+        {
+          "text": "Chỉ diễn ra trong một thời điểm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của hàng hoá được quyết định bởi yếu tố nào?",
+      "explanation": "Giá trị hàng hoá phụ thuộc vào thời gian lao động xã hội cần thiết, không phải thời gian lao động của người sản xuất.",
+      "answers": [
+        {
+          "text": "Giá cả thị trường của hàng hoá",
+          "correct": false
+        },
+        {
+          "text": "Thời gian lao động xã hội cần thiết",
+          "correct": true
+        },
+        {
+          "text": "Thời gian lao động của người sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng của hàng hoá",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trước khi có tiền tệ, hàng hoá có thể được trao đổi bằng cách nào?",
+      "explanation": "Trước khi có tiền tệ, hàng hoá có thể được trao đổi thông qua việc sử dụng vật ngang giá, không cần tiền.",
+      "answers": [
+        {
+          "text": "Sử dụng vật ngang giá",
+          "correct": true
+        },
+        {
+          "text": "Sử dụng dịch vụ để trao đổi",
+          "correct": false
+        },
+        {
+          "text": "Trao đổi trực tiếp mà không cần vật ngang giá",
+          "correct": false
+        },
+        {
+          "text": "Chỉ có thể trao đổi bằng tiền",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao không phải mọi lao động đều là lao động trừu tượng?",
+      "explanation": "Chỉ lao động của người sản xuất mới là lao động trừu tượng vì nó tạo ra giá trị hàng hoá, trong khi mọi lao động đều cụ thể.",
+      "answers": [
+        {
+          "text": "Lao động trừu tượng không có giá trị sử dụng",
+          "correct": false
+        },
+        {
+          "text": "Tất cả lao động đều là lao động trừu tượng",
+          "correct": false
+        },
+        {
+          "text": "Lao động không tạo ra giá trị sử dụng là lao động trừu tượng",
+          "correct": false
+        },
+        {
+          "text": "Chỉ lao động của người sản xuất mới là lao động trừu tượng",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Khi nào giá trị của tiền tệ không được xác định bởi hao phí lao động xã hội?",
+      "explanation": "Giá trị của tiền ký hiệu không được xác định bởi hao phí lao động xã hội cần thiết để sản xuất ra chúng.",
+      "answers": [
+        {
+          "text": "Tiền điện tử",
+          "correct": false
+        },
+        {
+          "text": "Tiền hàng hoá",
+          "correct": false
+        },
+        {
+          "text": "Tiền mặt thông thường",
+          "correct": false
+        },
+        {
+          "text": "Tiền ký hiệu",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Khi tổng giá cả hàng hóa bán chịu tăng và tổng giá cả hàng hóa đến kỳ thanh toán giảm, điều gì xảy ra với khối lượng tiền cần thiết cho lưu thông?",
+      "explanation": "Khối lượng tiền cần thiết cho lưu thông sẽ giảm do sự thay đổi tương ứng của tổng giá cả hàng hóa.",
+      "answers": [
+        {
+          "text": "Khối lượng tiền cần thiết tăng gấp đôi",
+          "correct": false
+        },
+        {
+          "text": "Khối lượng tiền không thay đổi",
+          "correct": false
+        },
+        {
+          "text": "Khối lượng tiền cần thiết cho lưu thông tăng",
+          "correct": false
+        },
+        {
+          "text": "Khối lượng tiền cần thiết cho lưu thông giảm",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá cả của hàng hóa được quyết định bởi yếu tố nào trong thị trường?",
+      "explanation": "Giá cả hàng hóa chủ yếu do giá trị quyết định, trong khi quan hệ cung cầu chỉ tác động đến giá cả.",
+      "answers": [
+        {
+          "text": "Giá trị của hàng hóa",
+          "correct": true
+        },
+        {
+          "text": "Sự cạnh tranh giữa các nhà sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Nhu cầu của người tiêu dùng",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị sử dụng của hàng hóa được thể hiện ở lĩnh vực nào?",
+      "explanation": "Giá trị sử dụng của hàng hóa được thể hiện trong sản xuất và trao đổi, đáp ứng nhu cầu và mang lại lợi ích cho người tiêu dùng.",
+      "answers": [
+        {
+          "text": "Sản xuất và trao đổi hàng hóa",
+          "correct": true
+        },
+        {
+          "text": "Chỉ trong sản xuất hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Trong quảng cáo và tiếp thị hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Chỉ trong trao đổi hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mục đích chính của người sản xuất trong kinh tế hàng hóa là gì?",
+      "explanation": "Mục đích của người sản xuất là tối đa hóa lợi ích trong tiêu dùng bằng cách sản xuất hàng hóa đáp ứng nhu cầu của người tiêu dùng.",
+      "answers": [
+        {
+          "text": "Tăng cường quảng bá sản phẩm",
+          "correct": false
+        },
+        {
+          "text": "Tối đa hóa lợi ích trong tiêu dùng",
+          "correct": true
+        },
+        {
+          "text": "Tăng cường cạnh tranh trên thị trường",
+          "correct": false
+        },
+        {
+          "text": "Giảm chi phí sản xuất hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều nào sau đây là đúng về quan hệ trao đổi hàng hóa?",
+      "explanation": "Quan hệ trao đổi hàng hóa thực chất là hai lượng giá trị bằng nhau, không phải hai lượng hàng hóa bằng nhau.",
+      "answers": [
+        {
+          "text": "Hai lượng giá trị bằng nhau",
+          "correct": true
+        },
+        {
+          "text": "Hai lượng hàng hóa bằng nhau",
+          "correct": false
+        },
+        {
+          "text": "Giá trị hàng hóa không liên quan đến trao đổi",
+          "correct": false
+        },
+        {
+          "text": "Chỉ có một lượng hàng hóa tham gia trao đổi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quy luật giá trị hoạt động như thế nào trong nền kinh tế thị trường tư bản chủ nghĩa?",
+      "explanation": "Quy luật giá trị hoạt động trong tất cả các giai đoạn của nền kinh tế thị trường tư bản chủ nghĩa nhưng có biểu hiện khác nhau.",
+      "answers": [
+        {
+          "text": "Chỉ hoạt động khi có sự can thiệp của nhà nước",
+          "correct": false
+        },
+        {
+          "text": "Không hoạt động trong nền kinh tế thị trường",
+          "correct": false
+        },
+        {
+          "text": "Chỉ hoạt động trong giai đoạn đầu của nền kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Hoạt động trong tất cả các giai đoạn nhưng biểu hiện khác nhau",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "slug": "dung-sai-kinh-te-chinh-tri",
+  "kind": "truefalse",
+  "url": "https://www.studocu.vn/vn/quiz/dung-sai-kinh-te-chinh-tri/7780244"
+}

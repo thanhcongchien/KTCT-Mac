@@ -1,0 +1,142 @@
+{
+  "id": 1562658,
+  "title": "Quiz: Công Thức Kinh Tế Chính Trị: Từ Ký Hiệu Đến Giá Trị Thặng Dư",
+  "totalQuestions": 6,
+  "questions": [
+    {
+      "question": "Tỷ suất giá trị thặng dư được tính như thế nào?",
+      "explanation": "Tỷ suất giá trị thặng dư được tính bằng công thức nào?",
+      "answers": [
+        {
+          "text": "a",
+          "correct": false
+        },
+        {
+          "text": "c",
+          "correct": true
+        },
+        {
+          "text": "e",
+          "correct": false
+        },
+        {
+          "text": "b",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Chi phí sản xuất tư bản chủ nghĩa được tính như thế nào khi tư bản cố định chuyển hết giá trị vào sản phẩm?",
+      "explanation": "Chi phí sản xuất tư bản chủ nghĩa được tính theo công thức k c v khi tư bản cố định chuyển hết giá trị vào sản phẩm.",
+      "answers": [
+        {
+          "text": "GCSX k p",
+          "correct": false
+        },
+        {
+          "text": "G khc1 c2 v m",
+          "correct": false
+        },
+        {
+          "text": "k khc1 c2 v",
+          "correct": false
+        },
+        {
+          "text": "k c v",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tỷ suất lợi nhuận được tính như thế nào?",
+      "explanation": "Tỷ suất lợi nhuận được tính theo công thức nào?",
+      "answers": [
+        {
+          "text": "p",
+          "correct": false
+        },
+        {
+          "text": "f",
+          "correct": false
+        },
+        {
+          "text": "e",
+          "correct": true
+        },
+        {
+          "text": "p p",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Lợi nhuận được tính như thế nào?",
+      "explanation": "Lợi nhuận được tính theo công thức nào?",
+      "answers": [
+        {
+          "text": "pdn",
+          "correct": true
+        },
+        {
+          "text": "p p i",
+          "correct": false
+        },
+        {
+          "text": "p",
+          "correct": false
+        },
+        {
+          "text": "p p",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản cố định cấu tạo hữu cơ của tư bản là gì?",
+      "explanation": "Tư bản cố định cấu tạo hữu cơ của tư bản là c1.",
+      "answers": [
+        {
+          "text": "c1",
+          "correct": true
+        },
+        {
+          "text": "c2",
+          "correct": false
+        },
+        {
+          "text": "c",
+          "correct": false
+        },
+        {
+          "text": "v",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Thời gian lao động thặng dư được ký hiệu như thế nào?",
+      "explanation": "Thời gian lao động thặng dư được ký hiệu là t.",
+      "answers": [
+        {
+          "text": "t",
+          "correct": true
+        },
+        {
+          "text": "v",
+          "correct": false
+        },
+        {
+          "text": "c",
+          "correct": false
+        },
+        {
+          "text": "m",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "cong-thuc-kinh-te-chinh-tri",
+  "kind": "mcq",
+  "url": "https://www.studocu.vn/vn/quiz/cong-thuc-kinh-te-chinh-tri/1562658"
+}

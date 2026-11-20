@@ -1,0 +1,450 @@
+{
+  "id": 6912756,
+  "title": "Quiz: Câu hỏi ĐÚNG SAI - Ôn tập CK môn Kinh tế chính trị",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "Tiền thông thường và tiền là tư bản khác nhau về mục đích vận động. Điều này đúng hay sai?",
+      "explanation": "Tiền thông thường là phương tiện lưu thông, trong khi tiền tư bản vận động theo công thức khác, cho thấy sự khác biệt trong mục đích sử dụng.",
+      "answers": [
+        {
+          "text": "Chỉ đúng một phần",
+          "correct": false
+        },
+        {
+          "text": "Không liên quan",
+          "correct": false
+        },
+        {
+          "text": "Đúng",
+          "correct": true
+        },
+        {
+          "text": "Sai",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản được phân chia thành tư bản bất biến và tư bản khả biến dựa vào điều gì?",
+      "explanation": "Phân chia này dựa vào vai trò và chức năng của các bộ phận tư bản trong việc tạo ra giá trị thặng dư, không phải chỉ dựa vào hình thức tồn tại.",
+      "answers": [
+        {
+          "text": "Vai trò và chức năng của các bộ phận tư bản",
+          "correct": true
+        },
+        {
+          "text": "Thời gian sử dụng của tư bản",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của tư bản",
+          "correct": false
+        },
+        {
+          "text": "Hình thức tồn tại của tư bản",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản lưu động bao gồm những gì?",
+      "explanation": "Tư bản lưu động bao gồm nguyên liệu, công cụ lao động nhỏ và tư bản khả biến, không chỉ đơn thuần là tất cả tư liệu sản xuất và tiền lương.",
+      "answers": [
+        {
+          "text": "Chỉ tiền lương",
+          "correct": false
+        },
+        {
+          "text": "Tất cả tư liệu sản xuất và tiền lương",
+          "correct": false
+        },
+        {
+          "text": "Chỉ nguyên liệu",
+          "correct": false
+        },
+        {
+          "text": "Nguyên liệu, công cụ lao động nhỏ và tư bản khả biến",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Để giảm hao mòn vô hình, cần phải làm gì?",
+      "explanation": "Cần tăng cường sử dụng tư bản cố định, vì hao mòn vô hình liên quan đến giá trị, không phải giảm hao mòn hữu hình.",
+      "answers": [
+        {
+          "text": "Giảm sử dụng tư bản cố định",
+          "correct": false
+        },
+        {
+          "text": "Giảm hao mòn hữu hình",
+          "correct": false
+        },
+        {
+          "text": "Tăng đầu tư vào tư bản lưu động",
+          "correct": false
+        },
+        {
+          "text": "Tăng cường sử dụng tư bản cố định",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Mọi tiền tệ đều là tư bản nếu chúng vận động theo công thức lưu thông hàng hóa. Điều này đúng hay sai?",
+      "explanation": "Tiền chỉ trở thành tư bản khi nó tạo ra giá trị và giá trị tăng thêm thông qua việc bóc lột sức lao động, không chỉ đơn thuần là vận động theo công thức lưu thông.",
+      "answers": [
+        {
+          "text": "Không liên quan đến tư bản",
+          "correct": false
+        },
+        {
+          "text": "Chỉ đúng trong một số trường hợp",
+          "correct": false
+        },
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản sẽ tăng lên khi nào?",
+      "explanation": "Cấu tạo hữu cơ của tư bản thay đổi khi cấu tạo kỹ thuật của tư bản thay đổi, không chỉ do giá cả nguyên liệu và sức lao động.",
+      "answers": [
+        {
+          "text": "Khi giá cả nguyên liệu tăng nhanh hơn giá cả sức lao động",
+          "correct": false
+        },
+        {
+          "text": "Khi cấu tạo kỹ thuật của tư bản thay đổi",
+          "correct": true
+        },
+        {
+          "text": "Khi giá cả sức lao động giảm",
+          "correct": false
+        },
+        {
+          "text": "Khi không có sự thay đổi nào",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hao mòn tư bản cố định bao gồm những gì?",
+      "explanation": "Hao mòn tư bản cố định bao gồm cả hao mòn hữu hình và vô hình, phản ánh sự giảm giá trị và giá trị sử dụng của tư bản.",
+      "answers": [
+        {
+          "text": "Cả hao mòn hữu hình và vô hình",
+          "correct": true
+        },
+        {
+          "text": "Chỉ hao mòn hữu hình",
+          "correct": false
+        },
+        {
+          "text": "Không có hao mòn nào",
+          "correct": false
+        },
+        {
+          "text": "Chỉ hao mòn vô hình",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị lao động so với giá trị thặng dư có mối quan hệ như thế nào?",
+      "explanation": "Giá trị lao động không phải là hàng hóa, do đó không có giá trị, trong khi giá trị thặng dư là giá trị tạo ra từ lao động. Giá trị lao động luôn nhỏ hơn hoặc bằng giá trị thặng dư.",
+      "answers": [
+        {
+          "text": "Giá trị lao động luôn nhỏ hơn hoặc bằng giá trị thặng dư",
+          "correct": true
+        },
+        {
+          "text": "Giá trị lao động và giá trị thặng dư bằng nhau",
+          "correct": false
+        },
+        {
+          "text": "Giá trị lao động không liên quan đến giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Giá trị lao động luôn lớn hơn giá trị thặng dư",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao sức lao động được coi là hàng hóa đặc biệt?",
+      "explanation": "Sức lao động là hàng hóa đặc biệt vì nó được sử dụng làm vật ngang giá chung cho tất cả các loại hàng hóa khác, không giống như các hàng hóa thông thường khác.",
+      "answers": [
+        {
+          "text": "Vì nó được sử dụng làm vật ngang giá chung cho tất cả các loại hàng hóa khác",
+          "correct": true
+        },
+        {
+          "text": "Vì nó có giá trị cố định không thay đổi",
+          "correct": false
+        },
+        {
+          "text": "Vì nó chỉ có thể được sử dụng trong một số ngành nghề nhất định",
+          "correct": false
+        },
+        {
+          "text": "Vì nó không thể được mua bán trên thị trường",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mục đích của lưu thông hàng hóa trong nền kinh tế thị trường tư bản chủ nghĩa là gì?",
+      "explanation": "Mục đích của lưu thông hàng hóa là hướng về tiêu dùng và giá trị sử dụng, không phải là giá trị thặng dư, điều này phản ánh bản chất của nền kinh tế thị trường.",
+      "answers": [
+        {
+          "text": "Tạo ra giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Hướng về tiêu dùng và giá trị sử dụng",
+          "correct": true
+        },
+        {
+          "text": "Tăng cường sản xuất hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Giảm giá thành sản phẩm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản khả biến khác với tư bản lưu động ở điểm nào?",
+      "explanation": "Tư bản khả biến là một phần của tư bản lưu động, nhưng chúng khác nhau về phương thức chu chuyển giá trị trong quá trình sản xuất.",
+      "answers": [
+        {
+          "text": "Tư bản khả biến không tham gia vào sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Chúng khác nhau về phương thức chu chuyển giá trị",
+          "correct": true
+        },
+        {
+          "text": "Chúng có cùng giá trị và không khác nhau",
+          "correct": false
+        },
+        {
+          "text": "Tư bản lưu động không tạo ra giá trị thặng dư",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều kiện nào cần thiết để sức lao động trở thành hàng hóa?",
+      "explanation": "Sức lao động chỉ trở thành hàng hóa khi người lao động tự do về thân thể và không có các tư liệu sản xuất cần thiết để làm việc.",
+      "answers": [
+        {
+          "text": "Người lao động phải có kinh nghiệm làm việc lâu năm",
+          "correct": false
+        },
+        {
+          "text": "Người lao động phải làm việc trong một công ty lớn",
+          "correct": false
+        },
+        {
+          "text": "Người lao động phải có bằng cấp cao",
+          "correct": false
+        },
+        {
+          "text": "Người lao động tự do về thân thể và không có các tư liệu sản xuất cần thiết",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư siêu ngạch được sản xuất bằng cách nào?",
+      "explanation": "Giá trị thặng dư siêu ngạch được sản xuất bằng cách giảm bớt thời gian lao động cần thiết của công nhân, tạo ra giá trị thặng dư cao hơn so với giá trị thặng dư bình thường.",
+      "answers": [
+        {
+          "text": "Tăng năng suất lao động xã hội",
+          "correct": false
+        },
+        {
+          "text": "Giảm chi phí sản xuất nguyên liệu",
+          "correct": false
+        },
+        {
+          "text": "Giảm bớt thời gian lao động cần thiết của công nhân",
+          "correct": true
+        },
+        {
+          "text": "Tăng cường thời gian lao động của công nhân",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điểm giống nhau giữa lợi nhuận và giá trị thặng dư là gì?",
+      "explanation": "Cả lợi nhuận và giá trị thặng dư đều có chung bản chất là kết quả của lao động bị bóc lột, phản ánh sự khai thác sức lao động của công nhân.",
+      "answers": [
+        {
+          "text": "Kết quả lao động bị bóc lột",
+          "correct": true
+        },
+        {
+          "text": "Kết quả lao động được trả công",
+          "correct": false
+        },
+        {
+          "text": "Kết quả của sản xuất hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Kết quả của đầu tư tư bản",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tỷ suất lợi nhuận phản ánh điều gì?",
+      "explanation": "Tỷ suất lợi nhuận phản ánh hiệu quả của việc đầu tư tư bản, cho thấy mức độ sinh lời từ vốn đầu tư.",
+      "answers": [
+        {
+          "text": "Giá trị của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Thời gian chu chuyển tư bản",
+          "correct": false
+        },
+        {
+          "text": "Hiệu quả của việc đầu tư tư bản",
+          "correct": true
+        },
+        {
+          "text": "Chi phí sản xuất hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong chủ nghĩa tư bản tự do cạnh tranh, khi tỷ suất lợi nhuận bình quân hình thành, giá cả hàng hóa sẽ vận động như thế nào?",
+      "explanation": "Giá cả hàng hóa sẽ vận động xoay quanh giá trị của nó, phản ánh sự cân bằng giữa cung và cầu trong thị trường.",
+      "answers": [
+        {
+          "text": "Luôn thấp hơn giá trị của nó",
+          "correct": false
+        },
+        {
+          "text": "Vận động xoay quanh giá trị của nó",
+          "correct": true
+        },
+        {
+          "text": "Không thay đổi theo giá trị",
+          "correct": false
+        },
+        {
+          "text": "Luôn cao hơn giá trị của nó",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao tỷ suất giá trị thặng dư không chỉ phụ thuộc vào giá trị thặng dư?",
+      "explanation": "Tỷ suất giá trị thặng dư phụ thuộc vào cả giá trị thặng dư và giá trị sức lao động, vì vậy không thể chỉ dựa vào một yếu tố.",
+      "answers": [
+        {
+          "text": "Bởi vì nó chỉ phụ thuộc vào thời gian lao động thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Bởi vì nó không liên quan đến tư bản khả biến",
+          "correct": false
+        },
+        {
+          "text": "Bởi vì nó cũng phụ thuộc vào giá trị sức lao động",
+          "correct": true
+        },
+        {
+          "text": "Bởi vì nó chỉ phụ thuộc vào giá trị hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong sản xuất TBCN, người lao động làm thuê có bị chiếm đoạt toàn bộ giá trị mà họ tạo ra không?",
+      "explanation": "Người lao động làm thuê được trả công và chỉ bị chiếm đoạt giá trị thặng dư, không phải toàn bộ giá trị họ tạo ra.",
+      "answers": [
+        {
+          "text": "Không, họ không bị chiếm đoạt gì cả",
+          "correct": false
+        },
+        {
+          "text": "Có, nhưng chỉ một phần giá trị họ tạo ra",
+          "correct": false
+        },
+        {
+          "text": "Không, họ chỉ bị chiếm đoạt giá trị thặng dư",
+          "correct": true
+        },
+        {
+          "text": "Có, họ bị chiếm đoạt toàn bộ giá trị",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tích tụ và tập trung tư bản có ảnh hưởng như thế nào đến quy mô tư bản xã hội?",
+      "explanation": "Tích tụ tư bản làm tăng quy mô tư bản xã hội, trong khi tập trung tư bản không làm tăng quy mô này, điều này cho thấy sự khác biệt giữa hai khái niệm.",
+      "answers": [
+        {
+          "text": "Cả hai đều không ảnh hưởng đến quy mô tư bản xã hội",
+          "correct": false
+        },
+        {
+          "text": "Tập trung làm tăng quy mô, tích tụ không làm tăng quy mô",
+          "correct": false
+        },
+        {
+          "text": "Cả hai đều làm tăng quy mô tư bản xã hội",
+          "correct": false
+        },
+        {
+          "text": "Tích tụ làm tăng quy mô, tập trung không làm tăng quy mô",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tại sao tuần hoàn tư bản không chỉ là sự vận động liên tục của tư bản qua các chu kỳ?",
+      "explanation": "Tuần hoàn tư bản là sự vận động qua 3 giai đoạn với 3 hình thái, không chỉ đơn thuần là chuyển từ chu kỳ này sang chu kỳ khác.",
+      "answers": [
+        {
+          "text": "Bởi vì nó có 3 giai đoạn và 3 hình thái khác nhau",
+          "correct": true
+        },
+        {
+          "text": "Bởi vì nó chỉ là một chu kỳ đơn giản",
+          "correct": false
+        },
+        {
+          "text": "Bởi vì nó chỉ diễn ra một lần",
+          "correct": false
+        },
+        {
+          "text": "Bởi vì nó không liên quan đến chu chuyển tư bản",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "cau-hoi-dung-sai-on-tap-ck",
+  "kind": "truefalse",
+  "url": "https://www.studocu.vn/vn/quiz/cau-hoi-dung-sai-on-tap-ck/6912756"
+}

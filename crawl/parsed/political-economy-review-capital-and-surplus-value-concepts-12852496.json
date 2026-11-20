@@ -1,0 +1,230 @@
+{
+  "id": 12852496,
+  "title": "Quiz: Political Economy Review: Capital and Surplus Value Concepts",
+  "totalQuestions": 10,
+  "questions": [
+    {
+      "question": "What is the primary difference between ordinary money and capital in their movement purpose?",
+      "explanation": "Ordinary money circulates to facilitate exchange (H T H), but capital circulates to generate surplus value (T H T').",
+      "answers": [
+        {
+          "text": "Both ordinary money and capital move according to the same circulation formula H T H.",
+          "correct": false
+        },
+        {
+          "text": "Ordinary money creates surplus value by exploiting labor, unlike capital, which is only a medium of exchange.",
+          "correct": false
+        },
+        {
+          "text": "Ordinary money serves as a medium of circulation following the formula H T H, while capital moves according to the formula T H T'.",
+          "correct": true
+        },
+        {
+          "text": "Capital serves as a medium of circulation and follows the formula H T H, while ordinary money produces surplus value.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Why are capital divided into constant capital and variable capital?",
+      "explanation": "Constant capital (means of production) is necessary for production but doesn't create surplus value; variable capital (labor power) is the source of surplus value.",
+      "answers": [
+        {
+          "text": "Because constant capital creates surplus value and variable capital does not.",
+          "correct": false
+        },
+        {
+          "text": "Because constant capital is money only, and variable capital is machinery only.",
+          "correct": false
+        },
+        {
+          "text": "Because they have different roles: constant capital is necessary for production, while variable capital creates surplus value.",
+          "correct": true
+        },
+        {
+          "text": "Because constant capital changes form during circulation and variable capital remains fixed.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Which of the following correctly describes circulating capital?",
+      "explanation": "Circulating capital includes variable capital (wages) and raw materials that are fully consumed in production cycles.",
+      "answers": [
+        {
+          "text": "Circulating capital includes all means of production and fixed capital.",
+          "correct": false
+        },
+        {
+          "text": "Circulating capital consists only of fixed machinery and equipment.",
+          "correct": false
+        },
+        {
+          "text": "Circulating capital is only money capital and does not include labor wages.",
+          "correct": false
+        },
+        {
+          "text": "Circulating capital includes wages, raw materials, and variable capital components involved in production.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "What effect does technological progress have on capital composition and unemployment?",
+      "explanation": "Advancement in technology raises constant capital's share relative to variable capital, reducing labor demand and increasing unemployment.",
+      "answers": [
+        {
+          "text": "Technological progress reduces the technical composition of capital and increases employment.",
+          "correct": false
+        },
+        {
+          "text": "Technological progress increases the technical composition of capital, reduces variable capital, and leads to higher unemployment.",
+          "correct": true
+        },
+        {
+          "text": "Technological progress increases variable capital and has no effect on unemployment.",
+          "correct": false
+        },
+        {
+          "text": "Technological progress decreases fixed capital and lowers unemployment.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Why is labor power considered a special commodity?",
+      "explanation": "Labor power is unique as it produces value exceeding its own, due to its dual nature and social conditions embedded in its value.",
+      "answers": [
+        {
+          "text": "Because its value is always equal to the wages paid and cannot create surplus value.",
+          "correct": false
+        },
+        {
+          "text": "Because it is identical to all other commodities and has a fixed use value only.",
+          "correct": false
+        },
+        {
+          "text": "Because when used, it creates new value greater than its own, including factors like historical and mental elements.",
+          "correct": true
+        },
+        {
+          "text": "Because labor power has no exchange value and is not a commodity in capitalist production.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "How is surplus value produced in capitalist production?",
+      "explanation": "Surplus value arises because workers work beyond the time necessary to reproduce their wages, producing unpaid labor.",
+      "answers": [
+        {
+          "text": "By having equal amounts of necessary and surplus labor time.",
+          "correct": false
+        },
+        {
+          "text": "By ensuring the time of surplus labor is greater than the time of necessary labor in the working day.",
+          "correct": true
+        },
+        {
+          "text": "By reducing working hours below the necessary labor time to create surplus.",
+          "correct": false
+        },
+        {
+          "text": "By increasing the wages paid to workers above their labor value.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between labor productivity and the value of a commodity unit?",
+      "explanation": "Higher productivity reduces socially necessary labor time per unit, lowering its value accordingly.",
+      "answers": [
+        {
+          "text": "They are directly proportional; as productivity increases, value per unit increases.",
+          "correct": false
+        },
+        {
+          "text": "They are inversely proportional; as productivity increases, the value per unit decreases.",
+          "correct": true
+        },
+        {
+          "text": "There is no connection between labor productivity and commodity value.",
+          "correct": false
+        },
+        {
+          "text": "Labor productivity affects only total output but not the value of individual units.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Which statement best describes fixed capital depreciation?",
+      "explanation": "Fixed capital depreciates both physically (wear) and in value during production use.",
+      "answers": [
+        {
+          "text": "Fixed capital does not depreciate as it retains full value indefinitely.",
+          "correct": false
+        },
+        {
+          "text": "It only includes physical wear and tear, not value loss.",
+          "correct": false
+        },
+        {
+          "text": "It includes both physical wear and value depreciation through use.",
+          "correct": true
+        },
+        {
+          "text": "It happens only when fixed capital is sold or replaced.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Why is the right to use land considered a special commodity?",
+      "explanation": "Land use rights have a use and exchange value but do not embody labor-created value, making them special commodities.",
+      "answers": [
+        {
+          "text": "Because it is produced by human labor and has exchange value like ordinary commodities.",
+          "correct": false
+        },
+        {
+          "text": "Because it can be consumed and reproduced like consumer goods.",
+          "correct": false
+        },
+        {
+          "text": "Because it loses value when used and must be replaced frequently.",
+          "correct": false
+        },
+        {
+          "text": "Because it grants exploitation of land with use value and price but lacks value created by labor.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "What happens to capital accumulation under conditions of increasing production concentration?",
+      "explanation": "Accumulation and concentration of capital both lead to growth in the size of individual capital and overall social capital.",
+      "answers": [
+        {
+          "text": "Accumulation reduces scale while concentration has no effect.",
+          "correct": false
+        },
+        {
+          "text": "Neither accumulation nor concentration affects capital scale.",
+          "correct": false
+        },
+        {
+          "text": "Both accumulation and concentration increase the scale of individual and social capital.",
+          "correct": true
+        },
+        {
+          "text": "Concentration increases scale but accumulation reduces it.",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "political-economy-review-capital-and-surplus-value-concepts",
+  "kind": "mcq",
+  "url": "https://www.studocu.vn/vn/quiz/political-economy-review-capital-and-surplus-value-concepts/12852496"
+}

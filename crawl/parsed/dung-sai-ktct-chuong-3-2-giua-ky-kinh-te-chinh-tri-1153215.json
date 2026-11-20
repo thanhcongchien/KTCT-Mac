@@ -1,0 +1,166 @@
+{
+  "id": 1153215,
+  "title": "Quiz: Giữa kỳ KTCT Chương 3: Đúng Sai Phân Tích Câu Hỏi và Đáp Án",
+  "totalQuestions": 10,
+  "questions": [
+    {
+      "question": "Tư bản được phân chia thành tư bản bất biến và tư bản khả biến dựa vào điều gì?",
+      "explanation": "Tư bản được phân chia thành tư bản bất biến và tư bản khả biến dựa vào sự khác nhau của chúng về hình thức tồn tại.",
+      "answers": [
+        {
+          "text": "Sự khác nhau về hình thức tồn tại",
+          "correct": true
+        },
+        {
+          "text": "Sự khác nhau về nguồn gốc",
+          "correct": false
+        },
+        {
+          "text": "Sự khác nhau về mục đích",
+          "correct": false
+        },
+        {
+          "text": "Sự khác nhau về giá trị",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản lưu động bao gồm những yếu tố nào?",
+      "explanation": "Tư bản lưu động bao gồm tiền mua nguyên, nhiên vật liệu và tiền lương.",
+      "answers": [
+        {
+          "text": "Tài sản không đổi",
+          "correct": false
+        },
+        {
+          "text": "Tài sản cố định",
+          "correct": false
+        },
+        {
+          "text": "Tiền mua nguyên, nhiên vật liệu và tiền lương",
+          "correct": true
+        },
+        {
+          "text": "Sản phẩm thành phẩm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Để giảm hao mòn vô hình, cần giảm hao mòn hữu hình của tư bản cố định. Đúng hay Sai?",
+      "explanation": "Để giảm hao mòn vô hình, cần giảm hao mòn hữu hình tư bản cố định.",
+      "answers": [
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mọi tiền tệ đều là tư bản nếu chúng vận động theo công thức lưu thông hàng hóa. Đúng hay Sai?",
+      "explanation": "Mọi tiền tệ đều là tư bản nếu chúng vận động theo công thức lưu thông tư bản chủ nghĩa.",
+      "answers": [
+        {
+          "text": "Đúng",
+          "correct": false
+        },
+        {
+          "text": "Sai",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Để rút ngắn thời gian lao động cần tăng thời gian lao động để làm tăng tổng giá trị hàng hóa được sản xuất ra. Đúng hay Sai?",
+      "explanation": "Muốn rút ngắn thời gian cần thiết cần tăng năng suất lao động (hoặc giảm giá trị sức lao động).",
+      "answers": [
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản cố định chỉ bị hao mòn do quá trình sử dụng. Đúng hay Sai?",
+      "explanation": "Tư bản cố định chỉ bị hao mòn do quá trình sử dụng, cũng như hao mòn vô hình về mặt giá trị do khoa học công nghệ.",
+      "answers": [
+        {
+          "text": "Đúng",
+          "correct": false
+        },
+        {
+          "text": "Sai",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản sẽ tăng lên khi giá cả TLSX tăng nhanh hơn giá cả SLĐ. Đúng hay Sai?",
+      "explanation": "Cấu tạo hữu cơ của tư bản là cấu tạo giá trị của tư bản do cấu tạo kỹ thuật của tư bản quyết định và phản ánh sự biến đổi của cấu tạo kỹ thuật.",
+      "answers": [
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hao mòn tư bản cố định bao gồm cả sự hao mòn về vật chất và giá trị. Đúng hay Sai?",
+      "explanation": "Hao mòn vật chất là hao mòn hữu hình. Hao mòn giá trị là hao mòn vô hình.",
+      "answers": [
+        {
+          "text": "Sai",
+          "correct": false
+        },
+        {
+          "text": "Đúng",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá trị sử dụng đặt biệt của hàng hóa sức lao động được thể hiện khi sử dụng nó tạo ra giá trị mới lớn hơn giá trị của hàng hóa. Đúng hay Sai?",
+      "explanation": "Tạo ra giá trị mới lớn hơn giá trị hàng hoá sức lao động.",
+      "answers": [
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sức lao động là một hàng hóa đặc biệt vì nó được sử dụng làm vật ngang giá chung cho tất cả các loại hàng hóa khác. Đúng hay Sai?",
+      "explanation": "Sức lao động có yếu tố tinh thần và lịch sử, có giá trị sử dụng đặc biệt là trong quá trình sử dụng giá trị của nó không những được bảo tồn mà còn tăng lên.",
+      "answers": [
+        {
+          "text": "Sai",
+          "correct": true
+        },
+        {
+          "text": "Đúng",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "dung-sai-ktct-chuong-3-2-giua-ky-kinh-te-chinh-tri",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/dung-sai-ktct-chuong-3-2-giua-ky-kinh-te-chinh-tri/1153215"
+}

@@ -1,0 +1,186 @@
+{
+  "id": 6285550,
+  "title": "Quiz: Ôn Tập Kinh Tế Chính Trị - Đề Kiểm Tra Chất Lượng Học Tập",
+  "totalQuestions": 8,
+  "questions": [
+    {
+      "question": "Tư bản cố định và tư bản bất biến là giống nhau ở điểm nào sau đây?",
+      "explanation": "Tư bản cố định và tư bản bất biến có những đặc điểm tương đồng trong quá trình sản xuất. Hãy chọn điểm giống nhau giữa hai loại tư bản này.",
+      "answers": [
+        {
+          "text": "Tăng quy mô tư bản xã hội",
+          "correct": false
+        },
+        {
+          "text": "Tăng quy mô tư bản cá biệt",
+          "correct": false
+        },
+        {
+          "text": "Biến đổi về lượng giá trị trong quá trình sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Chuyển dịch giá trị vào sản phẩm mới nhiều lần",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Trong sản xuất hàng hóa, lượng giá trị của một đơn vị hàng hóa phụ thuộc vào điều gì?",
+      "explanation": "Trong quá trình sản xuất hàng hóa, yếu tố nào quyết định lượng giá trị của một đơn vị hàng hóa?",
+      "answers": [
+        {
+          "text": "Số lượng lao động",
+          "correct": false
+        },
+        {
+          "text": "Tổng giá cả hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Cường độ lao động",
+          "correct": false
+        },
+        {
+          "text": "Năng suất lao động",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tư bản bất biến là gì trong quá trình sản xuất?",
+      "explanation": "Định nghĩa về tư bản bất biến trong ngữ cảnh của quá trình sản xuất.",
+      "answers": [
+        {
+          "text": "Tư bản tăng quy mô tư bản xã hội",
+          "correct": false
+        },
+        {
+          "text": "Tư bản tăng quy mô tư bản cá biệt",
+          "correct": false
+        },
+        {
+          "text": "Tư bản chuyển dịch giá trị vào sản phẩm mới nhiều lần",
+          "correct": false
+        },
+        {
+          "text": "Tư bản tồn tại dưới hình thái tư liệu sản xuất giữ nguyên giá trị",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Trong quá trình tuần hoàn, tư bản luôn tồn tại dưới hình thức nào?",
+      "explanation": "Tư bản tồn tại dưới hình thức nào trong quá trình tuần hoàn?",
+      "answers": [
+        {
+          "text": "Tư bản lưu động",
+          "correct": false
+        },
+        {
+          "text": "Tư bản tiền tệ",
+          "correct": true
+        },
+        {
+          "text": "Tư bản đầu tư",
+          "correct": false
+        },
+        {
+          "text": "Tư bản sản xuất",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản có xu hướng nào khi giá cả tư liệu sản xuất tăng nhanh hơn giá cả sức lao động?",
+      "explanation": "Mối quan hệ giữa cấu tạo hữu cơ của tư bản và sự tăng giá cả tư liệu sản xuất so với giá cả sức lao động.",
+      "answers": [
+        {
+          "text": "Tăng lên",
+          "correct": true
+        },
+        {
+          "text": "Phụ thuộc vào cấu tạo kỹ thuật",
+          "correct": false
+        },
+        {
+          "text": "Không thay đổi",
+          "correct": false
+        },
+        {
+          "text": "Giảm xuống",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong sản xuất hàng hóa, giá trị của hàng hóa được xác định bởi điều gì?",
+      "explanation": "Yếu tố nào quyết định giá trị của hàng hóa trong quá trình sản xuất?",
+      "answers": [
+        {
+          "text": "Cường độ lao động",
+          "correct": false
+        },
+        {
+          "text": "Tổng giá cả hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Lao động xã hội cần thiết",
+          "correct": true
+        },
+        {
+          "text": "Số lượng lao động",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản lưu động là gì trong quá trình sản xuất?",
+      "explanation": "Định nghĩa về tư bản lưu động trong ngữ cảnh của quá trình sản xuất.",
+      "answers": [
+        {
+          "text": "Tư bản tăng quy mô tư bản xã hội",
+          "correct": false
+        },
+        {
+          "text": "Tư bản tăng quy mô tư bản cá biệt",
+          "correct": false
+        },
+        {
+          "text": "Tư bản chuyển dịch giá trị vào sản phẩm mới nhiều lần",
+          "correct": false
+        },
+        {
+          "text": "Tư bản tồn tại dưới hình thức tiền tệ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tư bản bất biến và tư bản cố định giống nhau ở điểm nào sau đây?",
+      "explanation": "Tư bản bất biến và tư bản cố định có những đặc điểm tương đồng trong quá trình sản xuất. Hãy chọn điểm giống nhau giữa hai loại tư bản này.",
+      "answers": [
+        {
+          "text": "Không biến đổi về lượng giá trị trong quá trình sản xuất",
+          "correct": true
+        },
+        {
+          "text": "Tăng quy mô tư bản cá biệt",
+          "correct": false
+        },
+        {
+          "text": "Tăng quy mô tư bản xã hội",
+          "correct": false
+        },
+        {
+          "text": "Chuyển dịch giá trị vào sản phẩm mới nhiều lần",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "on-tap-ktct-on-tap",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/on-tap-ktct-on-tap/6285550"
+}

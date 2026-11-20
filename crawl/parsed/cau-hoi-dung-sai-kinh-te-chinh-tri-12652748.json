@@ -1,0 +1,450 @@
+{
+  "id": 12652748,
+  "title": "Quiz: CÂU HỎI ĐÚNG SAI VỀ KINH TẾ CHÍNH TRỊ - TÓM TẮT KIẾN THỨC BÁN HÀNG",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "Yếu tố nào quyết định giá trị thị trường của hàng hóa trong sản xuất hàng hóa?",
+      "explanation": "Giá trị thị trường được xác định bởi hao phí lao động xã hội cần thiết, không phải hao phí lao động cá biệt của người sản xuất.",
+      "answers": [
+        {
+          "text": "Hao phí lao động cá biệt của người sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Hao phí lao động xã hội cần thiết",
+          "correct": true
+        },
+        {
+          "text": "Giá trị sử dụng của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Số lượng hàng hóa được sản xuất",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Lao động trừu tượng và lao động cụ thể là hai mặt của loại lao động nào?",
+      "explanation": "Lao động trừu tượng và lao động cụ thể là hai mặt của lao động sản xuất hàng hóa, không phải của bất kỳ lao động nào.",
+      "answers": [
+        {
+          "text": "Lao động sản xuất hàng hóa",
+          "correct": true
+        },
+        {
+          "text": "Bất kỳ lao động nào",
+          "correct": false
+        },
+        {
+          "text": "Lao động giản đơn",
+          "correct": false
+        },
+        {
+          "text": "Lao động phức tạp",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì xảy ra với giá trị của một đơn vị hàng hóa khi cường độ lao động và thời gian lao động đều tăng, các yếu tố khác không đổi?",
+      "explanation": "Khi cả cường độ và thời gian lao động tăng, số lượng sản phẩm tăng tương ứng, giữ cho giá trị trên một đơn vị không đổi.",
+      "answers": [
+        {
+          "text": "Giá trị của một đơn vị hàng hóa không đổi",
+          "correct": true
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa biến động ngẫu nhiên",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa giảm",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa tăng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì làm cho tiền (vàng) trở thành một loại hàng hóa đặc biệt?",
+      "explanation": "Tiền là hàng hóa đặc biệt vì nó được dùng làm vật ngang giá chung, không phải do hao phí lao động để sản xuất ra nó.",
+      "answers": [
+        {
+          "text": "Nó được dùng làm vật ngang giá chung",
+          "correct": true
+        },
+        {
+          "text": "Giá trị của nó do hao phí lao động xã hội cần thiết quyết định",
+          "correct": false
+        },
+        {
+          "text": "Nó có giá trị sử dụng cao",
+          "correct": false
+        },
+        {
+          "text": "Nó khan hiếm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quan hệ cung cầu ảnh hưởng đến yếu tố nào của hàng hóa?",
+      "explanation": "Quan hệ cung cầu tác động đến giá cả, trong khi giá trị hàng hóa được quyết định bởi hao phí lao động xã hội cần thiết.",
+      "answers": [
+        {
+          "text": "Giá trị",
+          "correct": false
+        },
+        {
+          "text": "Không ảnh hưởng đến yếu tố nào",
+          "correct": false
+        },
+        {
+          "text": "Giá cả",
+          "correct": true
+        },
+        {
+          "text": "Cả giá trị và giá cả",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì xảy ra với tỷ suất giá trị thặng dư khi thời gian lao động tất yếu và thời gian lao động tăng một lượng bằng nhau?",
+      "explanation": "Khi thời gian lao động tất yếu và thời gian lao động tăng một lượng bằng nhau, tỷ suất giá trị thặng dư sẽ giảm vì t tăng và m không đổi.",
+      "answers": [
+        {
+          "text": "Tỷ suất giá trị thặng dư tăng gấp đôi",
+          "correct": false
+        },
+        {
+          "text": "Tỷ suất giá trị thặng dư giảm",
+          "correct": true
+        },
+        {
+          "text": "Tỷ suất giá trị thặng dư không đổi",
+          "correct": false
+        },
+        {
+          "text": "Tỷ suất giá trị thặng dư tăng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Yếu tố nào làm tăng quy mô của tư bản cá biệt trên cơ sở tích lũy tư bản?",
+      "explanation": "Chỉ có tích tụ tư bản mới làm tăng quy mô của tư bản cá biệt trên cơ sở tích lũy tư bản.",
+      "answers": [
+        {
+          "text": "Không có yếu tố nào",
+          "correct": false
+        },
+        {
+          "text": "Cả tích tụ và tập trung tư bản",
+          "correct": false
+        },
+        {
+          "text": "Tích tụ tư bản",
+          "correct": true
+        },
+        {
+          "text": "Tập trung tư bản",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều kiện để nhà tư bản thu được giá trị thặng dư siêu ngạch là gì?",
+      "explanation": "Nhà tư bản phải có năng suất lao động cá biệt lớn hơn năng suất lao động xã hội để thu được giá trị thặng dư siêu ngạch.",
+      "answers": [
+        {
+          "text": "Năng suất lao động cá biệt không liên quan đến năng suất lao động xã hội",
+          "correct": false
+        },
+        {
+          "text": "Năng suất lao động cá biệt lớn hơn năng suất lao động xã hội",
+          "correct": true
+        },
+        {
+          "text": "Năng suất lao động cá biệt nhỏ hơn năng suất lao động xã hội",
+          "correct": false
+        },
+        {
+          "text": "Năng suất lao động cá biệt bằng năng suất lao động xã hội",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cơ sở của chính sách kinh tế là gì?",
+      "explanation": "Cơ sở của chính sách kinh tế là dựa trên cơ sở vận dụng các quy luật của kinh tế.",
+      "answers": [
+        {
+          "text": "Quy luật kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Giá trị hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Vận dụng các quy luật của kinh tế",
+          "correct": true
+        },
+        {
+          "text": "Quan hệ kinh tế",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong trao đổi hàng hóa, yếu tố nào được biểu hiện?",
+      "explanation": "Trong trao đổi hàng hóa, chỉ có giá trị được biểu hiện trong trao đổi còn giá trị sử dụng của hàng hóa được biểu hiện trong tiêu dùng.",
+      "answers": [
+        {
+          "text": "Không có yếu tố nào",
+          "correct": false
+        },
+        {
+          "text": "Giá trị",
+          "correct": true
+        },
+        {
+          "text": "Cả giá trị sử dụng và giá trị",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì quyết định giá cả của đất đai?",
+      "explanation": "Giá cả của đất đai do tính khan hiếm của đất đai trong 1 không gian nhất định quyết định.",
+      "answers": [
+        {
+          "text": "Giá trị của đất đai",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng của đất đai",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất đất đai",
+          "correct": false
+        },
+        {
+          "text": "Tính khan hiếm của đất đai",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Yếu tố nào sau đây là dấu hiệu đặc trưng của cơ chế thị trường?",
+      "explanation": "Dấu hiệu đặc trưng của cơ chế thị trường là sự hình thành giá cả một cách tự do.",
+      "answers": [
+        {
+          "text": "Sự hình thành giá cả một cách tự do",
+          "correct": true
+        },
+        {
+          "text": "Sự tồn tại của kế hoạch hóa tập trung",
+          "correct": false
+        },
+        {
+          "text": "Sự can thiệp của nhà nước vào nền kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Sự ra đời của tiền tệ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản sản xuất bao gồm những yếu tố nào?",
+      "explanation": "Tư bản sản xuất bao gồm giá trị của các tư liệu sản xuất và giá trị sức lao động được sử dụng trong quá trình sản xuất.",
+      "answers": [
+        {
+          "text": "Giá trị của hàng hóa bán ra",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của các tư liệu sản xuất và giá trị sức lao động được sử dụng trong quá trình sản xuất",
+          "correct": true
+        },
+        {
+          "text": "Giá trị sức lao động",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của các tư liệu sản xuất",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Phương pháp nào sau đây tạo ra giá trị thặng dư tương đối?",
+      "explanation": "Chỉ có tăng năng suất lao động là phương pháp sản xuất giá trị thặng dư tương đối.",
+      "answers": [
+        {
+          "text": "Tăng cường độ lao động",
+          "correct": false
+        },
+        {
+          "text": "Kéo dài thời gian lao động",
+          "correct": false
+        },
+        {
+          "text": "Tăng năng suất lao động",
+          "correct": true
+        },
+        {
+          "text": "Giảm tiền lương",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong một chu kỳ sản xuất, bộ phận nào của tư bản sản xuất được tiêu dùng hoàn toàn?",
+      "explanation": "Chỉ có bộ phận tư bản lưu động mới được tiêu dùng hoàn toàn trong một chu kỳ sản xuất.",
+      "answers": [
+        {
+          "text": "Tư bản cố định",
+          "correct": false
+        },
+        {
+          "text": "Toàn bộ tư bản sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Một phần tư bản cố định và một phần tư bản lưu động",
+          "correct": false
+        },
+        {
+          "text": "Tư bản lưu động",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Điều gì có thể dẫn đến bần cùng hóa tuyệt đối của giai cấp công nhân?",
+      "explanation": "Bần cùng hóa tuyệt đối xảy ra khi mức sống giảm do thu nhập tăng chậm hơn lạm phát.",
+      "answers": [
+        {
+          "text": "Thu nhập tuyệt đối của họ tăng lên",
+          "correct": false
+        },
+        {
+          "text": "Thu nhập tuyệt đối giảm",
+          "correct": false
+        },
+        {
+          "text": "Thu nhập tương đối của họ tăng lên",
+          "correct": false
+        },
+        {
+          "text": "Thu nhập tuyệt đối tăng nhưng giá cả tăng nhanh hơn so với tăng thu nhập",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Mục đích hoạt động của chủ thể nào trong nền kinh tế thị trường là tối đa hóa lợi nhuận?",
+      "explanation": "Chỉ các chủ thể sản xuất trong kinh tế thị trường mới nhằm mục đích tối đa hóa lợi nhuận.",
+      "answers": [
+        {
+          "text": "Chủ thể sản xuất",
+          "correct": true
+        },
+        {
+          "text": "Người tiêu dùng",
+          "correct": false
+        },
+        {
+          "text": "Chính phủ",
+          "correct": false
+        },
+        {
+          "text": "Tất cả các chủ thể kinh tế",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong quá trình vận động, tư bản tiền tệ thực hiện chức năng gì?",
+      "explanation": "Tư bản tiền tệ thực hiện chức năng mua các yếu tố sản xuất.",
+      "answers": [
+        {
+          "text": "Tái sản xuất giá trị hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Phân phối hàng hóa đến người tiêu dùng",
+          "correct": false
+        },
+        {
+          "text": "Thực hiện giá trị thặng dư đã được sản xuất ra",
+          "correct": false
+        },
+        {
+          "text": "Mua các yếu tố sản xuất",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Điều gì quyết định giá trị thị trường của hàng hóa?",
+      "explanation": "Giá trị thị trường được xác định bằng hao phí lao động xã hội cần thiết.",
+      "answers": [
+        {
+          "text": "Tổng chi phí sản xuất của doanh nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Hao phí lao động xã hội cần thiết",
+          "correct": true
+        },
+        {
+          "text": "Giá trị sử dụng của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Hao phí lao động cá biệt của người sản xuất",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Lao động trừu tượng và lao động cụ thể là tính hai mặt của loại lao động nào?",
+      "explanation": "Lao động trừu tượng và lao động cụ thể là tính hai mặt của lao động sản xuất hàng hóa.",
+      "answers": [
+        {
+          "text": "Lao động sản xuất hàng hóa",
+          "correct": true
+        },
+        {
+          "text": "Tất cả các loại lao động",
+          "correct": false
+        },
+        {
+          "text": "Lao động giản đơn",
+          "correct": false
+        },
+        {
+          "text": "Lao động phức tạp",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "cau-hoi-dung-sai-kinh-te-chinh-tri",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/cau-hoi-dung-sai-kinh-te-chinh-tri/12652748"
+}

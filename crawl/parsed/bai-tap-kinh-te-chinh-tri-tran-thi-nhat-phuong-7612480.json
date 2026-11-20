@@ -1,0 +1,142 @@
+{
+  "id": 7612480,
+  "title": "Quiz: BÀI TẬP KINH TẾ CHÍNH TRỊ - LỚP 46K06 - TRẦN THỊ NHẬT PHƯƠNG",
+  "totalQuestions": 6,
+  "questions": [
+    {
+      "question": "Tỷ suất giá trị thặng dư được xác định như thế nào trong kinh tế chính trị?",
+      "explanation": "Tỷ suất giá trị thặng dư là tỷ lệ giữa giá trị thặng dư và tư bản khả biến, phản ánh mức độ khai thác lao động trong sản xuất.",
+      "answers": [
+        {
+          "text": "Tỷ lệ giữa tư bản cố định và tư bản lưu động",
+          "correct": false
+        },
+        {
+          "text": "Tỷ lệ giữa tổng giá trị hàng hóa và tư bản bất biến",
+          "correct": false
+        },
+        {
+          "text": "Tỷ lệ giữa giá trị thặng dư và tư bản khả biến",
+          "correct": true
+        },
+        {
+          "text": "Tỷ lệ giữa lợi nhuận và chi phí sản xuất",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản khả biến được xác định bằng công thức nào trong đoạn văn?",
+      "explanation": "Tư bản khả biến được tính bằng v, trong đó v là giá trị của lao động sống. Đây là yếu tố quan trọng trong việc xác định tư bản khả biến.",
+      "answers": [
+        {
+          "text": "Tư bản khả biến được xác định bằng c1 780",
+          "correct": false
+        },
+        {
+          "text": "Tư bản khả biến được xác định bằng m 234",
+          "correct": false
+        },
+        {
+          "text": "Tư bản khả biến được xác định bằng v 156",
+          "correct": true
+        },
+        {
+          "text": "Tư bản khả biến được xác định bằng c 624",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản được tính bằng cách nào?",
+      "explanation": "Cấu tạo hữu cơ được tính bằng tỷ lệ giữa tổng tư bản bất biến và tư bản khả biến, phản ánh mối quan hệ giữa các yếu tố sản xuất.",
+      "answers": [
+        {
+          "text": "Cấu tạo hữu cơ là tỷ lệ giữa tổng tư bản bất biến và tư bản khả biến",
+          "correct": true
+        },
+        {
+          "text": "Cấu tạo hữu cơ là tổng giá trị hàng hóa sản xuất ra",
+          "correct": false
+        },
+        {
+          "text": "Cấu tạo hữu cơ là tổng chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Cấu tạo hữu cơ là lợi nhuận thu được trong năm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tổng giá trị hàng hóa sản xuất ra trong năm 2018 là bao nhiêu?",
+      "explanation": "Tổng giá trị hàng hóa sản xuất ra trong năm 2018 được tính là W 1209, phản ánh tổng sản phẩm được tạo ra trong năm đó.",
+      "answers": [
+        {
+          "text": "Tổng giá trị hàng hóa sản xuất ra trong năm 2018 là 1404",
+          "correct": false
+        },
+        {
+          "text": "Tổng giá trị hàng hóa sản xuất ra trong năm 2018 là 234",
+          "correct": false
+        },
+        {
+          "text": "Tổng giá trị hàng hóa sản xuất ra trong năm 2018 là 1209",
+          "correct": true
+        },
+        {
+          "text": "Tổng giá trị hàng hóa sản xuất ra trong năm 2018 là 975",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tích lũy tư bản năm 2019 được tính như thế nào?",
+      "explanation": "Tích lũy tư bản năm 2019 được tính bằng tổng của tư bản khả biến và tư bản bất biến, phản ánh sự gia tăng tư bản qua các năm.",
+      "answers": [
+        {
+          "text": "Tích lũy tư bản năm 2019 là c2019 126,36",
+          "correct": false
+        },
+        {
+          "text": "Tích lũy tư bản năm 2019 là c2019 1404",
+          "correct": false
+        },
+        {
+          "text": "Tích lũy tư bản năm 2019 là c2019 1530,36",
+          "correct": true
+        },
+        {
+          "text": "Tích lũy tư bản năm 2019 là c2019 234",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tỷ suất lợi nhuận lúc đầu được xác định bằng giá trị nào?",
+      "explanation": "Tỷ suất lợi nhuận lúc đầu được xác định bằng ms 1716,49, phản ánh hiệu quả đầu tư ban đầu.",
+      "answers": [
+        {
+          "text": "Tỷ suất lợi nhuận lúc đầu là ms 1804",
+          "correct": false
+        },
+        {
+          "text": "Tỷ suất lợi nhuận lúc đầu là ms 1716,49",
+          "correct": true
+        },
+        {
+          "text": "Tỷ suất lợi nhuận lúc đầu là ms 2255",
+          "correct": false
+        },
+        {
+          "text": "Tỷ suất lợi nhuận lúc đầu là ms 5945",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "bai-tap-kinh-te-chinh-tri-tran-thi-nhat-phuong",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/bai-tap-kinh-te-chinh-tri-tran-thi-nhat-phuong/7612480"
+}

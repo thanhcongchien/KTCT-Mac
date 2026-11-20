@@ -1,0 +1,296 @@
+{
+  "id": 10596749,
+  "title": "Quiz: BÀI TẬP CHƯƠNG 3: PHÂN TÍCH CÁC KHÁI NIỆM KINH TẾ CƠ BẢN",
+  "totalQuestions": 13,
+  "questions": [
+    {
+      "question": "Điều gì phân biệt tư bản bất biến và tư bản khả biến?",
+      "explanation": "Sự phân biệt dựa trên vai trò của các bộ phận tư bản trong việc tạo ra giá trị thặng dư.",
+      "answers": [
+        {
+          "text": "Vai trò của các bộ phận tư bản trong việc tạo ra giá trị thặng dư",
+          "correct": true
+        },
+        {
+          "text": "Giá trị của các loại tư bản",
+          "correct": false
+        },
+        {
+          "text": "Hình thức tồn tại của tư bản (tư liệu sản xuất hoặc tiền lương)",
+          "correct": false
+        },
+        {
+          "text": "Tốc độ chu chuyển của tư bản",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong nền kinh tế, tiền được sử dụng với mục đích gì?",
+      "explanation": "Tiền có thể được sử dụng để tạo ra giá trị tăng thêm hoặc trong lưu thông hàng hóa giản đơn.",
+      "answers": [
+        {
+          "text": "Để tích trữ của cải",
+          "correct": false
+        },
+        {
+          "text": "Chỉ để tạo ra giá trị tăng thêm (giá trị thặng dư)",
+          "correct": false
+        },
+        {
+          "text": "Để tạo ra giá trị tăng thêm hoặc trong lưu thông hàng hóa giản đơn",
+          "correct": true
+        },
+        {
+          "text": "Chỉ để phục vụ lưu thông hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều kiện nào cần thiết để sức lao động trở thành hàng hóa trong nền kinh tế?",
+      "explanation": "Người lao động phải tự do về thân thể và không có đủ tư liệu sản xuất để tự kết hợp với sức lao động của mình.",
+      "answers": [
+        {
+          "text": "Người lao động phải được tự do thân thể và không có đủ tư liệu sản xuất",
+          "correct": true
+        },
+        {
+          "text": "Người lao động phải có trình độ chuyên môn cao",
+          "correct": false
+        },
+        {
+          "text": "Người lao động phải có kinh nghiệm làm việc",
+          "correct": false
+        },
+        {
+          "text": "Người lao động phải được đào tạo bài bản",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của sức lao động được xác định thông qua yếu tố nào?",
+      "explanation": "Giá trị của sức lao động được tính thông qua giá trị của các tư liệu sinh hoạt mà người lao động tiêu dùng.",
+      "answers": [
+        {
+          "text": "Giá trị của các tư liệu sinh hoạt mà người lao động tiêu dùng",
+          "correct": true
+        },
+        {
+          "text": "Mức độ phức tạp của công việc",
+          "correct": false
+        },
+        {
+          "text": "Số giờ lao động",
+          "correct": false
+        },
+        {
+          "text": "Năng suất lao động",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong quá trình tuần hoàn, tư bản xuất hiện dưới các dạng nào?",
+      "explanation": "Trong quá trình tuần hoàn, tư bản lần lượt xuất hiện dưới các dạng: TBSX, TBHH, TBTT.",
+      "answers": [
+        {
+          "text": "TBHH, TBTT, TBSX",
+          "correct": false
+        },
+        {
+          "text": "TBTT, TBSX, TBHH",
+          "correct": false
+        },
+        {
+          "text": "TBSX, TBHH, TBTT",
+          "correct": true
+        },
+        {
+          "text": "TBHH, TBSX, TBTT",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì xảy ra khi thời gian chu chuyển của tư bản càng lớn?",
+      "explanation": "Khi thời gian chu chuyển của tư bản càng lớn thì tốc độ chu chuyển của tư bản càng chậm.",
+      "answers": [
+        {
+          "text": "Lượng giá trị thặng dư thu được càng nhiều",
+          "correct": false
+        },
+        {
+          "text": "Không ảnh hưởng đến tốc độ chu chuyển của tư bản",
+          "correct": false
+        },
+        {
+          "text": "Tốc độ chu chuyển của tư bản càng nhanh",
+          "correct": false
+        },
+        {
+          "text": "Tốc độ chu chuyển của tư bản càng chậm",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư siêu ngạch là hình thức biến tướng của giá trị thặng dư nào?",
+      "explanation": "Giá trị thặng dư siêu ngạch là hình thức biến tướng của giá trị thặng dư tương đối.",
+      "answers": [
+        {
+          "text": "Giá trị thặng dư bình quân",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư tương đối",
+          "correct": true
+        },
+        {
+          "text": "Giá trị thặng dư tuyệt đối",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư xã hội",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Nhà đầu tư có thể thu được giá trị thặng dư tuyệt đối bằng cách nào?",
+      "explanation": "Bằng cách tăng cường độ lao động, nhà đầu tư có thể thu được giá trị thặng dư tuyệt đối.",
+      "answers": [
+        {
+          "text": "Giảm thời gian lao động",
+          "correct": false
+        },
+        {
+          "text": "Giảm chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Tăng cường độ lao động",
+          "correct": true
+        },
+        {
+          "text": "Tăng năng suất lao động",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tích tụ tư bản là quá trình như thế nào?",
+      "explanation": "Tích tụ tư bản là quá trình gia tăng quy mô tư bản cá biệt bằng cách sáp nhập tư bản.",
+      "answers": [
+        {
+          "text": "Gia tăng quy mô tư bản cá biệt bằng cách sáp nhập tư bản",
+          "correct": true
+        },
+        {
+          "text": "Sử dụng tư bản để mở rộng quy mô sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Tăng cường đầu tư vào công nghệ mới",
+          "correct": false
+        },
+        {
+          "text": "Giảm chi phí sản xuất để tăng lợi nhuận",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tích tụ tư bản là gì?",
+      "explanation": "Tích tụ tư bản là việc sử dụng tư bản để mở rộng quy mô tư bản.",
+      "answers": [
+        {
+          "text": "Phân phối lại lợi nhuận cho người lao động",
+          "correct": false
+        },
+        {
+          "text": "Tập trung các nguồn lực tài chính từ nhiều nguồn khác nhau",
+          "correct": false
+        },
+        {
+          "text": "Giảm quy mô sản xuất để tăng hiệu quả",
+          "correct": false
+        },
+        {
+          "text": "Sử dụng tư bản để mở rộng quy mô tư bản",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Lợi nhuận thương nghiệp được hình thành như thế nào?",
+      "explanation": "Lợi nhuận thương nghiệp là một phần giá trị thặng dư được tạo ra trong sản xuất công nghiệp.",
+      "answers": [
+        {
+          "text": "Giá trị thặng dư được tạo ra trong sản xuất nông nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Một phần giá trị thặng dư được tạo ra trong sản xuất công nghiệp",
+          "correct": true
+        },
+        {
+          "text": "Do tư bản thương nghiệp nhường lại cho tư bản công nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Một phần của lợi tức cho vay",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Lợi tức cho vay được định nghĩa là gì?",
+      "explanation": "Lợi tức cho vay là một phần của lợi nhuận bình quân mà người chủ tư bản phải trả cho người đi vay.",
+      "answers": [
+        {
+          "text": "Tổng lợi nhuận của công ty cổ phần",
+          "correct": false
+        },
+        {
+          "text": "Một phần của lợi nhuận bình quân mà người chủ tư bản phải trả cho người đi vay",
+          "correct": true
+        },
+        {
+          "text": "Chi phí để được sử dụng tư bản cho vay",
+          "correct": false
+        },
+        {
+          "text": "Giá cả của tư bản cố định",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì đúng về cổ phiếu và trái phiếu?",
+      "explanation": "Cổ phiếu và trái phiếu đều là các loại tư bản giả.",
+      "answers": [
+        {
+          "text": "Đều không bị phụ thuộc vào tình hình hoạt động của công ty cổ phần",
+          "correct": false
+        },
+        {
+          "text": "Đều là một khoảng thỏa thuận không đổi",
+          "correct": false
+        },
+        {
+          "text": "Đều được sử dụng để đầu tư vào sản xuất công nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Đều là các loại tư bản giả",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "slug": "bai-tap-chuong-3",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/bai-tap-chuong-3/10596749"
+}

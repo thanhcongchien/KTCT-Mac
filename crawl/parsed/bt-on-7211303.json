@@ -1,0 +1,274 @@
+{
+  "id": 7211303,
+  "title": "Quiz: Câu hỏi và phân tích tư bản trong doanh nghiệp (MKT 101)",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "question": "Tỷ suất giá trị thặng dư của doanh nghiệp A trong năm 2018 là bao nhiêu?",
+      "explanation": "Tỷ suất giá trị thặng dư được tính bằng giá trị thặng dư chia cho tổng giá trị tư bản. Doanh nghiệp A có giá trị thặng dư là 2068 đơn vị tiền tệ, và tỷ lệ tư bản khả biến chiếm tỷ lệ tổng giá trị tư bản.",
+      "answers": [
+        {
+          "text": "100%",
+          "correct": true
+        },
+        {
+          "text": "2068%",
+          "correct": false
+        },
+        {
+          "text": "50%",
+          "correct": false
+        },
+        {
+          "text": "75%",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Chi phí sản xuất của doanh nghiệp A trong năm 2018 là bao nhiêu?",
+      "explanation": "Chi phí sản xuất bao gồm tư bản cố định và tư bản khả biến. Tư bản cố định được sử dụng trong 10 năm và có giá trị thặng dư 2068 đơn vị tiền tệ.",
+      "answers": [
+        {
+          "text": "Tổng giá trị tư bản",
+          "correct": true
+        },
+        {
+          "text": "2068 đơn vị tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "1000 đơn vị tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "820 đơn vị tiền tệ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tổng giá trị hàng hóa mà doanh nghiệp A sản xuất ra trong năm 2018 là gì?",
+      "explanation": "Tổng giá trị hàng hóa được xác định từ chi phí sản xuất và giá trị thặng dư. Doanh nghiệp A có giá trị thặng dư là 2068 đơn vị tiền tệ và chi phí sản xuất là tổng giá trị tư bản.",
+      "answers": [
+        {
+          "text": "1000 đơn vị tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "Tổng giá trị tư bản + 2068",
+          "correct": true
+        },
+        {
+          "text": "820 đơn vị tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "2068 đơn vị tiền tệ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản của doanh nghiệp A có thay đổi trong năm 2019 không?",
+      "explanation": "Cấu tạo hữu cơ của tư bản không thay đổi theo giả định trong đề bài, điều này có nghĩa là tỷ lệ giữa tư bản bất biến và tư bản khả biến vẫn giữ nguyên.",
+      "answers": [
+        {
+          "text": "Chỉ thay đổi một phần",
+          "correct": false
+        },
+        {
+          "text": "Có, nó thay đổi",
+          "correct": false
+        },
+        {
+          "text": "Không xác định được",
+          "correct": false
+        },
+        {
+          "text": "Không, nó không thay đổi",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Chi phí sản xuất của doanh nghiệp tư bản trong năm 2019 là bao nhiêu đơn vị tiền tệ?",
+      "explanation": "Chi phí sản xuất trong năm 2019 được nêu là 6205 đơn vị tiền tệ, phản ánh tổng chi phí mà doanh nghiệp đã bỏ ra.",
+      "answers": [
+        {
+          "text": "5408 đơn vị tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "6205 đơn vị tiền tệ",
+          "correct": true
+        },
+        {
+          "text": "1095 đơn vị tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "1340 đơn vị tiền tệ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị tiền lương trả cho nhân công trong năm 2019 là bao nhiêu?",
+      "explanation": "Giá trị tiền lương trả cho nhân công là 1/2 giá trị nguyên, nhiên liệu, và được tính từ chi phí sản xuất tổng thể.",
+      "answers": [
+        {
+          "text": "1095 đơn vị tiền tệ",
+          "correct": true
+        },
+        {
+          "text": "1664 đơn vị tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "4380 đơn vị tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "6205 đơn vị tiền tệ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Thời gian sử dụng của tư bản cố định trong năm 2019 là bao lâu?",
+      "explanation": "Thời gian sử dụng của tư bản cố định được nêu rõ là 12 năm, cho thấy độ bền và khả năng sinh lời của tư bản này.",
+      "answers": [
+        {
+          "text": "16 năm",
+          "correct": false
+        },
+        {
+          "text": "6 năm",
+          "correct": false
+        },
+        {
+          "text": "10 năm",
+          "correct": false
+        },
+        {
+          "text": "12 năm",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư mà doanh nghiệp sử dụng cho tiêu dùng trong năm 2020 là bao nhiêu?",
+      "explanation": "Giá trị thặng dư sử dụng cho tiêu dùng là 1340 đơn vị tiền tệ, cho thấy sự phân bổ tài chính của doanh nghiệp.",
+      "answers": [
+        {
+          "text": "1340 đơn vị tiền tệ",
+          "correct": true
+        },
+        {
+          "text": "6205 đơn vị tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "1664 đơn vị tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "1095 đơn vị tiền tệ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tổng số giá trị hàng hóa của doanh nghiệp sản xuất trong năm được xác định như thế nào?",
+      "explanation": "Tổng số giá trị hàng hóa được xác định dựa trên năng suất lao động và thời gian lao động tất yếu.",
+      "answers": [
+        {
+          "text": "Dựa vào số lượng sản phẩm tiêu thụ",
+          "correct": false
+        },
+        {
+          "text": "Chỉ dựa vào giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Dựa vào năng suất lao động và thời gian lao động tất yếu",
+          "correct": true
+        },
+        {
+          "text": "Chỉ dựa vào chi phí sản xuất",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư mà doanh nghiệp sử dụng cho tiêu dùng là bao nhiêu?",
+      "explanation": "Doanh nghiệp sử dụng 1355 giá trị thặng dư cho tiêu dùng, phần còn lại được dùng cho tích lũy tư bản.",
+      "answers": [
+        {
+          "text": "2000",
+          "correct": false
+        },
+        {
+          "text": "1355",
+          "correct": true
+        },
+        {
+          "text": "1000",
+          "correct": false
+        },
+        {
+          "text": "3250",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quy mô tư bản bất biến và tư bản khả biến năm 2020 được xác định như thế nào?",
+      "explanation": "Quy mô tư bản được xác định dựa trên giá trị thặng dư và cấu tạo hữu cơ của tư bản không đổi.",
+      "answers": [
+        {
+          "text": "Dựa vào giá trị thặng dư và cấu tạo hữu cơ của tư bản",
+          "correct": true
+        },
+        {
+          "text": "Dựa vào chi phí sản xuất và tiêu dùng",
+          "correct": false
+        },
+        {
+          "text": "Chỉ dựa vào năng suất lao động",
+          "correct": false
+        },
+        {
+          "text": "Chỉ dựa vào thời gian lao động thặng dư",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tỷ suất lợi nhuận của tư bản trong năm 2020 được xác định như thế nào?",
+      "explanation": "Tỷ suất lợi nhuận được xác định khi thời gian lao động thặng dư gấp 1,6 lần thời gian lao động tất yếu.",
+      "answers": [
+        {
+          "text": "Khi thời gian lao động thặng dư bằng thời gian lao động tất yếu",
+          "correct": false
+        },
+        {
+          "text": "Khi năng suất lao động tăng lên 3250 sản",
+          "correct": false
+        },
+        {
+          "text": "Khi thời gian lao động thặng dư gấp 1,6 lần thời gian lao động tất yếu",
+          "correct": true
+        },
+        {
+          "text": "Khi giá trị thặng dư bằng 1355",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "bt-on",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/bt-on/7211303"
+}

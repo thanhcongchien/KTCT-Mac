@@ -1,0 +1,296 @@
+{
+  "id": 10940903,
+  "title": "Quiz: 10 Câu Tự Luận Kinh Tế Chính Trị Mác - Lênin (KTCT)",
+  "totalQuestions": 13,
+  "questions": [
+    {
+      "question": "Trong điều kiện tiến bộ kỹ thuật, tích lũy tư bản có thể dẫn đến thất nghiệp vì:",
+      "explanation": "Tích lũy tư bản làm tăng cấu tạo hữu cơ, giảm cầu về lao động, dẫn đến thất nghiệp.",
+      "answers": [
+        {
+          "text": "Tăng quy mô sản xuất dẫn đến dư thừa lao động",
+          "correct": false
+        },
+        {
+          "text": "Tăng cường tự động hóa làm giảm số lượng công nhân cần thiết",
+          "correct": false
+        },
+        {
+          "text": "Tăng cường đầu tư vào công nghệ làm giảm nhu cầu lao động",
+          "correct": true
+        },
+        {
+          "text": "Giảm chi phí lao động để tăng lợi nhuận",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hàng hóa có hai thuộc tính giá trị và giá trị sử dụng là do:",
+      "explanation": "Hai thuộc tính của hàng hóa xuất phát từ tính hai mặt của lao động sản xuất hàng hóa: lao động cụ thể và lao động trừu tượng.",
+      "answers": [
+        {
+          "text": "Quy luật cung cầu trên thị trường",
+          "correct": false
+        },
+        {
+          "text": "Lao động của người sản xuất hàng hoá có tính hai mặt: lao động cụ thể và lao động trừu tượng",
+          "correct": true
+        },
+        {
+          "text": "Sự khan hiếm của nguồn lực và sự đa dạng của sản phẩm",
+          "correct": false
+        },
+        {
+          "text": "Nhu cầu của người tiêu dùng và khả năng sản xuất của doanh nghiệp",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hàng hóa sức lao động được coi là hàng hóa đặc biệt vì:",
+      "explanation": "Hàng hóa sức lao động tạo ra giá trị mới lớn hơn giá trị của bản thân nó, phần lớn hơn là giá trị thặng dư.",
+      "answers": [
+        {
+          "text": "Giá trị của nó không thay đổi theo thời gian",
+          "correct": false
+        },
+        {
+          "text": "Nó có giá trị sử dụng cao hơn các hàng hóa thông thường",
+          "correct": false
+        },
+        {
+          "text": "Khi sử dụng, nó tạo ra giá trị mới lớn hơn giá trị của sức lao động",
+          "correct": true
+        },
+        {
+          "text": "Nó có thể tái tạo và phục hồi sau khi sử dụng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Chi phí sản xuất tư bản chủ nghĩa luôn nhỏ hơn giá trị hàng hóa vì:",
+      "explanation": "Giá trị hàng hóa bao gồm cả lao động xã hội kết tinh, trong khi chi phí sản xuất chỉ tính chi phí tư bản mà nhà tư bản bỏ ra.",
+      "answers": [
+        {
+          "text": "Giá trị hàng hóa bao gồm cả giá trị sử dụng và giá trị trao đổi",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất không bao gồm chi phí quản lý và quảng cáo",
+          "correct": false
+        },
+        {
+          "text": "Giá trị hàng hóa là do lao động xã hội kết tinh, còn chi phí sản xuất chỉ tính chi phí tư bản",
+          "correct": true
+        },
+        {
+          "text": "Nhà tư bản luôn tìm cách giảm chi phí sản xuất để tăng lợi nhuận",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư siêu ngạch được xem là hình thức biến tướng của giá trị thặng dư tương đối vì:",
+      "explanation": "Giá trị thặng dư siêu ngạch có được do tăng năng suất lao động cá biệt, làm giá trị cá biệt thấp hơn giá trị xã hội.",
+      "answers": [
+        {
+          "text": "Nó chỉ xuất hiện trong một số ngành công nghiệp nhất định",
+          "correct": false
+        },
+        {
+          "text": "Nó chỉ mang lại lợi ích cho nhà tư bản",
+          "correct": false
+        },
+        {
+          "text": "Nó cũng là kết quả của việc tăng năng suất lao động, nhưng ở phạm vi cá biệt",
+          "correct": true
+        },
+        {
+          "text": "Nó không làm thay đổi giá trị xã hội của hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư siêu ngạch khác với giá trị thặng dư tương đối ở điểm nào?",
+      "explanation": "Giá trị thặng dư siêu ngạch dựa vào tăng năng suất lao động cá biệt, trong khi giá trị thặng dư tương đối dựa vào tăng năng suất lao động xã hội.",
+      "answers": [
+        {
+          "text": "Giá trị thặng dư siêu ngạch làm tăng giá trị hàng hóa, giá trị thặng dư tương đối làm giảm giá trị hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư siêu ngạch chỉ xuất hiện trong giai đoạn độc quyền, giá trị thặng dư tương đối xuất hiện trong giai đoạn tự do cạnh tranh",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư siêu ngạch dựa vào tăng năng suất lao động cá biệt, giá trị thặng dư tương đối dựa vào tăng năng suất lao động xã hội",
+          "correct": true
+        },
+        {
+          "text": "Giá trị thặng dư siêu ngạch dựa vào giảm giá trị sức lao động, giá trị thặng dư tương đối dựa vào tăng giá trị sức lao động",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao tỷ suất lợi nhuận biến đổi ngược chiều với cấu tạo hữu cơ của tư bản?",
+      "explanation": "Tỷ suất lợi nhuận là tỷ lệ phần trăm giữa lợi nhuận và toàn bộ giá trị của tư bản ứng trước. Công thức cho thấy rõ sự biến đổi ngược chiều này.",
+      "answers": [
+        {
+          "text": "Vì chi phí tư bản bất biến tăng lên",
+          "correct": false
+        },
+        {
+          "text": "Vì cấu tạo hữu cơ của tư bản ảnh hưởng trực tiếp đến lợi nhuận",
+          "correct": false
+        },
+        {
+          "text": "Vì tỷ suất giá trị thặng dư giảm",
+          "correct": false
+        },
+        {
+          "text": "Vì tỷ suất lợi nhuận được tính bằng tỷ lệ giữa lợi nhuận và toàn bộ giá trị tư bản ứng trước",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Vì sao lợi ích kinh tế được xem là động lực trực tiếp của các chủ thể kinh tế?",
+      "explanation": "Con người hoạt động kinh tế để thỏa mãn nhu cầu vật chất, và mức độ thỏa mãn phụ thuộc vào thu nhập, thúc đẩy họ nâng cao thu nhập.",
+      "answers": [
+        {
+          "text": "Vì nó thúc đẩy cạnh tranh giữa các doanh nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Vì nó giúp nhà nước điều tiết nền kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Vì nó tạo ra sự công bằng trong phân phối thu nhập",
+          "correct": false
+        },
+        {
+          "text": "Vì nó thúc đẩy các chủ thể kinh tế tích cực lao động sản xuất để thỏa mãn nhu cầu vật chất và nâng cao thu nhập",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Điều gì làm cho tư bản cho vay trở thành một loại hàng hóa đặc biệt?",
+      "explanation": "Người bán không mất quyền sở hữu, người mua chỉ được quyền sử dụng trong một thời gian và phải trả lợi tức. Giá cả được quyết định bởi giá trị sử dụng.",
+      "answers": [
+        {
+          "text": "Giá trị của nó được đảm bảo bởi nhà nước",
+          "correct": false
+        },
+        {
+          "text": "Người bán không mất quyền sở hữu, người mua chỉ được quyền sử dụng trong một thời gian và phải trả lợi tức",
+          "correct": true
+        },
+        {
+          "text": "Giá cả của nó được quyết định bởi giá trị sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Người bán mất quyền sở hữu, người mua được quyền sử dụng vĩnh viễn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Độc quyền sinh ra từ cạnh tranh tự do như thế nào?",
+      "explanation": "Cạnh tranh tự do dẫn đến tích tụ và tập trung tư bản, hình thành các công ty lớn, sau đó liên minh để tạo ra các tổ chức độc quyền.",
+      "answers": [
+        {
+          "text": "Cạnh tranh tự do làm giảm sự can thiệp của nhà nước vào nền kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Cạnh tranh tự do tạo ra nhiều doanh nghiệp nhỏ",
+          "correct": false
+        },
+        {
+          "text": "Cạnh tranh tự do dẫn đến tích tụ và tập trung tư bản, hình thành các công ty lớn, sau đó liên minh để tạo ra các tổ chức độc quyền",
+          "correct": true
+        },
+        {
+          "text": "Cạnh tranh tự do làm tăng tính minh bạch của thị trường",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, thành phần kinh tế nào đóng vai trò chủ đạo?",
+      "explanation": "Kinh tế nhà nước giữ vai trò chủ đạo do có mối quan hệ hữu cơ với toàn bộ nền kinh tế.",
+      "answers": [
+        {
+          "text": "Kinh tế nhà nước",
+          "correct": true
+        },
+        {
+          "text": "Kinh tế tập thể",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế tư nhân",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế có vốn đầu tư nước ngoài",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vai trò nào sau đây không phải là vai trò của kinh tế nhà nước trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam?",
+      "explanation": "Kinh tế nhà nước không đóng vai trò là thành phần duy nhất đầu tư vào tất cả các ngành kinh tế.",
+      "answers": [
+        {
+          "text": "Chỉ đầu tư vào những ngành kinh tế then chốt",
+          "correct": false
+        },
+        {
+          "text": "Là đòn bẩy để thúc đẩy tăng trưởng nhanh và bền vững",
+          "correct": false
+        },
+        {
+          "text": "Là lực lượng vật chất để điều tiết, quản lý nền kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Đầu tư vào tất cả các ngành kinh tế",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Vì sao kinh tế nhà nước đóng vai trò chủ đạo trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam?",
+      "explanation": "Kinh tế nhà nước có vai trò chủ đạo vì có mối quan hệ gắn bó hữu cơ với toàn bộ nền kinh tế.",
+      "answers": [
+        {
+          "text": "Vì không cần thúc đẩy tăng trưởng nhanh và bền vững",
+          "correct": false
+        },
+        {
+          "text": "Vì có mối quan hệ gắn bó hữu cơ với toàn bộ nền kinh tế",
+          "correct": true
+        },
+        {
+          "text": "Vì không đầu tư vào những ngành kinh tế then chốt",
+          "correct": false
+        },
+        {
+          "text": "Vì không cần điều tiết, quản lý nền kinh tế",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "10-cau-tu-luan-ktct",
+  "kind": "essay",
+  "url": "https://www.studocu.vn/vn/quiz/10-cau-tu-luan-ktct/10940903"
+}

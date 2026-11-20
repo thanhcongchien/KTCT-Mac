@@ -1,0 +1,230 @@
+{
+  "id": 5563071,
+  "title": "Quiz: BÀI TẬP CHƯƠNG 1: ĐÚNG hay SAI về Kinh Tế Chính Trị Mác - Lênin",
+  "totalQuestions": 10,
+  "questions": [
+    {
+      "question": "Đối tượng của kinh tế chính trị Mác Lênin là ngành sản xuất cụ thể nào?",
+      "explanation": "Kinh tế chính trị Mác Lênin nghiên cứu về các quan hệ xã hội trong quá trình sản xuất, phân phối và tiêu dùng của hàng hóa và dịch vụ chứ không giới hạn chỉ đến một ngành sản xuất cụ thể.",
+      "answers": [
+        {
+          "text": "Ngành thương nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Ngành sản xuất cụ thể",
+          "correct": false
+        },
+        {
+          "text": "Nguồn gốc của của cải",
+          "correct": false
+        },
+        {
+          "text": "Quan hệ xã hội",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Quy luật kinh tế có tính chất chủ quan hay khách quan?",
+      "explanation": "Quy luật kinh tế mang tính khách quan chứ không phải chủ quan.",
+      "answers": [
+        {
+          "text": "Khách quan",
+          "correct": true
+        },
+        {
+          "text": "Hiện tượng kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Lặp đi lặp lại",
+          "correct": false
+        },
+        {
+          "text": "Chủ quan",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Chính sách kinh tế là gì trong quản lý nền kinh tế?",
+      "explanation": "Chính sách kinh tế là sự vận dụng của các quy luật kinh tế vào quản lý nền kinh tế nên nó phải mang tính chất chủ quan.",
+      "answers": [
+        {
+          "text": "Sản phẩm chủ quan",
+          "correct": false
+        },
+        {
+          "text": "Quy luật kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Sự vận dụng của quy luật kinh tế vào quản lý nền kinh tế",
+          "correct": true
+        },
+        {
+          "text": "Sự vận dụng của quy luật kinh tế",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đối tượng của kinh tế chính trị Mác Lênin bao gồm những ngành nào?",
+      "explanation": "Đối tượng của kinh tế chính trị Mác Lênin không chỉ giới hạn chỉ đến ngành thương nghiệp mà bao gồm cả các ngành khác như nông nghiệp, công nghiệp, dịch vụ, v.v.",
+      "answers": [
+        {
+          "text": "Nông nghiệp, công nghiệp, dịch vụ",
+          "correct": true
+        },
+        {
+          "text": "Ngành sản xuất cụ thể",
+          "correct": false
+        },
+        {
+          "text": "Nguồn gốc của của cải",
+          "correct": false
+        },
+        {
+          "text": "Ngành thương nghiệp",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quy luật kinh tế phản ánh bản chất, chủ quan hay khách quan của hiện tượng kinh tế?",
+      "explanation": "Quy luật kinh tế là những mối liên hệ phản ánh bản chất, khách quan, lặp đi lặp lại của các hiện tượng và quá trình kinh tế.",
+      "answers": [
+        {
+          "text": "Hiện tượng kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Chủ quan",
+          "correct": false
+        },
+        {
+          "text": "Lặp đi lặp lại",
+          "correct": false
+        },
+        {
+          "text": "Bản chất",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Chính sách kinh tế có thể phù hợp với quy luật kinh tế khách quan không?",
+      "explanation": "Chính sách kinh tế có thể phù hợp, hoặc không phù hợp với quy luật kinh tế khách quan và khi chính sách không phù hợp thì chủ thể ban hành chính sách có thể ban hành chính sách khác để thay thế.",
+      "answers": [
+        {
+          "text": "Có thể phù hợp",
+          "correct": true
+        },
+        {
+          "text": "Chủ thể ban hành chính sách",
+          "correct": false
+        },
+        {
+          "text": "Quy luật kinh tế khách quan",
+          "correct": false
+        },
+        {
+          "text": "Không phù hợp",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đối tượng của kinh tế chính trị Mác Lênin không bao gồm ngành nào sau đây?",
+      "explanation": "Đối tượng của kinh tế chính trị Mác Lênin không giới hạn chỉ đến ngành thương nghiệp mà bao gồm cả các ngành khác như nông nghiệp, công nghiệp, dịch vụ, v.v.",
+      "answers": [
+        {
+          "text": "Công nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Dịch vụ",
+          "correct": false
+        },
+        {
+          "text": "Nông nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Ngành thương nghiệp",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Quy luật kinh tế tồn tại tính chất khách quan hay chủ quan?",
+      "explanation": "Quy luật kinh tế tồn tại tính khách quan nên nó sẽ không phụ thuộc vào ý chí của con người.",
+      "answers": [
+        {
+          "text": "Ý chí của con người",
+          "correct": false
+        },
+        {
+          "text": "Tồn tại tính chất",
+          "correct": false
+        },
+        {
+          "text": "Chủ quan",
+          "correct": false
+        },
+        {
+          "text": "Khách quan",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Chính sách kinh tế là sản phẩm của con người dựa trên điều gì?",
+      "explanation": "Chính sách kinh tế là sản phẩm chủ quan của con người được hình thành trên cơ sở vận dụng các quy luật kinh tế.",
+      "answers": [
+        {
+          "text": "Quy luật kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Vận dụng quy luật kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Sản phẩm chủ quan",
+          "correct": true
+        },
+        {
+          "text": "Hình thành trên cơ sở",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quy luật kinh tế không phụ thuộc vào ý chí của con người vì sao?",
+      "explanation": "Quy luật kinh tế tồn tại tính khách quan nên nó sẽ không phụ thuộc vào ý chí của con người.",
+      "answers": [
+        {
+          "text": "Thay đổi được quy luật",
+          "correct": false
+        },
+        {
+          "text": "Tồn tại tính chất",
+          "correct": false
+        },
+        {
+          "text": "Con người thay đổi hành vi",
+          "correct": false
+        },
+        {
+          "text": "Không phụ thuộc vào ý chí",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "slug": "1-bai-tap-chuong-1",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/1-bai-tap-chuong-1/5563071"
+}

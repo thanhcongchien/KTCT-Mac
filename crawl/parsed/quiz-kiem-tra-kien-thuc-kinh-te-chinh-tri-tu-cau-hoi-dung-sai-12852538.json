@@ -1,0 +1,208 @@
+{
+  "id": 12852538,
+  "title": "Quiz: Quiz kiểm tra kiến thức Kinh tế chính trị từ câu hỏi ĐÚNG SAI",
+  "totalQuestions": 9,
+  "questions": [
+    {
+      "question": "Tiền thông thường là phương tiện lưu thông, vận động theo công thức H T H, còn tiền là tư bản vận động theo công thức T H T'.",
+      "explanation": "Tiền thông thường lưu thông theo công thức H T H, tiền tư bản vận động theo công thức T H T'.",
+      "answers": [
+        {
+          "text": "Phát biểu này đúng.",
+          "correct": true
+        },
+        {
+          "text": "Phát biểu này đúng nhưng không liên quan đến tư bản.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu này sai, do tiền không vận động theo công thức T H T'.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu này sai, tiền và tiền thông thường giống nhau về mục đích vận động.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản được phân chia thành tư bản bất biến và tư bản khả biến dựa vào sự khác nhau về hình thức tồn tại.",
+      "explanation": "Phân chia tư bản dựa vào chức năng trong sản xuất giá trị thặng dư, không phải hình thức tồn tại.",
+      "answers": [
+        {
+          "text": "Phát biểu này đúng, hình thức tồn tại là căn cứ phân chia tư bản.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu này sai, phân chia dựa vào vai trò và chức năng của các bộ phận tư bản.",
+          "correct": true
+        },
+        {
+          "text": "Phát biểu này đúng do tư bản bất biến và khả biến tồn tại khác nhau.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu này sai, phân chia dựa vào hình thức lưu thông tư bản.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản lưu động bao gồm tất cả tư liệu sản xuất và tiền lương.",
+      "explanation": "Tư bản lưu động gồm nguyên liệu, vật liệu tiêu hao nhỏ và tư bản khả biến (tiền lương).",
+      "answers": [
+        {
+          "text": "Phát biểu sai, tư bản lưu động gồm nguyên liệu, vật liệu nhỏ và tư bản khả biến.",
+          "correct": true
+        },
+        {
+          "text": "Phát biểu đúng hoàn toàn về tư bản lưu động.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu sai, tư bản lưu động chỉ gồm tư liệu sản xuất.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu đúng, tiền lương là một phần của tư bản bất biến.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Để giảm hao mòn vô hình thì phải giảm hao mòn hữu hình tư bản cố định.",
+      "explanation": "Hao mòn vô hình là hao mòn theo giá trị xảy ra khi tăng cường sử dụng tư bản cố định.",
+      "answers": [
+        {
+          "text": "Phát biểu này sai, thực tế để giảm hao mòn vô hình phải tăng cường sử dụng tư bản cố định.",
+          "correct": true
+        },
+        {
+          "text": "Phát biểu này đúng vì hao mòn vô hình phụ thuộc vào hao mòn hữu hình.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu này đúng vì hao mòn hữu hình là căn nguyên hao mòn vô hình.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu này sai vì hao mòn vô hình và hữu hình không liên quan.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mọi tiền tệ đều là tư bản nếu chúng vận động theo công thức lưu thông hàng hóa.",
+      "explanation": "Tiền trở thành tư bản khi nó tạo ra giá trị thặng dư thông qua lao động bị bóc lột, vận động theo công thức T H T'.",
+      "answers": [
+        {
+          "text": "Phát biểu sai, tiền và tư bản hoàn toàn không liên quan.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu sai, tiền chỉ trở thành tư bản khi tạo ra giá trị và giá trị tăng thêm.",
+          "correct": true
+        },
+        {
+          "text": "Phát biểu đúng, do tiền là hình thái của tư bản.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu đúng khi tiền được dùng trong lưu thông hàng hóa.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Để rút ngắn thời gian lao động tất yếu cần phải tăng thời gian lao động để làm tăng tổng giá trị hàng hóa được sản xuất ra.",
+      "explanation": "Tăng năng suất lao động giúp giảm thời gian lao động tất yếu mà không cần tăng thời gian lao động tổng thể.",
+      "answers": [
+        {
+          "text": "Phát biểu đúng vì tăng thời gian lao động sẽ làm tăng giá trị thặng dư.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu đúng vì tăng thời gian lao động tăng giá trị.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu sai, để rút ngắn thời gian lao động tất yếu phải tăng năng suất lao động.",
+          "correct": true
+        },
+        {
+          "text": "Phát biểu sai, vì thời gian lao động tất yếu không liên quan đến tổng giá trị sản xuất.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản cố định chỉ bị hao mòn do quá trình sử dụng.",
+      "explanation": "Hao mòn tư bản cố định gồm cả hao mòn về vật chất và hao mòn về giá trị (vô hình).",
+      "answers": [
+        {
+          "text": "Phát biểu đúng do hao mòn vô hình không tồn tại.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu sai, hao mòn tư bản cố định bao gồm hao mòn hữu hình và hao mòn vô hình.",
+          "correct": true
+        },
+        {
+          "text": "Phát biểu sai vì tư bản cố định không bị hao mòn.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu đúng vì chỉ có sử dụng mới gây hao mòn.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bần cùng hoá tương đối biểu hiện ở phần thu nhập phân phối cho giai cấp công nhân giảm cả về lượng tuyệt đối và giảm tương đối so với phần dành cho giai cấp tư sản.",
+      "explanation": "Bần cùng hóa tương đối là giảm về lượng tuyệt đối nhưng tăng tương đối so với phần giai cấp tư sản.",
+      "answers": [
+        {
+          "text": "Phát biểu đúng vì thu nhập công nhân đều giảm về lượng và tỷ lệ.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu sai vì bần cùng hoá tương đối không ảnh hưởng thu nhập công nhân.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu sai, bần cùng hoá tương đối là giảm lượng tuyệt đối và tăng tỷ lệ thu nhập tương đối công nhân.",
+          "correct": true
+        },
+        {
+          "text": "Phát biểu đúng về bần cùng hoá tương đối.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản sẽ tăng lên khi giá cả tư liệu sản xuất tăng nhanh hơn giá cả sức lao động còn cấu tạo kỹ thuật không đổi.",
+      "explanation": "Cấu tạo hữu cơ của tư bản do cấu tạo kỹ thuật quyết định, giá cả chỉ tác động khi kỹ thuật thay đổi.",
+      "answers": [
+        {
+          "text": "Phát biểu sai vì cấu tạo hữu cơ không liên quan đến giá cả.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu đúng do cấu tạo kỹ thuật không ảnh hưởng đến cấu tạo hữu cơ.",
+          "correct": false
+        },
+        {
+          "text": "Phát biểu sai, cấu tạo hữu cơ do cấu tạo kỹ thuật quyết định, khi kỹ thuật thay đổi mới ảnh hưởng.",
+          "correct": true
+        },
+        {
+          "text": "Phát biểu đúng vì giá cả TLSX quyết định cấu tạo hữu cơ.",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "quiz-kiem-tra-kien-thuc-kinh-te-chinh-tri-tu-cau-hoi-dung-sai",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/quiz-kiem-tra-kien-thuc-kinh-te-chinh-tri-tu-cau-hoi-dung-sai/12852538"
+}

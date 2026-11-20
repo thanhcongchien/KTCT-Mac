@@ -1,0 +1,230 @@
+{
+  "id": 12677620,
+  "title": "Quiz: Trắc nghiệm Kinh tế chính trị: Giá trị hàng hóa, lao động và tiền tệ",
+  "totalQuestions": 10,
+  "questions": [
+    {
+      "question": "Giá trị trao đổi của hàng hóa là gì trong kinh tế chính trị?",
+      "explanation": "Giá trị trao đổi là hình thức biểu hiện bên ngoài của giá trị hàng hóa, phản ánh lượng lao động xã hội cần thiết để sản xuất ra hàng hóa.",
+      "answers": [
+        {
+          "text": "Giá trị trao đổi là tổng số lao động cụ thể cần thiết để sản xuất hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị trao đổi là số tiền mà người mua đồng ý trả trên thị trường bất kể giá trị hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị trao đổi là giá trị sử dụng của hàng hóa trong tiêu dùng.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị trao đổi là biểu hiện ra bên ngoài của giá trị hàng hóa.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tại sao chỉ lao động của người sản xuất hàng hóa mới có lao động trừu tượng?",
+      "explanation": "Lao động trừu tượng đại diện cho hao phí lao động xã hội cần thiết để sản xuất hàng hóa, chỉ có khi sản phẩm được trao đổi trên thị trường.",
+      "answers": [
+        {
+          "text": "Do lao động trừu tượng chỉ tồn tại khi hàng hóa không được trao đổi trên thị trường.",
+          "correct": false
+        },
+        {
+          "text": "Bởi vì chỉ lao động công nghiệp mới được tính là lao động trừu tượng.",
+          "correct": false
+        },
+        {
+          "text": "Vì lao động trừu tượng là lao động vật lý, tương đương với thời gian lao động thực tế.",
+          "correct": false
+        },
+        {
+          "text": "Vì lao động trừu tượng tạo ra giá trị của hàng hóa, còn lao động cụ thể tạo ra giá trị sử dụng.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Điều gì quyết định sự biến động giá trị hàng hóa trên thị trường?",
+      "explanation": "Giá trị của hàng hóa được quyết định bởi hao phí lao động xã hội cần thiết, còn quan hệ cung cầu chỉ ảnh hưởng đến giá cả.",
+      "answers": [
+        {
+          "text": "Quan hệ cung cầu trên thị trường quyết định sự biến động giá trị hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Chính sách tiền tệ làm thay đổi trực tiếp giá trị hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Hao phí lao động xã hội để sản xuất hàng hóa quyết định sự biến động giá trị.",
+          "correct": true
+        },
+        {
+          "text": "Giá cả thị trường là nguyên nhân chính tạo ra biến động giá trị hàng hóa.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao tiền ký hiệu giá trị không thể làm phương tiện cất trữ lâu dài?",
+      "explanation": "Tiền ký hiệu giá trị (tiền giấy) không đủ giá trị nội tại nên không giữ được giá trị lâu dài như tiền đủ giá trị (tiền vàng, bạc).",
+      "answers": [
+        {
+          "text": "Vì tiền ký hiệu giá trị có thể được sử dụng chỉ ở nước ngoài, không có giá trị trong nước.",
+          "correct": false
+        },
+        {
+          "text": "Tiền ký hiệu giá trị không thể được trao đổi trên thị trường.",
+          "correct": false
+        },
+        {
+          "text": "Tiền ký hiệu giá trị có giá trị cao hơn nên không cần cất trữ lâu dài.",
+          "correct": false
+        },
+        {
+          "text": "Bởi vì tiền ký hiệu giá trị không có nội tại thước đo giá trị nên dễ mất giá theo thời gian.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Quy luật giá trị có áp dụng cho các hình thức sản xuất hàng hóa nào?",
+      "explanation": "Quy luật giá trị là quy luật kinh tế cơ bản của mọi sản xuất hàng hóa, bao gồm cả giản đơn và tư bản chủ nghĩa.",
+      "answers": [
+        {
+          "text": "Quy luật giá trị chỉ xuất hiện khi có tiền tệ làm trung gian trao đổi.",
+          "correct": false
+        },
+        {
+          "text": "Quy luật giá trị tác động trong cả sản xuất hàng hóa giản đơn và tư bản chủ nghĩa.",
+          "correct": true
+        },
+        {
+          "text": "Quy luật giá trị không áp dụng cho sản xuất hàng hóa giản đơn.",
+          "correct": false
+        },
+        {
+          "text": "Quy luật giá trị chỉ áp dụng cho sản xuất hàng hóa trong nền kinh tế tư bản chủ nghĩa.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của một đơn vị hàng hóa phụ thuộc vào yếu tố nào sau đây?",
+      "explanation": "Lượng giá trị của hàng hóa phụ thuộc chủ yếu vào năng suất lao động xã hội, còn cường độ lao động không ảnh hưởng trực tiếp đến giá trị.",
+      "answers": [
+        {
+          "text": "Chủ yếu phụ thuộc vào năng suất lao động xã hội trong sản xuất hàng hóa.",
+          "correct": true
+        },
+        {
+          "text": "Phụ thuộc đều vào năng suất lao động và cường độ lao động của người sản xuất.",
+          "correct": false
+        },
+        {
+          "text": "Chỉ phụ thuộc vào cường độ lao động của người sản xuất hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Phụ thuộc hoàn toàn vào thời gian lao động cá biệt của người sản xuất.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì xảy ra khi năng suất lao động và thời gian lao động đều tăng cùng lúc?",
+      "explanation": "Khi năng suất lao động và thời gian lao động tăng, lượng hàng hóa sản xuất nhiều hơn nên tổng giá trị tăng.",
+      "answers": [
+        {
+          "text": "Tổng giá trị hàng hóa sản xuất ra trong một thời gian tăng lên khi các điều kiện khác không đổi.",
+          "correct": true
+        },
+        {
+          "text": "Không có sự thay đổi về tổng giá trị hàng hóa sản xuất ra.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa tăng lên đồng thời với tổng giá trị hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa giảm và tổng giá trị hàng hóa giảm.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mối quan hệ giữa giá cả và giá trị của hàng hóa theo kinh tế chính trị là gì?",
+      "explanation": "Giá cả phản ánh bằng tiền giá trị hàng hóa, trong khi giá trị được xác định bởi hao phí lao động xã hội.",
+      "answers": [
+        {
+          "text": "Giá cả quyết định giá trị hàng hóa dựa trên quan hệ cung cầu thị trường.",
+          "correct": false
+        },
+        {
+          "text": "Giá cả là tổng thời gian lao động cụ thể để sản xuất hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị và giá cả của hàng hóa luôn bằng nhau trong mọi trường hợp.",
+          "correct": false
+        },
+        {
+          "text": "Giá cả là biểu hiện bằng tiền của giá trị hàng hóa, do giá trị quyết định.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tại sao sản phẩm chưa trao đổi trên thị trường không được gọi là hàng hóa?",
+      "explanation": "Hàng hóa là sản phẩm có giá trị sử dụng và được đưa ra trao đổi trên thị trường, có giá trị trao đổi.",
+      "answers": [
+        {
+          "text": "Chỉ khi có tiền tệ mới xác định được sản phẩm là hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Vì sản phẩm không có giá trị sử dụng nếu chưa trao đổi trên thị trường.",
+          "correct": false
+        },
+        {
+          "text": "Sản phẩm không được sản xuất bởi lao động xã hội thì không phải hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Bởi vì hàng hóa phải có giá trị trao đổi, chỉ rõ khi sản phẩm được đem ra trao đổi.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tiền đủ giá trị và tiền ký hiệu giá trị thực hiện chức năng lưu thông thế nào?",
+      "explanation": "Tiền đủ giá trị (vàng, bạc) và tiền ký hiệu giá trị (tiền giấy) đều lưu thông trong phạm vi quốc gia, tiền giấy không dùng làm cất trữ lâu dài.",
+      "answers": [
+        {
+          "text": "Chỉ tiền đủ giá trị mới thực hiện chức năng lưu thông, còn tiền ký hiệu không thực hiện được.",
+          "correct": false
+        },
+        {
+          "text": "Tiền ký hiệu giá trị thực hiện được chức năng lưu thông toàn cầu, tiền đủ giá trị không.",
+          "correct": false
+        },
+        {
+          "text": "Tiền ký hiệu giá trị chỉ dùng làm phương tiện cất trữ, không lưu thông.",
+          "correct": false
+        },
+        {
+          "text": "Cả hai đều thực hiện chức năng lưu thông và thanh toán trong phạm vi quốc gia.",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "slug": "trac-nghiem-kinh-te-chinh-tri-gia-tri-hang-hoa-lao-dong-va-tien-te",
+  "kind": "mcq",
+  "url": "https://www.studocu.vn/vn/quiz/trac-nghiem-kinh-te-chinh-tri-gia-tri-hang-hoa-lao-dong-va-tien-te/12677620"
+}

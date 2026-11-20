@@ -1,0 +1,450 @@
+{
+  "id": 12719431,
+  "title": "Quiz: Kiểm Tra Trắc Nghiệm Tổng Hợp Về Kinh Tế Chính Trị",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "Điều kiện nào là cần thiết để sản xuất hàng hóa theo lý luận của C.Mác?",
+      "explanation": "Sản xuất hàng hóa theo C.Mác cần có phân công lao động xã hội và sự cách biệt kinh tế giữa người sản xuất.",
+      "answers": [
+        {
+          "text": "Phải có thị trường tự do không bị kiểm soát.",
+          "correct": false
+        },
+        {
+          "text": "Các nhà sản xuất phải có quyền sở hữu tư liệu sản xuất chung.",
+          "correct": false
+        },
+        {
+          "text": "Sản phẩm của lao động phải dùng để thỏa mãn nhu cầu trực tiếp của người sản xuất.",
+          "correct": false
+        },
+        {
+          "text": "Phân công lao động xã hội và sự cách biệt kinh tế giữa những người sản xuất.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Khái niệm giá trị sử dụng của hàng hóa được hiểu như thế nào?",
+      "explanation": "Giá trị sử dụng thể hiện công dụng của hàng hóa nhằm thỏa mãn nhu cầu con người.",
+      "answers": [
+        {
+          "text": "Là giá trị tiền tệ biểu hiện bên ngoài của hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Là giá trị trao đổi giữa các loại hàng hóa trên thị trường.",
+          "correct": false
+        },
+        {
+          "text": "Là công dụng của vật phẩm để thỏa mãn nhu cầu của con người do thuộc tính tự nhiên quyết định.",
+          "correct": true
+        },
+        {
+          "text": "Là số lượng thời gian lao động xã hội cần thiết để sản xuất một đơn vị hàng hóa.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ý nghĩa của lao động trừu tượng trong sản xuất hàng hóa là gì?",
+      "explanation": "Lao động trừu tượng biểu hiện hao phí lao động nói chung, quyết định giá trị xã hội hàng hóa.",
+      "answers": [
+        {
+          "text": "Lao động chỉ là hao phí sức lao động nói chung không phân biệt hình thức cụ thể, tạo ra giá trị xã hội của hàng hóa.",
+          "correct": true
+        },
+        {
+          "text": "Lao động thể hiện tính tư nhân của người sản xuất dưới một nghề nghiệp cụ thể.",
+          "correct": false
+        },
+        {
+          "text": "Lao động dùng để tạo ra công dụng của hàng hóa trong tiêu dùng.",
+          "correct": false
+        },
+        {
+          "text": "Lao động không liên quan đến giá trị thặng dư trong quá trình sản xuất.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong sản xuất giá trị thặng dư, tư bản khả biến (v) có đặc điểm nào?",
+      "explanation": "Tư bản khả biến là giá trị sức lao động, tạo ra giá trị mới và thặng dư trong sản xuất.",
+      "answers": [
+        {
+          "text": "Tư bản biến thành sức lao động, có giá trị tăng lên về lượng nhờ lao động trừu tượng.",
+          "correct": true
+        },
+        {
+          "text": "Tư bản chỉ chiếm tỷ lệ nhỏ trong tổng giá trị sản phẩm.",
+          "correct": false
+        },
+        {
+          "text": "Tư bản biến thành tư liệu sản xuất mà giá trị được bảo tồn nguyên vẹn.",
+          "correct": false
+        },
+        {
+          "text": "Tư bản không tham gia vào quá trình sinh ra giá trị mới.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Lợi nhuận thương nghiệp được hiểu như thế nào trong kinh tế?",
+      "explanation": "Lợi nhuận thương nghiệp là phần giá trị thặng dư nhượng lại cho nhà thương nghiệp trong quá trình lưu thông.",
+      "answers": [
+        {
+          "text": "Là lợi nhuận thu được từ sản xuất trực tiếp của nhà tư bản công nghiệp.",
+          "correct": false
+        },
+        {
+          "text": "Là khoản chi phí phát sinh trong quá trình sản xuất kinh doanh.",
+          "correct": false
+        },
+        {
+          "text": "Là phần giá trị hàng hóa bị mất do cạnh tranh trên thị trường.",
+          "correct": false
+        },
+        {
+          "text": "Là phần giá trị thặng dư mà nhà tư bản công nghiệp nhượng lại cho nhà tư bản thương nghiệp để thực hiện lưu thông hàng hóa.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Đặc điểm cơ bản của thị trường trong nền kinh tế thị trường là gì?",
+      "explanation": "Thị trường là nơi nhu cầu được đáp ứng qua trao đổi hàng hóa và dịch vụ với giá cả xác định.",
+      "answers": [
+        {
+          "text": "Thị trường chỉ bao gồm các hoạt động trao đổi giữa các nhà sản xuất lớn.",
+          "correct": false
+        },
+        {
+          "text": "Nhu cầu của các chủ thể được đáp ứng thông qua trao đổi mua bán với xác định giá cả và số lượng hàng hóa.",
+          "correct": true
+        },
+        {
+          "text": "Sản phẩm chỉ dùng để thỏa mãn nhu cầu trực tiếp của người sản xuất không trao đổi.",
+          "correct": false
+        },
+        {
+          "text": "Nhà nước trực tiếp kiểm soát tất cả các hoạt động sản xuất và phân phối.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quy luật cung cầu ảnh hưởng như thế nào đến giá cả hàng hóa?",
+      "explanation": "Giá cả thay đổi để cân bằng giữa lượng cung và lượng cầu trên thị trường.",
+      "answers": [
+        {
+          "text": "Giá cả được điều chỉnh trên cơ sở mối quan hệ giữa lượng cung và cầu để cân bằng thị trường.",
+          "correct": true
+        },
+        {
+          "text": "Cung càng lớn thì cầu càng giảm và giá tăng lên.",
+          "correct": false
+        },
+        {
+          "text": "Giá cả luôn cố định do chi phí sản xuất quyết định.",
+          "correct": false
+        },
+        {
+          "text": "Phần cầu không ảnh hưởng đến giá cả trên thị trường.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tiền tệ thực hiện chức năng nào không đúng trong nền kinh tế?",
+      "explanation": "Tiền tệ không chỉ dùng thanh toán nội bộ mà còn có chức năng rộng lớn hơn như lưu thông và lưu trữ giá trị.",
+      "answers": [
+        {
+          "text": "Là thước đo giá trị hàng hóa tiện lợi hơn các hình thức trao đổi khác.",
+          "correct": false
+        },
+        {
+          "text": "Chỉ là phương tiện thanh toán nội bộ không được sử dụng ngoài thị trường.",
+          "correct": true
+        },
+        {
+          "text": "Là phương tiện lưu thông trung gian trong quá trình trao đổi hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Là phương tiện lưu trữ giá trị, có thể dùng để thanh toán trong tương lai.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khái niệm giá trị thặng dư (m) được hiểu như thế nào trong sản xuất tư bản?",
+      "explanation": "Giá trị thặng dư là giá trị mới ngoài giá trị sức lao động mà công nhân tạo ra, thuộc về nhà tư bản.",
+      "answers": [
+        {
+          "text": "Là phần chi phí trả cho nguyên liệu thô và máy móc trong sản xuất.",
+          "correct": false
+        },
+        {
+          "text": "Là phần giá trị mới dôi ra ngoài giá trị sức lao động do công nhân tạo ra và thuộc về nhà tư bản.",
+          "correct": true
+        },
+        {
+          "text": "Là giá trị của tư liệu sản xuất được chuyển sang sản phẩm mới.",
+          "correct": false
+        },
+        {
+          "text": "Là toàn bộ giá trị sức lao động mà công nhân nhận được dưới dạng tiền công.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sản xuất giá trị thặng dư theo phương pháp tuyệt đối là gì?",
+      "explanation": "Phương pháp tuyệt đối tăng giá trị thặng dư bằng cách tăng thời gian lao động thặng dư.",
+      "answers": [
+        {
+          "text": "Chỉ tăng tỷ lệ lao động cụ thể nhưng không tăng giá trị thặng dư.",
+          "correct": false
+        },
+        {
+          "text": "Tăng năng suất lao động để tạo ra giá trị thặng dư lớn hơn mà thời gian lao động không đổi.",
+          "correct": false
+        },
+        {
+          "text": "Tăng thời gian lao động thặng dư bằng cách kéo dài thời gian làm việc mà không đổi năng suất lao động.",
+          "correct": true
+        },
+        {
+          "text": "Giảm cường độ lao động để tăng giá trị hàng hóa sản xuất.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Phân biệt tư bản cố định và tư bản lưu động dựa trên tiêu chí nào?",
+      "explanation": "Phân biệt dựa trên cách chuyển dịch giá trị và thời gian sử dụng trong sản xuất.",
+      "answers": [
+        {
+          "text": "Phương thức chuyển dịch giá trị và cách tham gia vào sản xuất theo giá trị và hiện vật.",
+          "correct": true
+        },
+        {
+          "text": "Tư bản cố định không ảnh hưởng đến giá trị sản phẩm, tư bản lưu động ảnh hưởng lớn.",
+          "correct": false
+        },
+        {
+          "text": "Tư bản cố định chỉ dùng cho dịch vụ, tư bản lưu động dùng cho sản xuất hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Tư bản cố định là vốn vay, tư bản lưu động là vốn tự sở hữu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khái niệm độc quyền trong nền kinh tế thị trường là gì?",
+      "explanation": "Độc quyền là sự liên minh có khả năng chi phối giá cả và sản lượng để thu lợi nhuận cao.",
+      "answers": [
+        {
+          "text": "Sự liên minh của các doanh nghiệp lớn, có khả năng thâu tóm sản xuất và tiêu thụ, định ra giá cả độc quyền để thu lợi lớn.",
+          "correct": true
+        },
+        {
+          "text": "Sự cạnh tranh giữa nhiều doanh nghiệp nhỏ trên thị trường tự do.",
+          "correct": false
+        },
+        {
+          "text": "Mô hình kinh tế mà nhà nước bao cấp toàn bộ các ngành sản xuất.",
+          "correct": false
+        },
+        {
+          "text": "Quan hệ hợp tác bình đẳng giữa các doanh nghiệp trong ngành sản xuất.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tại sao khi xuất hiện độc quyền vẫn còn cạnh tranh?",
+      "explanation": "Cạnh tranh còn tồn tại giữa các tổ chức độc quyền với nhau và bên trong chính các tổ chức đó.",
+      "answers": [
+        {
+          "text": "Vì có cạnh tranh giữa các tổ chức độc quyền với nhau và trong nội bộ các tổ chức độc quyền.",
+          "correct": true
+        },
+        {
+          "text": "Vì độc quyền đã loại bỏ hoàn toàn mọi dạng cạnh tranh trên thị trường.",
+          "correct": false
+        },
+        {
+          "text": "Vì thị trường chưa phát triển đủ để tạo ra độc quyền thực sự.",
+          "correct": false
+        },
+        {
+          "text": "Do nhà nước can thiệp cho phép nhiều doanh nghiệp nhỏ cạnh tranh.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Nguyên nhân chính dẫn đến hình thành các tổ chức độc quyền là gì?",
+      "explanation": "Sự phát triển lực lượng sản xuất và tập trung sản xuất tạo điều kiện hình thành độc quyền.",
+      "answers": [
+        {
+          "text": "Do nhu cầu tiêu dùng bị giảm sút mạnh trên thị trường.",
+          "correct": false
+        },
+        {
+          "text": "Do nhà nước cung cấp vốn nhiều cho các doanh nghiệp nhỏ.",
+          "correct": false
+        },
+        {
+          "text": "Do xuất hiện nhiều doanh nghiệp cạnh tranh nhỏ lẻ thay thế nhau.",
+          "correct": false
+        },
+        {
+          "text": "Sự phát triển của lực lượng sản xuất và quá trình tập trung, tích tụ sản xuất.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Độc quyền nhà nước được hiểu như thế nào?",
+      "explanation": "Độc quyền nhà nước là nhà nước giữ vị thế độc quyền trong các lĩnh vực chủ yếu để ổn định chính trị - xã hội.",
+      "answers": [
+        {
+          "text": "Nhà nước nắm giữ vị thế độc quyền trong những lĩnh vực then chốt nhằm ổn định chính trị và kinh tế.",
+          "correct": true
+        },
+        {
+          "text": "Là sự cạnh tranh hoàn toàn giữa các doanh nghiệp nhà nước và tư nhân.",
+          "correct": false
+        },
+        {
+          "text": "Là sự quản lý mạnh tay của nhà nước nhằm hỗ trợ các doanh nghiệp nhỏ.",
+          "correct": false
+        },
+        {
+          "text": "Nhà nước loại bỏ hoàn toàn sự tồn tại của bất kỳ doanh nghiệp độc quyền nào.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vai trò tích cực của các tổ chức độc quyền đối với nền kinh tế là gì?",
+      "explanation": "Độc quyền có thể thúc đẩy nghiên cứu khoa học kỹ thuật, nâng cao năng suất và năng lực cạnh tranh.",
+      "answers": [
+        {
+          "text": "Làm kìm hãm sự phát triển kỹ thuật và gia tăng bất bình đẳng xã hội.",
+          "correct": false
+        },
+        {
+          "text": "Gây ra sự thừa thãi và làm giá cả hàng hóa thấp hơn giá trị sản xuất.",
+          "correct": false
+        },
+        {
+          "text": "Loại bỏ hoàn toàn nguồn lực cạnh tranh và sáng tạo trên thị trường.",
+          "correct": false
+        },
+        {
+          "text": "Có khả năng nghiên cứu và triển khai KHKT, nâng cao năng suất lao động và khả năng cạnh tranh.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Nền kinh tế thị trường định hướng XHCN của Việt Nam đặc trưng bởi điểm nào?",
+      "explanation": "Kinh tế thị trường định hướng XHCN ở Việt Nam vận hành theo quy luật thị trường nhưng có điều tiết nhà nước.",
+      "answers": [
+        {
+          "text": "Nền kinh tế thị trường tự do không có sự can thiệp của nhà nước.",
+          "correct": false
+        },
+        {
+          "text": "Nền kinh tế vận hành theo các quy luật của thị trường nhưng có sự điều tiết của nhà nước do Đảng lãnh đạo.",
+          "correct": true
+        },
+        {
+          "text": "Nền kinh tế chỉ dựa vào thành phần kinh tế nhà nước độc quyền.",
+          "correct": false
+        },
+        {
+          "text": "Nền kinh tế hoàn toàn do nhà nước kế hoạch hóa và kiểm soát.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khái niệm lợi ích kinh tế được hiểu thế nào?",
+      "explanation": "Lợi ích kinh tế là lợi ích vật chất phát sinh từ các hoạt động kinh tế của con người.",
+      "answers": [
+        {
+          "text": "Lợi ích tinh thần không liên quan đến hoạt động kinh tế thực tế.",
+          "correct": false
+        },
+        {
+          "text": "Lợi ích không có vai trò thúc đẩy sự phát triển kinh tế xã hội.",
+          "correct": false
+        },
+        {
+          "text": "Chỉ là lợi ích của nhà nước và doanh nghiệp lớn trên thị trường.",
+          "correct": false
+        },
+        {
+          "text": "Lợi ích vật chất thu được khi thực hiện các hoạt động kinh tế của con người.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "CNH - HĐH ở Việt Nam có nội dung nào sau đây?",
+      "explanation": "CNH-HĐH nhằm chuyển đổi nền sản xuất lạc hậu sang hiện đại và ứng dụng khoa học công nghệ.",
+      "answers": [
+        {
+          "text": "Duy trì mô hình sản xuất tiểu nông trù phú không phát triển công nghiệp hóa.",
+          "correct": false
+        },
+        {
+          "text": "Tạo điều kiện chuyển đổi từ nền sản xuất xã hội lạc hậu sang nền sản xuất xã hội hiện đại.",
+          "correct": true
+        },
+        {
+          "text": "Không chú trọng ứng dụng khoa học kỹ thuật và công nghệ mới.",
+          "correct": false
+        },
+        {
+          "text": "Ngăn cản hội nhập kinh tế quốc tế để bảo vệ nền kinh tế nội địa.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vai trò của hội nhập kinh tế quốc tế đối với Việt Nam?",
+      "explanation": "Hội nhập kinh tế quốc tế giúp đa dạng hình thức giao thương và phát triển kinh tế Việt Nam.",
+      "answers": [
+        {
+          "text": "Chuẩn bị điều kiện và thực hiện đa dạng hình thức hội nhập để phát triển kinh tế.",
+          "correct": true
+        },
+        {
+          "text": "Phụ thuộc hoàn toàn vào nền kinh tế các nước phát triển mà không có sự chủ động.",
+          "correct": false
+        },
+        {
+          "text": "Không có ảnh hưởng đáng kể đến sự phát triển kinh tế xã hội của Việt Nam.",
+          "correct": false
+        },
+        {
+          "text": "Hạn chế tiếp cận các thị trường và công nghệ mới trên thế giới.",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "kiem-tra-trac-nghiem-tong-hop-ve-kinh-te-chinh-tri",
+  "kind": "mcq",
+  "url": "https://www.studocu.vn/vn/quiz/kiem-tra-trac-nghiem-tong-hop-ve-kinh-te-chinh-tri/12719431"
+}

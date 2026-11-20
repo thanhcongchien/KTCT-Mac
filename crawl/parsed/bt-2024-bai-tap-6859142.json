@@ -1,0 +1,450 @@
+{
+  "id": 6859142,
+  "title": "Quiz: BT 2024 - Bài Tập Về Tư Bản Và Chi Phí Sản Xuất",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "Tỷ suất giá trị thặng dư của doanh nghiệp sản xuất ti vi là bao nhiêu?",
+      "explanation": "Tỷ suất giá trị thặng dư được tính bằng tỷ lệ giữa giá trị thặng dư và tổng giá trị tư bản. Trong trường hợp này, tỷ suất là 15%.",
+      "answers": [
+        {
+          "text": "20%",
+          "correct": false
+        },
+        {
+          "text": "25%",
+          "correct": false
+        },
+        {
+          "text": "15%",
+          "correct": true
+        },
+        {
+          "text": "10%",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của một đơn vị hàng hóa trong doanh nghiệp sản xuất ti vi là bao nhiêu?",
+      "explanation": "Giá trị của một đơn vị hàng hóa được tính bằng tổng chi phí sản xuất chia cho số lượng sản phẩm. Kết quả là 3,78 đơn vị tiền tệ.",
+      "answers": [
+        {
+          "text": "2,50 đvtt",
+          "correct": false
+        },
+        {
+          "text": "3,78 đvtt",
+          "correct": true
+        },
+        {
+          "text": "5,00 đvtt",
+          "correct": false
+        },
+        {
+          "text": "4,50 đvtt",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tỷ suất lợi nhuận của tư bản sau khi tích lũy thay đổi như thế nào so với trước khi tích lũy?",
+      "explanation": "Tỷ suất lợi nhuận sau khi tích lũy giảm so với trước khi tích lũy, cho thấy sự thay đổi trong hiệu quả sử dụng vốn.",
+      "answers": [
+        {
+          "text": "Giảm",
+          "correct": true
+        },
+        {
+          "text": "Bằng 0",
+          "correct": false
+        },
+        {
+          "text": "Tăng",
+          "correct": false
+        },
+        {
+          "text": "Không thay đổi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Chi phí khấu hao máy móc, thiết bị trong doanh nghiệp may mặc là bao nhiêu?",
+      "explanation": "Chi phí khấu hao máy móc, thiết bị mỗi năm là 3,5 triệu USD, là một phần quan trọng trong tổng chi phí sản xuất.",
+      "answers": [
+        {
+          "text": "4 triệu USD",
+          "correct": false
+        },
+        {
+          "text": "2,5 triệu USD",
+          "correct": false
+        },
+        {
+          "text": "3,5 triệu USD",
+          "correct": true
+        },
+        {
+          "text": "5 triệu USD",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của tổng số hàng hóa được sản xuất trong năm là bao nhiêu?",
+      "explanation": "Giá trị tổng số hàng hóa được sản xuất trong năm được tính là 31,2 triệu USD, dựa trên các yếu tố như chi phí nguyên vật liệu và tiền lương.",
+      "answers": [
+        {
+          "text": "6 triệu USD",
+          "correct": false
+        },
+        {
+          "text": "12 triệu USD",
+          "correct": false
+        },
+        {
+          "text": "18 triệu USD",
+          "correct": false
+        },
+        {
+          "text": "31,2 triệu USD",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản được xác định là bao nhiêu?",
+      "explanation": "Cấu tạo hữu cơ của tư bản được xác định là 90 triệu USD, dựa trên thời gian sử dụng của tư bản cố định và chi phí nguyên vật liệu.",
+      "answers": [
+        {
+          "text": "60 triệu USD",
+          "correct": false
+        },
+        {
+          "text": "90 triệu USD",
+          "correct": true
+        },
+        {
+          "text": "75 triệu USD",
+          "correct": false
+        },
+        {
+          "text": "120 triệu USD",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Thời gian lao động thặng dư gấp bao nhiêu lần thời gian lao động tất yếu?",
+      "explanation": "Thời gian lao động thặng dư gấp 1,2 lần thời gian lao động tất yếu, điều này ảnh hưởng đến giá trị thặng dư và lợi nhuận của doanh nghiệp.",
+      "answers": [
+        {
+          "text": "1,2 lần",
+          "correct": true
+        },
+        {
+          "text": "2 lần",
+          "correct": false
+        },
+        {
+          "text": "3 lần",
+          "correct": false
+        },
+        {
+          "text": "1,5 lần",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của mỗi sản phẩm được tính như thế nào?",
+      "explanation": "Giá trị của mỗi sản phẩm được tính bằng tổng giá trị hàng hóa chia cho số lượng sản phẩm, trong trường hợp này là 312 triệu USD chia cho 4 sản phẩm.",
+      "answers": [
+        {
+          "text": "312 triệu USD chia cho 4 sản phẩm",
+          "correct": true
+        },
+        {
+          "text": "6 triệu USD chia cho 2 sản phẩm",
+          "correct": false
+        },
+        {
+          "text": "90 triệu USD chia cho 5 sản phẩm",
+          "correct": false
+        },
+        {
+          "text": "31,2 triệu USD chia cho 3 sản phẩm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ngành nào có tư bản bất biến là 12994 và tỷ lệ thời gian lao động thặng dư gấp 1,35 lần thời gian lao động tất cả?",
+      "explanation": "Ngành A có tư bản bất biến là 12994 và tỷ lệ thời gian lao động thặng dư gấp 1,35 lần thời gian lao động tất cả, cho thấy sự đầu tư lớn vào tư bản bất biến.",
+      "answers": [
+        {
+          "text": "Ngành D",
+          "correct": false
+        },
+        {
+          "text": "Ngành A",
+          "correct": true
+        },
+        {
+          "text": "Ngành B",
+          "correct": false
+        },
+        {
+          "text": "Ngành C",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tổng giá trị tư bản của doanh nghiệp trong năm 2017 là bao nhiêu tỷ đồng?",
+      "explanation": "Tổng giá trị tư bản của doanh nghiệp được tính là 1120 tỷ đồng, bao gồm tư bản cố định và tư bản lưu động.",
+      "answers": [
+        {
+          "text": "1080 tỷ đồng",
+          "correct": false
+        },
+        {
+          "text": "1120 tỷ đồng",
+          "correct": true
+        },
+        {
+          "text": "350 tỷ đồng",
+          "correct": false
+        },
+        {
+          "text": "840 tỷ đồng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong năm 2018, tỷ lệ giá trị thặng dư dành cho tiêu dùng là gì?",
+      "explanation": "Tỷ lệ giá trị thặng dư dành cho tiêu dùng là số còn lại sau khi trừ chi phí sản xuất, cho thấy sự phân bổ tài chính của doanh nghiệp.",
+      "answers": [
+        {
+          "text": "Không có giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "50% giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Số còn lại sử dụng cho tích lũy tư bản",
+          "correct": true
+        },
+        {
+          "text": "100% giá trị thặng dư",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản trong năm 2017 được xác định là bao nhiêu?",
+      "explanation": "Cấu tạo hữu cơ của tư bản được xác định là 840/240, cho thấy tỷ lệ giữa tư bản bất biến và tư bản khả biến.",
+      "answers": [
+        {
+          "text": "1560/16",
+          "correct": false
+        },
+        {
+          "text": "840/240",
+          "correct": true
+        },
+        {
+          "text": "1080/40",
+          "correct": false
+        },
+        {
+          "text": "350/70",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tổng số tư bản của doanh nghiệp trong năm 2020 là bao nhiêu?",
+      "explanation": "Tổng số tư bản được tính bằng c + v + c1 + c2, với c1 = 540 tỷ, c2 = 720 tỷ, v = 180 tỷ, dẫn đến tổng là 1440 tỷ đồng.",
+      "answers": [
+        {
+          "text": "945 tỷ đồng",
+          "correct": false
+        },
+        {
+          "text": "180 tỷ đồng",
+          "correct": false
+        },
+        {
+          "text": "720 tỷ đồng",
+          "correct": false
+        },
+        {
+          "text": "1440 tỷ đồng",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư được sử dụng cho đầu tư mới trong doanh nghiệp là bao nhiêu?",
+      "explanation": "Giá trị thặng dư được sử dụng cho đầu tư mới là 897 triệu đồng, chiếm giá trị thặng dư thu từ thời gian lao động thặng dư của công nhân.",
+      "answers": [
+        {
+          "text": "1380 triệu đồng",
+          "correct": false
+        },
+        {
+          "text": "1716 triệu đồng",
+          "correct": false
+        },
+        {
+          "text": "1800 triệu đồng",
+          "correct": false
+        },
+        {
+          "text": "897 triệu đồng",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tỷ suất lợi nhuận của tư bản sau tích lũy có thay đổi như thế nào so với trước khi tích lũy?",
+      "explanation": "Tỷ suất lợi nhuận sau tích lũy tăng lên, cho thấy hiệu quả đầu tư tốt hơn sau khi sử dụng giá trị thặng dư.",
+      "answers": [
+        {
+          "text": "Không thay đổi",
+          "correct": false
+        },
+        {
+          "text": "Giảm",
+          "correct": false
+        },
+        {
+          "text": "Tăng",
+          "correct": true
+        },
+        {
+          "text": "Bằng 0",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khấu hao tư bản cố định trong năm 2020 là bao nhiêu?",
+      "explanation": "Khấu hao tư bản cố định trong năm là 45 tỷ đồng, được tính dựa trên thời gian sử dụng 12 năm.",
+      "answers": [
+        {
+          "text": "720 tỷ đồng",
+          "correct": false
+        },
+        {
+          "text": "45 tỷ đồng",
+          "correct": true
+        },
+        {
+          "text": "540 tỷ đồng",
+          "correct": false
+        },
+        {
+          "text": "15 tỷ đồng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản trong năm 2020 được xác định như thế nào?",
+      "explanation": "Cấu tạo hữu cơ của tư bản được tính dựa trên tỷ lệ giữa tư bản bất biến và tư bản khả biến, với các giá trị cụ thể được nêu trong tài liệu.",
+      "answers": [
+        {
+          "text": "Không có ảnh hưởng gì",
+          "correct": false
+        },
+        {
+          "text": "Chỉ dựa vào giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Chỉ dựa vào chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Tính theo tỷ lệ giữa tư bản bất biến và khả biến",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tổng số tư bản lưu động của doanh nghiệp trong năm 2020 là bao nhiêu tỷ đồng?",
+      "explanation": "Tổng số tư bản lưu động của doanh nghiệp trong năm 2020 là 1440 tỷ đồng, theo thông tin đã nêu trong đoạn văn.",
+      "answers": [
+        {
+          "text": "1260 (tỷ đồng)",
+          "correct": false
+        },
+        {
+          "text": "180 (tỷ đồng)",
+          "correct": false
+        },
+        {
+          "text": "700 (tỷ đồng)",
+          "correct": false
+        },
+        {
+          "text": "1440 (tỷ đồng)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của nguyên, nhiên, vật liệu trong năm 2020 gấp bao nhiêu lần giá trị của tiền thời gian lao động?",
+      "explanation": "Giá trị của nguyên, nhiên, vật liệu gấp 7 lần giá trị của tiền thời gian lao động, như đã được nêu rõ trong đoạn văn.",
+      "answers": [
+        {
+          "text": "12 lần",
+          "correct": false
+        },
+        {
+          "text": "7 lần",
+          "correct": true
+        },
+        {
+          "text": "14 lần",
+          "correct": false
+        },
+        {
+          "text": "1,5 lần",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Chi phí sản xuất năm 2020 của doanh nghiệp là bao nhiêu tỷ đồng?",
+      "explanation": "Chi phí sản xuất năm 2020 được tính là 1980 tỷ đồng, bao gồm các thành phần như c1, c2 và v.",
+      "answers": [
+        {
+          "text": "1980 (tỷ đồng)",
+          "correct": true
+        },
+        {
+          "text": "540 (tỷ đồng)",
+          "correct": false
+        },
+        {
+          "text": "270 (tỷ đồng)",
+          "correct": false
+        },
+        {
+          "text": "1260 (tỷ đồng)",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "bt-2024-bai-tap",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/bt-2024-bai-tap/6859142"
+}

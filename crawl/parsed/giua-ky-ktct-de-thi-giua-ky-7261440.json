@@ -1,0 +1,186 @@
+{
+  "id": 7261440,
+  "title": "Quiz: Đề thi giữa kỳ Kinh tế chính trị - Mã: KTCT - Đề 2",
+  "totalQuestions": 8,
+  "questions": [
+    {
+      "question": "Giá trị hàng hóa được định nghĩa là gì?",
+      "explanation": "Giá trị hàng hóa không chỉ là số tiền mà nó được bán, mà là lao động xã hội kết tinh trong hàng hóa đó.",
+      "answers": [
+        {
+          "text": "Giá trị hàng hóa là chi phí sản xuất của hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị hàng hóa là số tiền mua bán hàng hóa đó.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị hàng hóa là giá cả thị trường của hàng hóa.",
+          "correct": false
+        },
+        {
+          "text": "Giá trị hàng hóa là lao động xã hội của người sản xuất ra hàng hóa.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Chi phí sản xuất tư bản chủ nghĩa bao gồm những gì?",
+      "explanation": "Chi phí sản xuất bao gồm giá trị của tư liệu sản xuất và sức lao động đã sử dụng, không chỉ là lao động quá khứ và lao động sống.",
+      "answers": [
+        {
+          "text": "Chi phí sản xuất là tổng giá trị hàng hóa đã tiêu thụ.",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất là chi phí về lao động quá khứ và lao động sống.",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất là phần giá trị của hàng hóa để bù lại giá cả của tư liệu sản xuất và sức lao động.",
+          "correct": true
+        },
+        {
+          "text": "Chi phí sản xuất chỉ bao gồm chi phí lao động sống.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tiền giấy không thực hiện đầy đủ chức năng nào của tiền tệ?",
+      "explanation": "Tiền giấy không thể thực hiện chức năng cất trữ, vì khi cất trữ, nó không còn lưu thông.",
+      "answers": [
+        {
+          "text": "Tiền giấy không thực hiện được chức năng đo lường giá trị.",
+          "correct": false
+        },
+        {
+          "text": "Tiền giấy không thực hiện được chức năng cất trữ.",
+          "correct": true
+        },
+        {
+          "text": "Tiền giấy không thực hiện được chức năng thanh toán.",
+          "correct": false
+        },
+        {
+          "text": "Tiền giấy không thực hiện được chức năng trao đổi.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quá trình sản xuất và tiêu dùng dịch vụ diễn ra như thế nào?",
+      "explanation": "Sản xuất và tiêu dùng dịch vụ diễn ra đồng thời, không theo trật tự sản xuất trước, tiêu dùng sau.",
+      "answers": [
+        {
+          "text": "Tiêu dùng dịch vụ chỉ xảy ra sau khi sản xuất hoàn tất.",
+          "correct": false
+        },
+        {
+          "text": "Sản xuất luôn diễn ra trước tiêu dùng dịch vụ.",
+          "correct": false
+        },
+        {
+          "text": "Sản xuất dịch vụ không liên quan đến tiêu dùng.",
+          "correct": false
+        },
+        {
+          "text": "Sản xuất và tiêu dùng dịch vụ diễn ra đồng thời.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Động lực quan trọng nhất trong phát triển nền kinh tế thị trường là gì?",
+      "explanation": "Động lực phát triển không chỉ là lợi ích của nhà đầu tư mà còn bao gồm lợi ích của người tiêu dùng và xã hội.",
+      "answers": [
+        {
+          "text": "Động lực phát triển chỉ là lợi ích của người tiêu dùng.",
+          "correct": false
+        },
+        {
+          "text": "Động lực phát triển chỉ là lợi ích của nhà đầu tư.",
+          "correct": false
+        },
+        {
+          "text": "Động lực phát triển là lợi ích của nhà nước mà không liên quan đến nhà đầu tư.",
+          "correct": false
+        },
+        {
+          "text": "Động lực phát triển là lợi ích của nhà đầu tư, người tiêu dùng và xã hội.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Lợi tức cổ phiếu phụ thuộc vào yếu tố nào?",
+      "explanation": "Lợi tức cổ phiếu phụ thuộc vào tình hình kinh doanh của công ty, trong khi lợi tức trái phiếu không bị ảnh hưởng bởi điều này.",
+      "answers": [
+        {
+          "text": "Giá trị tài sản cố định",
+          "correct": false
+        },
+        {
+          "text": "Tình hình kinh doanh của công ty",
+          "correct": true
+        },
+        {
+          "text": "Chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Lãi suất ngân hàng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư siêu ngạch được sản xuất dựa trên cơ sở nào?",
+      "explanation": "Giá trị thặng dư siêu ngạch được tạo ra từ việc tăng năng suất lao động cá biệt, làm cho giá trị hàng hóa thấp hơn giá trị xã hội.",
+      "answers": [
+        {
+          "text": "Tăng năng suất lao động cá biệt",
+          "correct": true
+        },
+        {
+          "text": "Giảm chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Tăng năng suất lao động xã hội",
+          "correct": false
+        },
+        {
+          "text": "Tăng giá bán hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cung cầu có ảnh hưởng gì đến giá trị của hàng hóa không?",
+      "explanation": "Cung cầu không ảnh hưởng đến giá trị hàng hóa mà chỉ tác động đến giá cả của hàng hóa đó.",
+      "answers": [
+        {
+          "text": "Có, ảnh hưởng trực tiếp đến giá trị",
+          "correct": false
+        },
+        {
+          "text": "Có, nhưng chỉ trong ngắn hạn",
+          "correct": false
+        },
+        {
+          "text": "Không, chỉ ảnh hưởng đến giá cả",
+          "correct": true
+        },
+        {
+          "text": "Không, không có mối liên hệ nào",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "giua-ky-ktct-de-thi-giua-ky",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/giua-ky-ktct-de-thi-giua-ky/7261440"
+}

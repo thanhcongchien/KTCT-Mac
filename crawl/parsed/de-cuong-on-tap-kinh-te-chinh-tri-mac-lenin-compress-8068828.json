@@ -1,0 +1,450 @@
+{
+  "id": 8068828,
+  "title": "Quiz: Đề cương ôn tập Kinh tế Chính trị Mác - Lê Nin (Chương 1 và 2)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "Hàng hóa có những thuộc tính nào?",
+      "explanation": "Hàng hóa có hai thuộc tính là giá trị sử dụng và giá trị, không phải giá trị trao đổi.",
+      "answers": [
+        {
+          "text": "Giá trị sử dụng và giá trị trao đổi",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng và giá trị",
+          "correct": true
+        },
+        {
+          "text": "Giá trị sử dụng và giá trị thị trường",
+          "correct": false
+        },
+        {
+          "text": "Giá trị trao đổi và giá cả",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khi nào hàng hóa có thể trao đổi mà không cần tiền tệ?",
+      "explanation": "Hàng hóa có thể trao đổi trực tiếp với nhau thông qua hình thức vật đổi lấy vật trước khi có tiền tệ.",
+      "answers": [
+        {
+          "text": "Khi có sự phân công lao động",
+          "correct": false
+        },
+        {
+          "text": "Khi tiền chưa ra đời",
+          "correct": true
+        },
+        {
+          "text": "Khi tiền đã ra đời",
+          "correct": false
+        },
+        {
+          "text": "Khi hàng hóa có giá trị sử dụng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị sử dụng của hàng hóa được biểu hiện ở đâu?",
+      "explanation": "Giá trị sử dụng của hàng hóa được biểu hiện trong tiêu dùng, không phải trong trao đổi hàng hóa.",
+      "answers": [
+        {
+          "text": "Trong tiêu dùng",
+          "correct": true
+        },
+        {
+          "text": "Trong trao đổi hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Trong giá cả hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Trong sản xuất hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị trao đổi của hàng hóa là gì?",
+      "explanation": "Giá trị trao đổi là tỷ lệ về lượng mà các hàng hóa trao đổi với nhau, không phải là số tiền mua bán hàng hóa.",
+      "answers": [
+        {
+          "text": "Tỷ lệ về lượng hàng hóa trao đổi",
+          "correct": true
+        },
+        {
+          "text": "Số tiền mua bán hàng hóa trên thị trường",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Giá cả hàng hóa trên thị trường",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Lao động trừu tượng được định nghĩa như thế nào?",
+      "explanation": "Lao động trừu tượng là lao động xét về mặt hao phí sức lao động của người sản xuất hàng hóa, không phải mọi sự hao phí sức lao động.",
+      "answers": [
+        {
+          "text": "Lao động trong sản xuất hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Lao động trong tiêu dùng hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Mọi sự hao phí sức lao động",
+          "correct": false
+        },
+        {
+          "text": "Lao động của người sản xuất hàng hóa",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Lao động trừu tượng tạo ra giá trị gì cho hàng hóa?",
+      "explanation": "Lao động trừu tượng tạo ra giá trị không phải là giá trị sử dụng của hàng hóa, mà là giá trị xã hội cần thiết.",
+      "answers": [
+        {
+          "text": "Giá trị tư liệu sản xuất của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Giá trị không phải là giá trị sử dụng của hàng hóa",
+          "correct": true
+        },
+        {
+          "text": "Giá trị sử dụng của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư của hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của hàng hóa trong chủ nghĩa tư bản bao gồm những gì?",
+      "explanation": "Giá trị của hàng hóa trong chủ nghĩa tư bản bao gồm giá trị tư liệu sản xuất, tiền lương và giá trị thặng dư.",
+      "answers": [
+        {
+          "text": "Chỉ giá trị thặng dư và giá trị sử dụng",
+          "correct": false
+        },
+        {
+          "text": "Giá trị tư liệu sản xuất, tiền lương và giá trị thặng dư",
+          "correct": true
+        },
+        {
+          "text": "Chỉ giá trị tư liệu sản xuất và tiền lương",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng và giá trị trao đổi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của hàng hóa phụ thuộc vào yếu tố nào?",
+      "explanation": "Giá trị của hàng hóa phụ thuộc vào hao phí lao động xã hội cần thiết, không phải giá trị sử dụng hay quan hệ cung cầu.",
+      "answers": [
+        {
+          "text": "Giá trị trao đổi của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Quan hệ cung cầu của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Hao phí lao động xã hội cần thiết",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá cả hàng hóa có mối quan hệ như thế nào với giá trị?",
+      "explanation": "Giá cả hàng hóa là biểu hiện bằng tiền của giá trị, phản ánh hao phí lao động xã hội để sản xuất hàng hóa.",
+      "answers": [
+        {
+          "text": "Giá cả không liên quan đến giá trị",
+          "correct": false
+        },
+        {
+          "text": "Giá cả là biểu hiện bằng tiền của giá trị",
+          "correct": true
+        },
+        {
+          "text": "Giá cả chỉ phản ánh giá trị trao đổi",
+          "correct": false
+        },
+        {
+          "text": "Giá cả phụ thuộc vào giá trị sử dụng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Khi năng suất lao động và cường độ lao động đều tăng, điều gì xảy ra với tổng số giá trị hàng hóa?",
+      "explanation": "Khi năng suất lao động và cường độ lao động đều tăng, tổng số giá trị hàng hóa sản xuất ra trong một đơn vị thời gian cũng tăng.",
+      "answers": [
+        {
+          "text": "Tổng số giá trị hàng hóa sản xuất ra không thay đổi",
+          "correct": false
+        },
+        {
+          "text": "Tổng số giá trị hàng hóa sản xuất ra giảm",
+          "correct": false
+        },
+        {
+          "text": "Tổng số giá trị hàng hóa sản xuất ra tăng",
+          "correct": true
+        },
+        {
+          "text": "Tổng số giá trị hàng hóa sản xuất ra phụ thuộc vào giá trị sử dụng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hàng hóa có thể được coi là vật ngang giá chung ngoài tiền không?",
+      "explanation": "Hàng hóa có thể được coi là vật ngang giá chung ngoài tiền, cho thấy rằng hàng hóa có thể được trao đổi dựa trên giá trị của chúng.",
+      "answers": [
+        {
+          "text": "Hàng hóa chỉ có giá trị khi có tiền",
+          "correct": false
+        },
+        {
+          "text": "Không, hàng hóa không thể là vật ngang giá chung ngoài tiền",
+          "correct": false
+        },
+        {
+          "text": "Có, hàng hóa có thể là vật ngang giá chung ngoài tiền",
+          "correct": true
+        },
+        {
+          "text": "Chỉ tiền mới có thể là vật ngang giá chung",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của hàng hóa chịu tác động của yếu tố nào?",
+      "explanation": "Giá trị của hàng hóa chủ yếu chịu tác động của hao phí lao động xã hội cần thiết, không phải quan hệ cung cầu.",
+      "answers": [
+        {
+          "text": "Giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Hao phí lao động xã hội cần thiết",
+          "correct": true
+        },
+        {
+          "text": "Cấu tạo hữu cơ của tư bản",
+          "correct": false
+        },
+        {
+          "text": "Quan hệ cung cầu của hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mục đích của lưu thông hàng hóa giản đơn là gì?",
+      "explanation": "Mục đích của lưu thông hàng hóa giản đơn là giá trị sử dụng, không phải giá trị thặng dư.",
+      "answers": [
+        {
+          "text": "Tăng trưởng kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng",
+          "correct": true
+        },
+        {
+          "text": "Lợi nhuận từ đầu tư",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong lưu thông, nếu hàng hóa được trao đổi không ngang giá thì điều gì xảy ra?",
+      "explanation": "Trao đổi không ngang giá không tạo ra giá trị và giá trị thặng dư, chỉ làm thay đổi giá trị của mỗi bên.",
+      "answers": [
+        {
+          "text": "Không tạo ra giá trị và giá trị thặng dư",
+          "correct": true
+        },
+        {
+          "text": "Tạo ra giá trị thặng dư cho bên mua",
+          "correct": false
+        },
+        {
+          "text": "Giá trị tổng số sẽ tăng lên",
+          "correct": false
+        },
+        {
+          "text": "Tạo ra giá trị mới cho cả hai bên",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tư bản bất biến và tư bản khả biến có vai trò gì trong quá trình tạo ra giá trị thặng dư?",
+      "explanation": "Tư bản bất biến là điều kiện sản xuất giá trị thặng dư, trong khi tư bản khả biến là nguồn gốc trực tiếp tạo ra giá trị thặng dư.",
+      "answers": [
+        {
+          "text": "Không có vai trò trong quá trình sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Có vai trò giống nhau trong tạo ra giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Chỉ tư bản khả biến tạo ra giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Có vai trò khác nhau trong tạo ra giá trị thặng dư",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tư bản cho vay và tư bản ngân hàng vận động theo quy luật nào?",
+      "explanation": "Tư bản cho vay vận động theo tỷ suất lợi tức, trong khi tư bản ngân hàng theo tỷ suất lợi nhuận bình quân, cho thấy sự khác biệt trong cơ chế hoạt động của chúng.",
+      "answers": [
+        {
+          "text": "Tư bản cho vay theo tỷ suất lợi tức và tư bản ngân hàng theo tỷ suất lợi nhuận bình quân",
+          "correct": true
+        },
+        {
+          "text": "Tư bản cho vay theo tỷ suất lợi nhuận bình quân và tư bản ngân hàng theo tỷ suất lợi tức",
+          "correct": false
+        },
+        {
+          "text": "Cả hai đều theo tỷ suất lợi tức",
+          "correct": false
+        },
+        {
+          "text": "Cả hai đều theo tỷ suất lợi nhuận bình quân",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá cả độc quyền trong chủ nghĩa tư bản độc quyền được xác định như thế nào?",
+      "explanation": "Giá cả độc quyền được xác định bằng chi phí sản xuất cộng với lợi nhuận độc quyền, không phải lợi nhuận bình quân, phản ánh sự kiểm soát của các nhà độc quyền.",
+      "answers": [
+        {
+          "text": "Giá cả độc quyền bằng chi phí sản xuất cộng với lợi nhuận độc quyền",
+          "correct": true
+        },
+        {
+          "text": "Giá cả độc quyền bằng chi phí sản xuất cộng với lợi nhuận bình quân",
+          "correct": false
+        },
+        {
+          "text": "Giá cả độc quyền bằng chi phí sản xuất trừ lợi nhuận bình quân",
+          "correct": false
+        },
+        {
+          "text": "Giá cả độc quyền bằng chi phí sản xuất cộng với chi phí vận hành",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư tương đối và giá trị thặng dư tuyệt đối đều dựa trên yếu tố nào?",
+      "explanation": "Cả hai loại giá trị thặng dư đều dựa trên việc tăng năng suất lao động, nhưng có sự khác biệt trong cách thức tăng trưởng.",
+      "answers": [
+        {
+          "text": "Tăng năng suất lao động",
+          "correct": true
+        },
+        {
+          "text": "Tăng số lượng lao động",
+          "correct": false
+        },
+        {
+          "text": "Giảm thời gian lao động",
+          "correct": false
+        },
+        {
+          "text": "Giảm chi phí sản xuất",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tích tụ tư bản và tập trung tư bản có điểm khác biệt nào?",
+      "explanation": "Tích tụ tư bản là sự tăng thêm quy mô thông qua việc tư bản hóa giá trị thặng dư, trong khi tập trung tư bản là sự sát nhập các tư bản lại với nhau.",
+      "answers": [
+        {
+          "text": "Tích tụ tư bản là giảm quy mô của tư bản",
+          "correct": false
+        },
+        {
+          "text": "Tích tụ tư bản là sát nhập các tư bản lại với nhau",
+          "correct": false
+        },
+        {
+          "text": "Tích tụ tư bản là tăng quy mô qua tư bản hóa giá trị thặng dư",
+          "correct": true
+        },
+        {
+          "text": "Tích tụ tư bản là tăng quy mô thông qua vay mượn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tỷ suất giá trị thặng dư có quan hệ như thế nào với sự phân chia ngày lao động?",
+      "explanation": "Tỷ suất giá trị thặng dư có quan hệ trực tiếp với sự phân chia ngày lao động thành thời gian lao động tất yếu và thời gian lao động thặng dư.",
+      "answers": [
+        {
+          "text": "Chỉ liên quan đến thời gian lao động tất yếu",
+          "correct": false
+        },
+        {
+          "text": "Có quan hệ với sự phân chia ngày lao động",
+          "correct": true
+        },
+        {
+          "text": "Chỉ liên quan đến thời gian lao động thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Không có quan hệ với sự phân chia ngày lao động",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "de-cuong-on-tap-kinh-te-chinh-tri-mac-lenin-compress",
+  "kind": "mixed",
+  "url": "https://www.studocu.vn/vn/quiz/de-cuong-on-tap-kinh-te-chinh-tri-mac-lenin-compress/8068828"
+}

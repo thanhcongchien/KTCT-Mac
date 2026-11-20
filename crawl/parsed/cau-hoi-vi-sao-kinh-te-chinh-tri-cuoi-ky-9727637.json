@@ -1,0 +1,362 @@
+{
+  "id": 9727637,
+  "title": "Quiz: Câu hỏi Kinh tế Chính trị Cuối kỳ - BM KTCT và CNXHKH",
+  "totalQuestions": 16,
+  "questions": [
+    {
+      "question": "Điều gì quyết định giá trị của hàng hóa sức lao động?",
+      "explanation": "Giá trị của hàng hóa sức lao động được quyết định bởi thời gian lao động xã hội cần thiết để sản xuất và tái sản xuất ra sức lao động.",
+      "answers": [
+        {
+          "text": "Giá trị của các tư liệu sản xuất mà người lao động sử dụng",
+          "correct": false
+        },
+        {
+          "text": "Mức lương tối thiểu do nhà nước quy định",
+          "correct": false
+        },
+        {
+          "text": "Thời gian lao động xã hội cần thiết để sản xuất và tái sản xuất ra sức lao động",
+          "correct": true
+        },
+        {
+          "text": "Nhu cầu của thị trường về lao động",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Yếu tố nào sau đây không ảnh hưởng đến giá cả quyền sử dụng đất?",
+      "explanation": "Giá cả quyền sử dụng đất chịu tác động của nhiều yếu tố như giá trị của tiền, quan hệ cung cầu, đầu cơ, sự khan hiếm, tốc độ đô thị hóa, công nghiệp hóa, gia tăng dân số.",
+      "answers": [
+        {
+          "text": "Tốc độ đô thị hóa",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của tiền",
+          "correct": false
+        },
+        {
+          "text": "Hao phí lao động để tạo ra đất đai",
+          "correct": true
+        },
+        {
+          "text": "Quan hệ cung cầu",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cấu tạo hữu cơ của tư bản tăng lên có tác động gì đến bộ phận tư bản khả biến?",
+      "explanation": "Sự tăng lên của cấu tạo hữu cơ làm cho bộ phận tư bản khả biến giảm tương đối.",
+      "answers": [
+        {
+          "text": "Giảm cả tuyệt đối và tương đối",
+          "correct": false
+        },
+        {
+          "text": "Giảm tương đối",
+          "correct": true
+        },
+        {
+          "text": "Tăng cả tuyệt đối và tương đối",
+          "correct": false
+        },
+        {
+          "text": "Không đổi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quyền sử dụng đất đai được định nghĩa là gì?",
+      "explanation": "Quyền sử dụng đất đai là quyền khai thác các thuộc tính có ích của đất đai để phục vụ cho các mục tiêu phát triển kinh tế xã hội của đất nước.",
+      "answers": [
+        {
+          "text": "Quyền xây dựng công trình trên đất đai",
+          "correct": false
+        },
+        {
+          "text": "Quyền sở hữu đất đai của nhà nước",
+          "correct": false
+        },
+        {
+          "text": "Quyền mua bán và chuyển nhượng đất đai",
+          "correct": false
+        },
+        {
+          "text": "Quyền khai thác các thuộc tính có ích của đất đai để phục vụ cho các mục tiêu phát triển kinh tế xã hội",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Theo K.Marx, chi phí sản xuất của hàng hóa bao gồm những yếu tố nào?",
+      "explanation": "Chi phí sản xuất của hàng hóa bao gồm giá trị của tư liệu sản xuất đã tiêu dùng và giá cả của sức lao động đã sử dụng.",
+      "answers": [
+        {
+          "text": "Giá trị của nguyên vật liệu thô và chi phí quản lý doanh nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Lợi nhuận của nhà tư bản và thuế sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Chi phí quảng cáo và chi phí vận chuyển hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của tư liệu sản xuất đã tiêu dùng và giá cả của sức lao động đã sử dụng",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Sự khác biệt cơ bản giữa chi phí sản xuất tư bản chủ nghĩa và chi phí thực tế là gì?",
+      "explanation": "Chi phí thực tế phản ánh hao phí lao động xã hội cần thiết, trong khi chi phí sản xuất tư bản chủ nghĩa chỉ phản ánh hao phí tư bản của nhà tư bản.",
+      "answers": [
+        {
+          "text": "Chi phí thực tế luôn lớn hơn chi phí sản xuất tư bản chủ nghĩa",
+          "correct": false
+        },
+        {
+          "text": "Chi phí thực tế phản ánh hao phí lao động xã hội, còn chi phí sản xuất tư bản chủ nghĩa chỉ phản ánh hao phí tư bản của nhà tư bản",
+          "correct": true
+        },
+        {
+          "text": "Chi phí sản xuất tư bản chủ nghĩa phản ánh giá trị hàng hóa, còn chi phí thực tế thì không",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất tư bản chủ nghĩa bao gồm cả chi phí lao động, còn chi phí thực tế thì không",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư siêu ngạch và giá trị thặng dư tương đối có điểm chung nào?",
+      "explanation": "Cả hai đều có cơ sở chung là tăng năng suất lao động, dù là năng suất lao động cá biệt hay năng suất lao động xã hội.",
+      "answers": [
+        {
+          "text": "Đều có cơ sở chung là tăng năng suất lao động",
+          "correct": true
+        },
+        {
+          "text": "Đều làm tăng giá trị của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Đều chỉ xuất hiện trong các doanh nghiệp lớn",
+          "correct": false
+        },
+        {
+          "text": "Đều không ảnh hưởng đến giá trị xã hội của hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Cường độ lao động được định nghĩa là gì?",
+      "explanation": "Cường độ lao động là mức độ khẩn trương, tích cực của hoạt động lao động trong quá trình sản xuất.",
+      "answers": [
+        {
+          "text": "Tổng số giờ làm việc của công nhân trong một ngày",
+          "correct": false
+        },
+        {
+          "text": "Mức độ phức tạp của công việc mà người lao động thực hiện",
+          "correct": false
+        },
+        {
+          "text": "Số lượng sản phẩm được sản xuất ra trong một đơn vị thời gian",
+          "correct": false
+        },
+        {
+          "text": "Mức độ khẩn trương, tích cực của hoạt động lao động trong sản xuất",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Điều gì xảy ra với giá trị của một đơn vị hàng hóa khi năng suất lao động tăng lên?",
+      "explanation": "Khi năng suất lao động tăng, thời gian lao động cần thiết để tạo ra một đơn vị hàng hóa giảm, do đó giá trị của nó giảm.",
+      "answers": [
+        {
+          "text": "Giá trị của một đơn vị hàng hóa không đổi",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa tăng lên",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa giảm xuống",
+          "correct": true
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa biến động không lường trước",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tăng cường độ lao động có tác động gì đến giá trị của một đơn vị hàng hóa?",
+      "explanation": "Tăng cường độ lao động không làm thay đổi lượng thời gian hao phí để sản xuất một đơn vị hàng hóa, do đó giá trị của nó không đổi.",
+      "answers": [
+        {
+          "text": "Giá trị của một đơn vị hàng hóa tăng lên",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa có thể tăng hoặc giảm tùy thuộc vào các yếu tố khác",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa không đổi",
+          "correct": true
+        },
+        {
+          "text": "Giá trị của một đơn vị hàng hóa giảm xuống",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đặc điểm nào sau đây không phải là đặc điểm của tư bản cho vay?",
+      "explanation": "Tư bản cho vay không mất giá trị sử dụng và giá trị sau khi sử dụng, mà được bảo tồn và thậm chí còn tăng thêm.",
+      "answers": [
+        {
+          "text": "Người bán không mất quyền sở hữu",
+          "correct": false
+        },
+        {
+          "text": "Sau khi sử dụng, tư bản cho vay mất giá trị",
+          "correct": true
+        },
+        {
+          "text": "Người mua chỉ được quyền sử dụng trong một thời gian",
+          "correct": false
+        },
+        {
+          "text": "Giá cả của tư bản cho vay được quyết định bởi giá trị sử dụng của nó",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì dẫn đến sự ra đời của độc quyền theo luận điểm trong đoạn văn?",
+      "explanation": "Cạnh tranh gay gắt làm các doanh nghiệp nhỏ phá sản, doanh nghiệp lớn suy yếu, buộc họ phải tăng cường tích tụ, tập trung sản xuất và liên kết.",
+      "answers": [
+        {
+          "text": "Sự can thiệp của nhà nước vào nền kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Sự phát triển của khoa học và công nghệ",
+          "correct": false
+        },
+        {
+          "text": "Sự gia tăng dân số và nhu cầu tiêu dùng",
+          "correct": false
+        },
+        {
+          "text": "Sự phát triển của cạnh tranh tự do",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Theo V.I. Lenin, yếu tố nào dẫn đến độc quyền?",
+      "explanation": "Cạnh tranh tạo ra tập trung sản xuất, và sự tập trung này dẫn đến độc quyền.",
+      "answers": [
+        {
+          "text": "Kinh tế nhà nước",
+          "correct": false
+        },
+        {
+          "text": "Cạnh tranh",
+          "correct": true
+        },
+        {
+          "text": "An ninh quốc phòng",
+          "correct": false
+        },
+        {
+          "text": "Tăng trưởng kinh tế",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong cơ cấu kinh tế nhiều thành phần ở Việt Nam, kinh tế nhà nước có vai trò như thế nào?",
+      "explanation": "Kinh tế nhà nước đóng vai trò chủ đạo và là nền tảng vững chắc của nền kinh tế quốc dân.",
+      "answers": [
+        {
+          "text": "Đóng vai trò chủ đạo",
+          "correct": true
+        },
+        {
+          "text": "Chỉ phục vụ an ninh quốc phòng",
+          "correct": false
+        },
+        {
+          "text": "Đóng vai trò thứ yếu",
+          "correct": false
+        },
+        {
+          "text": "Không có vai trò gì",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kinh tế nhà nước có vai trò gì trong việc thúc đẩy tăng trưởng kinh tế?",
+      "explanation": "Kinh tế nhà nước là đòn bẩy để thúc đẩy tăng trưởng nhanh, bền vững và giải quyết các vấn đề xã hội.",
+      "answers": [
+        {
+          "text": "Không ảnh hưởng đến tăng trưởng kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Chỉ tập trung vào an ninh quốc phòng",
+          "correct": false
+        },
+        {
+          "text": "Kiềm hãm tăng trưởng kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Thúc đẩy tăng trưởng nhanh và bền vững",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Các doanh nghiệp nhà nước nên đầu tư vào những ngành kinh tế nào?",
+      "explanation": "Các doanh nghiệp nhà nước nên đầu tư vào những ngành kinh tế then chốt, chi phối nền kinh tế, đảm bảo an ninh, quốc phòng và phục vụ lợi ích công.",
+      "answers": [
+        {
+          "text": "Các ngành nông nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Các ngành dịch vụ",
+          "correct": false
+        },
+        {
+          "text": "Tất cả các ngành kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Các ngành kinh tế then chốt",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "slug": "cau-hoi-vi-sao-kinh-te-chinh-tri-cuoi-ky",
+  "kind": "essay",
+  "url": "https://www.studocu.vn/vn/quiz/cau-hoi-vi-sao-kinh-te-chinh-tri-cuoi-ky/9727637"
+}

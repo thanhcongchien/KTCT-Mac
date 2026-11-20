@@ -1,0 +1,450 @@
+{
+  "id": 10432347,
+  "title": "Quiz: Câu Hỏi KTCT Mác - Lênin: Phân Tích Và Giải Thích Chi Tiết",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "Trong điều kiện tiến bộ kỹ thuật, tích lũy tư bản có thể dẫn đến gia tăng nạn thất nghiệp vì lý do nào?",
+      "explanation": "Tích lũy tư bản làm tăng cấu tạo hữu cơ của tư bản, dẫn đến giảm tương đối TBKB so với TBKT, gây ra nguy cơ thừa nhân khẩu và thất nghiệp.",
+      "answers": [
+        {
+          "text": "Giảm quy mô sản xuất do thiếu vốn",
+          "correct": false
+        },
+        {
+          "text": "Giảm giá trị hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Tăng cường sử dụng lao động thủ công",
+          "correct": false
+        },
+        {
+          "text": "Tăng cường đầu tư vào công nghệ làm giảm nhu cầu lao động",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Vì sao quyền sử dụng đất được xem là hàng hóa đặc biệt?",
+      "explanation": "Đất đai không có giá trị mà chỉ có giá trị sử dụng và giá cả, giá cả quyền sử dụng đất chịu tác động của nhiều yếu tố.",
+      "answers": [
+        {
+          "text": "Nó được tạo ra từ hao phí lao động như các hàng hóa thông thường",
+          "correct": false
+        },
+        {
+          "text": "Nó có giá trị sử dụng duy nhất trong nông nghiệp",
+          "correct": false
+        },
+        {
+          "text": "Giá cả của nó chịu tác động của nhiều yếu tố như cung cầu, đầu cơ, và tốc độ đô thị hóa",
+          "correct": true
+        },
+        {
+          "text": "Nó là tài sản vô hình",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của hàng hóa sức lao động bao gồm những yếu tố nào?",
+      "explanation": "Giá trị hàng hóa sức lao động bao gồm tư liệu sinh hoạt cần thiết, chi phí đào tạo, yếu tố tinh thần và lịch sử.",
+      "answers": [
+        {
+          "text": "Chi phí sản xuất và vận chuyển",
+          "correct": false
+        },
+        {
+          "text": "Tư liệu sinh hoạt, chi phí đào tạo, yếu tố tinh thần và lịch sử",
+          "correct": true
+        },
+        {
+          "text": "Giá trị sử dụng và giá trị trao đổi",
+          "correct": false
+        },
+        {
+          "text": "Chi phí quảng cáo và tiếp thị",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vì sao chi phí sản xuất tư bản chủ nghĩa luôn nhỏ hơn giá trị hàng hóa?",
+      "explanation": "Chi phí sản xuất (k = c + v) chỉ bù đắp tư liệu sản xuất và sức lao động, trong khi giá trị hàng hóa (G = c + v + m) bao gồm cả giá trị thặng dư.",
+      "answers": [
+        {
+          "text": "Chi phí sản xuất bao gồm cả chi phí quản lý",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất bao gồm cả chi phí quảng cáo",
+          "correct": false
+        },
+        {
+          "text": "Giá trị hàng hóa luôn bằng chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất không bao gồm giá trị thặng dư",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Động lực mạnh nhất thúc đẩy các nhà tư bản cải tiến kỹ thuật và tăng năng suất lao động là gì?",
+      "explanation": "Giá trị thặng dư siêu ngạch thúc đẩy các nhà tư bản cải tiến kỹ thuật và tăng năng suất lao động.",
+      "answers": [
+        {
+          "text": "Giá trị thặng dư tương đối",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư thông thường",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư tuyệt đối",
+          "correct": false
+        },
+        {
+          "text": "Giá trị thặng dư siêu ngạch",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá trị của một đơn vị hàng hóa thay đổi như thế nào khi năng suất lao động tăng?",
+      "explanation": "Giá trị của một đơn vị hàng hóa tỷ lệ nghịch với năng suất lao động.",
+      "answers": [
+        {
+          "text": "Tăng theo cấp số nhân",
+          "correct": false
+        },
+        {
+          "text": "Không đổi",
+          "correct": false
+        },
+        {
+          "text": "Tăng lên",
+          "correct": false
+        },
+        {
+          "text": "Giảm xuống",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tại sao tư bản cho vay được coi là một loại hàng hóa đặc biệt?",
+      "explanation": "Tư bản cho vay là hàng hóa đặc biệt vì người bán không mất quyền sở hữu.",
+      "answers": [
+        {
+          "text": "Người bán không mất quyền sở hữu, người mua chỉ được quyền sử dụng trong một thời gian",
+          "correct": true
+        },
+        {
+          "text": "Giá trị của nó không thay đổi theo thời gian",
+          "correct": false
+        },
+        {
+          "text": "Người mua có quyền sở hữu vĩnh viễn",
+          "correct": false
+        },
+        {
+          "text": "Người bán mất quyền sở hữu khi cho vay",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì xảy ra với tổng lượng giá trị của hàng hóa khi cường độ lao động tăng, nhưng các yếu tố khác không đổi?",
+      "explanation": "Tổng lượng giá trị của tất cả các hàng hóa gộp lại tăng lên.",
+      "answers": [
+        {
+          "text": "Tổng lượng giá trị của tất cả các hàng hóa gộp lại bằng không",
+          "correct": false
+        },
+        {
+          "text": "Tổng lượng giá trị của tất cả các hàng hóa gộp lại không đổi",
+          "correct": false
+        },
+        {
+          "text": "Tổng lượng giá trị của tất cả các hàng hóa gộp lại giảm xuống",
+          "correct": false
+        },
+        {
+          "text": "Tổng lượng giá trị của tất cả các hàng hóa gộp lại tăng lên",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Điều gì quyết định giá cả của tư bản cho vay?",
+      "explanation": "Giá cả của tư bản cho vay (lợi tức) được quyết định bởi giá trị sử dụng của nó là khả năng thu được lợi nhuận bình quân.",
+      "answers": [
+        {
+          "text": "Giá trị trao đổi của tư bản cho vay",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất tư bản cho vay",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của tư bản cho vay",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng của nó là khả năng thu được lợi nhuận bình quân",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Nguyên nhân chính dẫn đến sự ra đời của độc quyền là gì?",
+      "explanation": "Độc quyền ra đời do sự phát triển của cạnh tranh tự do, dẫn đến tập trung sản xuất ở mức độ nhất định.",
+      "answers": [
+        {
+          "text": "Sự can thiệp của nhà nước vào nền kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Sự phát triển của cạnh tranh tự do và tập trung sản xuất",
+          "correct": true
+        },
+        {
+          "text": "Sự gia tăng của các doanh nghiệp vừa và nhỏ",
+          "correct": false
+        },
+        {
+          "text": "Sự suy yếu của các doanh nghiệp lớn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vai trò chủ đạo của kinh tế nhà nước trong cơ cấu kinh tế nhiều thành phần ở Việt Nam là gì?",
+      "explanation": "Kinh tế nhà nước đóng vai trò chủ đạo và là nền tảng vững chắc của nền kinh tế quốc dân.",
+      "answers": [
+        {
+          "text": "Thúc đẩy cạnh tranh giữa các thành phần kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Tập trung vào các ngành kinh tế không then chốt",
+          "correct": false
+        },
+        {
+          "text": "Đóng vai trò chủ đạo và là nền tảng của nền kinh tế quốc dân",
+          "correct": true
+        },
+        {
+          "text": "Hỗ trợ các doanh nghiệp tư nhân phát triển",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì xảy ra với giá trị của một đơn vị hàng hóa khi năng suất lao động và cường độ lao động đều giảm?",
+      "explanation": "Khi năng suất lao động và cường độ lao động đều giảm thì giá trị của đơn vị hàng hóa tăng.",
+      "answers": [
+        {
+          "text": "Giá trị của đơn vị hàng hóa tăng",
+          "correct": true
+        },
+        {
+          "text": "Giá trị của đơn vị hàng hóa biến động không dự đoán được",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của đơn vị hàng hóa giảm",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của đơn vị hàng hóa không đổi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tiền tiết kiệm (tiền ký hiệu giá trị chưa sử dụng) được hiểu như thế nào?",
+      "explanation": "Tiền ký hiệu giá trị nếu chưa sử dụng đến (tiền tiết kiệm) là tiền được rút khỏi lưu thông để cất trữ.",
+      "answers": [
+        {
+          "text": "Tiền được sử dụng để đầu tư vào sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Tiền mất giá trị do lạm phát",
+          "correct": false
+        },
+        {
+          "text": "Tiền vẫn còn trong lưu thông và sinh lời",
+          "correct": false
+        },
+        {
+          "text": "Tiền được rút khỏi lưu thông để cất trữ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Quy luật kinh tế nào tác động trong cả sản xuất hàng hóa giản đơn và sản xuất hàng hóa tư bản chủ nghĩa?",
+      "explanation": "Quy luật giá trị là quy luật kinh tế tác động trong cả hai hình thức sản xuất hàng hóa.",
+      "answers": [
+        {
+          "text": "Quy luật lưu thông tiền tệ",
+          "correct": false
+        },
+        {
+          "text": "Quy luật giá trị",
+          "correct": true
+        },
+        {
+          "text": "Quy luật cạnh tranh",
+          "correct": false
+        },
+        {
+          "text": "Quy luật cung cầu",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì quyết định giá cả của hàng hóa trên thị trường?",
+      "explanation": "Giá cả hàng hóa được quyết định bởi quan hệ cung và cầu trên thị trường.",
+      "answers": [
+        {
+          "text": "Giá trị trao đổi của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Quan hệ cung cầu của thị trường",
+          "correct": true
+        },
+        {
+          "text": "Chi phí sản xuất hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng của hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sự khác biệt cơ bản giữa tiền thông thường và tiền là tư bản là gì?",
+      "explanation": "Sự khác biệt nằm ở mục đích vận động của chúng trong nền kinh tế.",
+      "answers": [
+        {
+          "text": "Hình thức tồn tại",
+          "correct": false
+        },
+        {
+          "text": "Khả năng lưu thông",
+          "correct": false
+        },
+        {
+          "text": "Mục đích vận động",
+          "correct": true
+        },
+        {
+          "text": "Chức năng thanh toán",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Dựa vào yếu tố nào để phân chia tư bản thành tư bản bất biến và tư bản khả biến?",
+      "explanation": "Sự phân chia dựa trên sự khác nhau về hình thức tồn tại của chúng.",
+      "answers": [
+        {
+          "text": "Vai trò trong sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Sự khác nhau về hình thức tồn tại",
+          "correct": true
+        },
+        {
+          "text": "Giá trị thặng dư tạo ra",
+          "correct": false
+        },
+        {
+          "text": "Tốc độ chu chuyển",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hao mòn tư bản cố định bao gồm những yếu tố nào?",
+      "explanation": "Hao mòn tư bản cố định bao gồm cả hao mòn về vật chất và hao mòn về giá trị.",
+      "answers": [
+        {
+          "text": "Hao mòn hữu hình và hao mòn vô hình",
+          "correct": false
+        },
+        {
+          "text": "Hao mòn về vật chất và giá trị",
+          "correct": true
+        },
+        {
+          "text": "Hao mòn do sử dụng và hao mòn tự nhiên",
+          "correct": false
+        },
+        {
+          "text": "Hao mòn kinh tế và hao mòn kỹ thuật",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Điều gì làm cho hàng hóa sức lao động trở nên đặc biệt?",
+      "explanation": "Hàng hóa sức lao động tạo ra giá trị mới lớn hơn giá trị của chính nó.",
+      "answers": [
+        {
+          "text": "Nó không thể được tích tụ và tập trung",
+          "correct": false
+        },
+        {
+          "text": "Giá trị của nó luôn lớn hơn giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Nó được sử dụng làm vật ngang giá chung cho tất cả các loại hàng hóa khác",
+          "correct": false
+        },
+        {
+          "text": "Khi sử dụng nó tạo ra giá trị mới lớn hơn giá trị của hàng hóa",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Sản xuất giá trị thặng dư phụ thuộc vào yếu tố nào?",
+      "explanation": "Thời gian lao động phải lớn hơn thời gian công nhân lao động để tạo ra giá trị mới.",
+      "answers": [
+        {
+          "text": "Thời gian lao động phải nhỏ hơn thời gian công nhân lao động",
+          "correct": false
+        },
+        {
+          "text": "Thời gian lao động phải lớn hơn thời gian công nhân lao động",
+          "correct": true
+        },
+        {
+          "text": "Thời gian lao động không liên quan đến thời gian công nhân lao động",
+          "correct": false
+        },
+        {
+          "text": "Thời gian lao động bằng thời gian công nhân lao động",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "cau-hoi-vi-sao-ktct-fawshdtujjsfadfcw",
+  "kind": "essay",
+  "url": "https://www.studocu.vn/vn/quiz/cau-hoi-vi-sao-ktct-fawshdtujjsfadfcw/10432347"
+}

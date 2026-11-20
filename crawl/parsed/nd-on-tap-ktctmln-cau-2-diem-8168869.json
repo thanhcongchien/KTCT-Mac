@@ -1,0 +1,274 @@
+{
+  "id": 8168869,
+  "title": "Quiz: Ôn Tập Kinh Tế Chính Trị Mác - Lênin: Câu Hỏi 2 Điểm",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "question": "Vì sao tích lũy tư bản trong điều kiện tiến bộ khoa học kỹ thuật có thể làm tăng tỉ lệ thất nghiệp?",
+      "explanation": "Tiến bộ KHKT làm tăng cấu tạo hữu cơ, giảm cầu lao động, gây thất nghiệp.",
+      "answers": [
+        {
+          "text": "Ổn định cấu tạo hữu cơ tư bản, không ảnh hưởng đến thị trường lao động",
+          "correct": false
+        },
+        {
+          "text": "Giảm cấu tạo hữu cơ tư bản, làm tăng cung về lao động",
+          "correct": false
+        },
+        {
+          "text": "Tăng cấu tạo hữu cơ tư bản, làm giảm cầu về lao động",
+          "correct": true
+        },
+        {
+          "text": "Giảm năng suất lao động, làm tăng chi phí sản xuất",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vì sao hàng hóa có hai thuộc tính là giá trị và giá trị sử dụng?",
+      "explanation": "Giá trị sử dụng do lao động cụ thể tạo ra, giá trị do lao động trừu tượng tạo ra.",
+      "answers": [
+        {
+          "text": "Cả hai thuộc tính đều do lao động trừu tượng tạo ra",
+          "correct": false
+        },
+        {
+          "text": "Lao động trừu tượng tạo ra giá trị sử dụng, lao động cụ thể tạo ra giá trị",
+          "correct": false
+        },
+        {
+          "text": "Lao động cụ thể tạo ra giá trị sử dụng, lao động trừu tượng tạo ra giá trị",
+          "correct": true
+        },
+        {
+          "text": "Cả hai thuộc tính đều do lao động cụ thể tạo ra",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vì sao hàng hoá sức lao động là hàng hoá đặc biệt?",
+      "explanation": "Hàng hóa sức lao động tạo ra giá trị mới (v+m) lớn hơn giá trị của nó (v).",
+      "answers": [
+        {
+          "text": "Giá trị sử dụng tạo ra giá trị mới lớn hơn giá trị của bản thân nó",
+          "correct": true
+        },
+        {
+          "text": "Giá trị được xác định trực tiếp từ chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng không tạo ra giá trị mới",
+          "correct": false
+        },
+        {
+          "text": "Không mang yếu tố tinh thần và lịch sử",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vì sao chi phí thực tế để sản xuất hàng hóa luôn lớn hơn chi phí sản xuất để sản xuất ra hàng hóa?",
+      "explanation": "Chi phí sản xuất TBCN (K+v) nhỏ hơn giá trị hàng hóa (G=c+v+m).",
+      "answers": [
+        {
+          "text": "Chi phí sản xuất TBCN chỉ tính chi phí tư bản, không tính hao phí lao động",
+          "correct": true
+        },
+        {
+          "text": "Chi phí sản xuất bao gồm cả giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Chi phí thực tế và chi phí sản xuất luôn bằng nhau",
+          "correct": false
+        },
+        {
+          "text": "Chi phí thực tế luôn nhỏ hơn chi phí sản xuất",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vì sao giá trị thặng dư siêu ngạch là hình thức biến tướng của giá trị thặng dư tương đối?",
+      "explanation": "Giá trị thặng dư siêu ngạch là một hình thức của giá trị thặng dư tương đối, đều do tăng năng suất.",
+      "answers": [
+        {
+          "text": "Giá trị thặng dư siêu ngạch là hình thức duy nhất của giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Đều là kết quả của giảm năng suất lao động",
+          "correct": false
+        },
+        {
+          "text": "Đều là kết quả của tăng năng suất lao động, tạo ra giá trị thặng dư",
+          "correct": true
+        },
+        {
+          "text": "Giá trị thặng dư tương đối chỉ xuất hiện trong nông nghiệp",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư siêu ngạch dựa vào yếu tố nào?",
+      "explanation": "GTTD siêu ngạch dựa vào tăng năng suất lao động cá biệt, trong khi GTTD tương đối tăng năng suất lao động xã hội.",
+      "answers": [
+        {
+          "text": "Tăng năng suất lao động xã hội",
+          "correct": false
+        },
+        {
+          "text": "Tăng năng suất lao động cá biệt",
+          "correct": true
+        },
+        {
+          "text": "Giảm năng suất lao động cá biệt",
+          "correct": false
+        },
+        {
+          "text": "Giảm năng suất lao động xã hội",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đối với các nước đang và kém phát triển, hội nhập kinh tế quốc tế mang lại cơ hội gì?",
+      "explanation": "Hội nhập kinh tế quốc tế giúp các nước đang và kém phát triển tiếp cận và sử dụng các nguồn lực bên ngoài.",
+      "answers": [
+        {
+          "text": "Tiếp cận các nguồn lực bên ngoài",
+          "correct": true
+        },
+        {
+          "text": "Tăng cường bảo hộ thương mại",
+          "correct": false
+        },
+        {
+          "text": "Phát triển kinh tế tự cung tự cấp",
+          "correct": false
+        },
+        {
+          "text": "Hạn chế đầu tư nước ngoài",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Động lực trực tiếp của các chủ thể trong hoạt động kinh tế xã hội là gì?",
+      "explanation": "Con người hoạt động kinh tế trước hết để thỏa mãn nhu cầu vật chất và nâng cao mức sống.",
+      "answers": [
+        {
+          "text": "Nâng cao vị thế chính trị",
+          "correct": false
+        },
+        {
+          "text": "Phát triển văn hóa",
+          "correct": false
+        },
+        {
+          "text": "Thỏa mãn nhu cầu vật chất",
+          "correct": true
+        },
+        {
+          "text": "Bảo vệ môi trường",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đâu là đặc điểm khiến tư bản cho vay là một hàng hóa đặc biệt?",
+      "explanation": "Tư bản cho vay là hàng hóa đặc biệt vì người bán không mất quyền sở hữu, người mua chỉ được quyền sử dụng.",
+      "answers": [
+        {
+          "text": "Không có giá trị sử dụng",
+          "correct": false
+        },
+        {
+          "text": "Quyền sở hữu tách khỏi quyền sử dụng",
+          "correct": true
+        },
+        {
+          "text": "Giá trị sử dụng giảm sau khi sử dụng",
+          "correct": false
+        },
+        {
+          "text": "Giá cả được quyết định bởi chi phí sản xuất",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mục tiêu chính của các doanh nghiệp nhà nước khi đầu tư vào các ngành kinh tế then chốt là gì?",
+      "explanation": "Các doanh nghiệp nhà nước tập trung vào các ngành then chốt để đảm bảo an ninh quốc phòng và phục vụ lợi ích công cộng.",
+      "answers": [
+        {
+          "text": "Phát triển các ngành công nghiệp giải trí và du lịch",
+          "correct": false
+        },
+        {
+          "text": "Đảm bảo an ninh quốc phòng và phục vụ lợi ích công cộng",
+          "correct": true
+        },
+        {
+          "text": "Hỗ trợ các doanh nghiệp tư nhân cạnh tranh với nước ngoài",
+          "correct": false
+        },
+        {
+          "text": "Tối đa hóa lợi nhuận cho các nhà đầu tư cá nhân",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vai trò chính của kinh tế nhà nước trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam là gì?",
+      "explanation": "Kinh tế nhà nước đóng vai trò đòn bẩy, thúc đẩy tăng trưởng, định hướng và điều tiết nền kinh tế.",
+      "answers": [
+        {
+          "text": "Tăng cường sự phụ thuộc của nền kinh tế vào nước ngoài",
+          "correct": false
+        },
+        {
+          "text": "Tạo ra sự cạnh tranh không lành mạnh giữa các thành phần kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Hạn chế sự phát triển của các thành phần kinh tế khác",
+          "correct": false
+        },
+        {
+          "text": "Thúc đẩy tăng trưởng nhanh và bền vững, định hướng và điều tiết nền kinh tế",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Yếu tố nào sau đây thể hiện vai trò chủ đạo của thành phần kinh tế nhà nước?",
+      "explanation": "Kinh tế nhà nước giữ vai trò chủ đạo bằng cách nắm giữ các vị trí then chốt trong nền kinh tế.",
+      "answers": [
+        {
+          "text": "Nắm giữ các vị trí then chốt của nền kinh tế",
+          "correct": true
+        },
+        {
+          "text": "Hoạt động độc lập và cạnh tranh với các thành phần kinh tế khác",
+          "correct": false
+        },
+        {
+          "text": "Phụ thuộc hoàn toàn vào đầu tư nước ngoài",
+          "correct": false
+        },
+        {
+          "text": "Chỉ tập trung vào các ngành dịch vụ công cộng",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "nd-on-tap-ktctmln-cau-2-diem",
+  "kind": "essay",
+  "url": "https://www.studocu.vn/vn/quiz/nd-on-tap-ktctmln-cau-2-diem/8168869"
+}

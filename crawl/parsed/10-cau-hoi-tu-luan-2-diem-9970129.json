@@ -1,0 +1,296 @@
+{
+  "id": 9970129,
+  "title": "Quiz: CÂU HỎI TỰ LUẬN KINH TẾ CHÍNH TRỊ - 10 CÂU (2 ĐIỂM)",
+  "totalQuestions": 13,
+  "questions": [
+    {
+      "question": "Trong điều kiện tiến bộ kỹ thuật, tích lũy tư bản có thể dẫn đến gia tăng thất nghiệp vì:",
+      "explanation": "Tăng cấu tạo hữu cơ tư bản làm giảm cầu về sức lao động.",
+      "answers": [
+        {
+          "text": "Giảm quy mô sản xuất của các doanh nghiệp vừa và nhỏ",
+          "correct": false
+        },
+        {
+          "text": "Tăng cường sử dụng lao động giản đơn thay vì lao động phức tạp",
+          "correct": false
+        },
+        {
+          "text": "Tăng cấu tạo hữu cơ tư bản làm giảm cầu về sức lao động",
+          "correct": true
+        },
+        {
+          "text": "Giảm đầu tư vào công nghệ mới",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hàng hóa có hai thuộc tính giá trị và giá trị sử dụng vì:",
+      "explanation": "Lao động sản xuất hàng hóa có tính chất hai mặt: lao động cụ thể và lao động trừu tượng.",
+      "answers": [
+        {
+          "text": "Nhà sản xuất muốn tối đa hóa lợi nhuận và giảm thiểu chi phí",
+          "correct": false
+        },
+        {
+          "text": "Lao động sản xuất hàng hóa có tính chất hai mặt: lao động cụ thể và lao động trừu tượng",
+          "correct": true
+        },
+        {
+          "text": "Quá trình sản xuất hàng hóa đòi hỏi cả nguyên liệu và máy móc",
+          "correct": false
+        },
+        {
+          "text": "Người tiêu dùng có nhu cầu sử dụng và trao đổi hàng hóa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Lao động trừu tượng tạo ra yếu tố nào của hàng hóa?",
+      "explanation": "Lao động trừu tượng tạo ra giá trị của hàng hóa.",
+      "answers": [
+        {
+          "text": "Giá trị",
+          "correct": true
+        },
+        {
+          "text": "Giá trị thặng dư",
+          "correct": false
+        },
+        {
+          "text": "Giá trị trao đổi",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hàng hóa sức lao động được xem là đặc biệt vì:",
+      "explanation": "Khi sử dụng, nó tạo ra giá trị mới lớn hơn giá trị của bản thân nó.",
+      "answers": [
+        {
+          "text": "Nó có thể được trao đổi trực tiếp với bất kỳ hàng hóa nào khác",
+          "correct": false
+        },
+        {
+          "text": "Khi sử dụng, nó tạo ra giá trị mới lớn hơn giá trị của bản thân nó",
+          "correct": true
+        },
+        {
+          "text": "Giá trị của nó được xác định dựa trên giá trị của các hàng hóa khác",
+          "correct": false
+        },
+        {
+          "text": "Nó không bị hao mòn trong quá trình sử dụng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vì sao chi phí sản xuất tư bản chủ nghĩa thường nhỏ hơn giá trị hàng hóa?",
+      "explanation": "Chi phí sản xuất TBCN chỉ bao gồm chi phí nhà tư bản bỏ ra, không tính toàn bộ chi phí xã hội.",
+      "answers": [
+        {
+          "text": "Chi phí sản xuất TBCN không bao gồm chi phí quản lý",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất TBCN chỉ bao gồm chi phí nhà tư bản bỏ ra, không tính toàn bộ chi phí xã hội",
+          "correct": true
+        },
+        {
+          "text": "Nhà tư bản luôn tìm cách giảm chi phí sản xuất",
+          "correct": false
+        },
+        {
+          "text": "Giá trị hàng hóa luôn bị ảnh hưởng bởi yếu tố cung và cầu",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Giá trị thặng dư siêu ngạch và giá trị thặng dư tương đối có điểm chung gì?",
+      "explanation": "Cả hai đều dựa trên việc tăng năng suất lao động, dù là năng suất lao động xã hội hay cá biệt.",
+      "answers": [
+        {
+          "text": "Đều làm tăng giá trị xã hội của hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Đều làm giảm năng suất lao động",
+          "correct": false
+        },
+        {
+          "text": "Đều không ảnh hưởng đến giá trị hàng hóa",
+          "correct": false
+        },
+        {
+          "text": "Đều dựa trên việc tăng năng suất lao động",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Công thức nào thể hiện mối quan hệ giữa tỷ suất lợi nhuận (TSLN), giá trị thặng dư (m), tư bản bất biến (c) và tư bản khả biến (v)?",
+      "explanation": "Công thức p' = (m / (c + v)) * 100% thể hiện tỷ lệ phần trăm giữa lợi nhuận và toàn bộ giá trị tư bản ứng trước.",
+      "answers": [
+        {
+          "text": "p' = (m / (c + v)) * 100%",
+          "correct": true
+        },
+        {
+          "text": "p' = (m / (c - v)) * 100%",
+          "correct": false
+        },
+        {
+          "text": "p' = m * (c + v)",
+          "correct": false
+        },
+        {
+          "text": "p' = (c + v) / m",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vì sao lợi ích kinh tế được xem là động lực trực tiếp của các hoạt động kinh tế xã hội?",
+      "explanation": "Con người hoạt động kinh tế để thỏa mãn nhu cầu vật chất và nâng cao thu nhập.",
+      "answers": [
+        {
+          "text": "Vì con người bị ép buộc phải lao động",
+          "correct": false
+        },
+        {
+          "text": "Vì con người muốn thỏa mãn nhu cầu vật chất và nâng cao thu nhập",
+          "correct": true
+        },
+        {
+          "text": "Vì con người muốn đóng góp cho xã hội",
+          "correct": false
+        },
+        {
+          "text": "Vì con người muốn thể hiện bản thân",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Đâu là đặc điểm khiến tư bản cho vay được coi là một loại hàng hóa đặc biệt?",
+      "explanation": "Quyền sở hữu tách rời quyền sử dụng, người bán không mất quyền sở hữu.",
+      "answers": [
+        {
+          "text": "Giá trị bị mất đi sau khi sử dụng",
+          "correct": false
+        },
+        {
+          "text": "Không có giá trị sử dụng",
+          "correct": false
+        },
+        {
+          "text": "Người bán mất quyền sở hữu",
+          "correct": false
+        },
+        {
+          "text": "Quyền sở hữu tách rời quyền sử dụng",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Giá cả của tư bản cho vay (lợi tức) được quyết định bởi yếu tố nào?",
+      "explanation": "Giá cả của tư bản cho vay (lợi tức) được quyết định bởi giá trị sử dụng của nó là khả năng thu được lợi nhuận bình quân.",
+      "answers": [
+        {
+          "text": "Giá trị của tư bản cho vay",
+          "correct": false
+        },
+        {
+          "text": "Chi phí sản xuất tư bản cho vay",
+          "correct": false
+        },
+        {
+          "text": "Giá trị trao đổi của tư bản cho vay",
+          "correct": false
+        },
+        {
+          "text": "Giá trị sử dụng của tư bản cho vay, khả năng thu được lợi nhuận bình quân",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Đâu là nguyên nhân dẫn đến sự hình thành của độc quyền từ cạnh tranh tự do?",
+      "explanation": "Cạnh tranh tự do thúc đẩy tích tụ và tập trung sản xuất, dẫn đến sự ra đời của các công ty lớn và tổ chức độc quyền.",
+      "answers": [
+        {
+          "text": "Sự can thiệp của nhà nước",
+          "correct": false
+        },
+        {
+          "text": "Sự gia tăng dân số",
+          "correct": false
+        },
+        {
+          "text": "Tích tụ và tập trung sản xuất",
+          "correct": true
+        },
+        {
+          "text": "Sự phát triển của khoa học công nghệ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, thành phần kinh tế nào giữ vai trò chủ đạo?",
+      "explanation": "Kinh tế nhà nước giữ vai trò chủ đạo, nắm giữ các vị trí then chốt của nền kinh tế.",
+      "answers": [
+        {
+          "text": "Kinh tế tập thể",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế nhà nước",
+          "correct": true
+        },
+        {
+          "text": "Kinh tế có vốn đầu tư nước ngoài",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế tư nhân",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Vai trò của kinh tế nhà nước trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam là gì?",
+      "explanation": "KTNN là đòn bẩy để thúc đẩy tăng trưởng nhanh, bền vững, là lực lượng vật chất quan trọng để nhà nước định hướng và điều tiết nền kinh tế.",
+      "answers": [
+        {
+          "text": "Cạnh tranh với các thành phần kinh tế khác",
+          "correct": false
+        },
+        {
+          "text": "Hỗ trợ các doanh nghiệp tư nhân",
+          "correct": false
+        },
+        {
+          "text": "Tối đa hóa lợi nhuận cho doanh nghiệp nhà nước",
+          "correct": false
+        },
+        {
+          "text": "Thúc đẩy tăng trưởng, định hướng và điều tiết nền kinh tế",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "slug": "10-cau-hoi-tu-luan-2-diem",
+  "kind": "essay",
+  "url": "https://www.studocu.vn/vn/quiz/10-cau-hoi-tu-luan-2-diem/9970129"
+}

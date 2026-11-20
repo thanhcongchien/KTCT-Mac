@@ -1,0 +1,208 @@
+{
+  "id": 10688289,
+  "title": "Quiz: Pttqdl - Ôn tập đúng sai môn Phân Tích Dữ Liệu HK I 2023",
+  "totalQuestions": 9,
+  "questions": [
+    {
+      "question": "Trong SPSS, quy trình nào sau đây được sử dụng để phân tích mối quan hệ giữa giới tính và kết quả học tập?",
+      "explanation": "Crosstabs cho phép phân tích mối quan hệ giữa hai biến phân loại.",
+      "answers": [
+        {
+          "text": "Analyze Descriptive Statistics Frequencies",
+          "correct": false
+        },
+        {
+          "text": "Graphs Chart Builder",
+          "correct": false
+        },
+        {
+          "text": "Analyze Descriptive Statistics Descriptives",
+          "correct": false
+        },
+        {
+          "text": "Analyze Descriptive Statistics Crosstabs",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Khi phân tích tác động của quảng cáo đến xếp hạng tiềm năng mua, thủ tục T Test được sử dụng để làm gì?",
+      "explanation": "T Test so sánh trung bình của hai nhóm để xác định xem có sự khác biệt đáng kể hay không.",
+      "answers": [
+        {
+          "text": "So sánh trung bình của hai nhóm",
+          "correct": true
+        },
+        {
+          "text": "Tính toán độ lệch chuẩn",
+          "correct": false
+        },
+        {
+          "text": "Xây dựng cặp giả thuyết",
+          "correct": false
+        },
+        {
+          "text": "Nhập dữ liệu",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong phân tích hồi quy tuyến tính để dự đoán năng suất lao động (NSLD) dựa trên biến Ngày, biến nào được chọn làm biến phụ thuộc (Dependent)?",
+      "explanation": "Biến phụ thuộc là biến mà chúng ta muốn dự đoán hoặc giải thích.",
+      "answers": [
+        {
+          "text": "Biến kiểm soát",
+          "correct": false
+        },
+        {
+          "text": "Biến NSLD",
+          "correct": true
+        },
+        {
+          "text": "Biến Ngày",
+          "correct": false
+        },
+        {
+          "text": "Biến độc lập",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong mô hình hồi quy để phân tích sự khác biệt về lương giữa nam và nữ, hệ số góc (β1) đại diện cho điều gì?",
+      "explanation": "Hệ số góc (β1) thể hiện sự khác biệt trung bình về lương giữa nam và nữ.",
+      "answers": [
+        {
+          "text": "Giao điểm của đường hồi quy",
+          "correct": false
+        },
+        {
+          "text": "Trung bình lương của nữ",
+          "correct": false
+        },
+        {
+          "text": "Sự khác biệt trung bình về lương giữa nam và nữ",
+          "correct": true
+        },
+        {
+          "text": "Sai số ngẫu nhiên",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Để kiểm tra tính chuẩn của dữ liệu trong SPSS, quy trình nào sau đây được sử dụng?",
+      "explanation": "Explore cho phép kiểm tra tính chuẩn bằng Normality plots with tests.",
+      "answers": [
+        {
+          "text": "Data Select Cases",
+          "correct": false
+        },
+        {
+          "text": "Analyze Descriptive Statistics Explore",
+          "correct": true
+        },
+        {
+          "text": "Analyze Descriptive Statistics Frequencies",
+          "correct": false
+        },
+        {
+          "text": "Analyze Regression Linear",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong phân tích nhân tố, bước nào cho phép lưu điểm số nhân tố?",
+      "explanation": "Bước Scores cho phép lưu điểm số nhân tố.",
+      "answers": [
+        {
+          "text": "Bước Scores",
+          "correct": true
+        },
+        {
+          "text": "Bước Extraction",
+          "correct": false
+        },
+        {
+          "text": "Bước Rotation",
+          "correct": false
+        },
+        {
+          "text": "Bước Variables",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong phân tích nhân tố, bước nào dùng để chọn phương pháp trích xuất nhân tố?",
+      "explanation": "Bước Extraction dùng để chọn phương pháp trích xuất nhân tố.",
+      "answers": [
+        {
+          "text": "Bước Variables",
+          "correct": false
+        },
+        {
+          "text": "Bước Rotation",
+          "correct": false
+        },
+        {
+          "text": "Bước Scores",
+          "correct": false
+        },
+        {
+          "text": "Bước Extraction",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Trong phân tích nhân tố, bước nào dùng để chọn các biến thuộc nhóm HA?",
+      "explanation": "Bước Variables dùng để chọn các biến thuộc nhóm HA.",
+      "answers": [
+        {
+          "text": "Bước Variables",
+          "correct": true
+        },
+        {
+          "text": "Bước Scores",
+          "correct": false
+        },
+        {
+          "text": "Bước Rotation",
+          "correct": false
+        },
+        {
+          "text": "Bước Extraction",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Trong phân tích nhân tố, bước nào dùng để chọn phương pháp quay?",
+      "explanation": "Bước Rotation dùng để chọn phương pháp quay.",
+      "answers": [
+        {
+          "text": "Bước Scores",
+          "correct": false
+        },
+        {
+          "text": "Bước Extraction",
+          "correct": false
+        },
+        {
+          "text": "Bước Rotation",
+          "correct": true
+        },
+        {
+          "text": "Bước Variables",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "slug": "pttqdl-bai-tap-on-dung-sai",
+  "kind": "truefalse",
+  "url": "https://www.studocu.vn/vn/quiz/pttqdl-bai-tap-on-dung-sai/10688289"
+}
