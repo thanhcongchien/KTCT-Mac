@@ -232,11 +232,12 @@ export default function App() {
         )}
 
         {view === 'bank' && (
-          <BankView bank={bank} section={section} onBack={() => setView('home')} />
+          <BankView key={section} bank={bank} section={section} onBack={() => setView('home')} />
         )}
 
         {view === 'flash' && (
           <FlashView
+            key={section}
             bank={bank}
             section={section}
             known={known}
@@ -362,7 +363,7 @@ function HomeView({
                 key={m.title}
                 className={`mode-card ${section === 'extra' ? 'accent' : ''}`}
                 disabled={count === 0}
-                onClick={() => (m.key[0] === 'flashcard' ? onFlash() : onStart(m.key))}
+                onClick={() => (m.key[0] === 'flashcard' ? onFlash() : onStart(m.key, { chapter: 'all' }))}
               >
                 <span className="title">{m.title}</span>
                 <span className="meta">{m.meta}</span>
