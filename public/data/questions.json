@@ -1,14 +1,14 @@
 {
   "meta": {
-    "builtAt": "2026-11-20T14:24:41.840Z",
-    "total": 1326,
+    "builtAt": "2026-11-20T14:37:59.143Z",
+    "total": 1346,
     "counts": {
       "core": {
         "exercise": 12,
         "essay": 12,
         "truefalse": 117,
-        "mcq": 72,
-        "flashcard": 72
+        "mcq": 82,
+        "flashcard": 82
       },
       "extra": {
         "mcq": 427,
@@ -7354,6 +7354,536 @@
       "modelAnswer": "CNH hướng về xuất khẩu, thu hút FDI, phát triển công nghiệp chế biến, chế tạo.",
       "tags": [
         "thẻ ghi nhớ"
+      ]
+    },
+    {
+      "id": "core-formula-card-1",
+      "section": "core",
+      "type": "flashcard",
+      "chapter": 3,
+      "topic": "Cơ Cấu Giá Trị Hàng Hóa (W)",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Cơ Cấu Giá Trị Hàng Hóa (W)",
+      "options": [],
+      "answer": null,
+      "explanation": "",
+      "modelAnswer": "W = c + v + m\n- c: Giá trị tư bản bất biến (TBBB) = Giá trị TLSX tiêu hao (Khấu hao TBCĐ + Chi phí TBLĐ là nguyên/nhiên/vật liệu).\n- v: Giá trị tư bản khả biến (TBKB) = Tiền công/tiền lương trả cho lao động.\n- m: Giá trị thặng dư = Giá trị mới do lao động sống tạo ra (v + m) trừ đi tiền công (v).\n- Giá trị mới do công nhân tạo ra: V_mới = v + m.",
+      "tags": [
+        "thẻ ghi nhớ",
+        "công thức"
+      ]
+    },
+    {
+      "id": "core-formula-card-2",
+      "section": "core",
+      "type": "flashcard",
+      "chapter": 3,
+      "topic": "Phân Loại Tư Bản",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Phân Loại Tư Bản",
+      "options": [],
+      "answer": null,
+      "explanation": "",
+      "modelAnswer": "- Theo vai trò trong tạo ra giá trị thặng dư:\n - Tư bản bất biến (c): Mua TLSX (c_1: máy móc thiết bị, nhà xưởng; c_2: nguyên nhiên vật liệu).\n - Tư bản khả biến (v): Mua sức lao động.\n- Theo phương thức chuyển giá trị vào sản phẩm:\n - Tư bản cố định (c_d hoặc CĐ): Máy móc, thiết bị, nhà xưởng (khấu hao theo năm).\n - Tư bản lưu động (c_l hoặc LĐ): Nguyên nhiên vật liệu (c_2) + Tư bản khả biến (v).\n- Tổng tư bản đầu tư (K_tổng):\n K_tổng = c + v = c_d + c_2 + v\n *(Lưu ý: c_d ở đây là tổng giá trị TBCĐ đang sử dụng, không phải khấu hao năm)*\n- Chi phí sản xuất TBCN (k):\n k = c_tiêu\\_hao + v = (Khấu hao c_d trong năm) + c_2 + v\n- ⚠️ PHÂN BIỆT QUAN TRỌNG:\n - Tổng tư bản đầu tư: K = CĐ_tổng + c_2 ",
+      "tags": [
+        "thẻ ghi nhớ",
+        "công thức"
+      ]
+    },
+    {
+      "id": "core-formula-card-3",
+      "section": "core",
+      "type": "flashcard",
+      "chapter": 3,
+      "topic": "Tỷ Suất Và Khối Lượng Giá Trị Thặng Dư",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Tỷ Suất Và Khối Lượng Giá Trị Thặng Dư",
+      "options": [],
+      "answer": null,
+      "explanation": "",
+      "modelAnswer": "- Tỷ suất giá trị thặng dư (m'):\n m' = (m)/(v) × 100% = (t')/(t) × 100%\n - t': Thời gian lao động thặng dư.\n - t: Thời gian lao động tất yếu.\n - Tổng thời gian lao động = t + t'.\n- Khối lượng giá trị thặng dư (M):\n M = m' × V = m × N (với N là số lượng công nhân).",
+      "tags": [
+        "thẻ ghi nhớ",
+        "công thức"
+      ]
+    },
+    {
+      "id": "core-formula-card-4",
+      "section": "core",
+      "type": "flashcard",
+      "chapter": 3,
+      "topic": "Chu Chuyển Tư Bản",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Chu Chuyển Tư Bản",
+      "options": [],
+      "answer": null,
+      "explanation": "",
+      "modelAnswer": "- Số vòng chu chuyển của tư bản (n):\n n = (CH)/(ch)\n - CH: Thời gian trong năm (thường tính 12 tháng, 52 tuần hoặc 365 ngày).\n - ch: Thời gian chu chuyển 1 vòng của tư bản.\n- Ảnh hưởng của n đến p': n tăng → p' tăng (tư bản quay vòng nhanh, thu hồi vốn nhanh).",
+      "tags": [
+        "thẻ ghi nhớ",
+        "công thức"
+      ]
+    },
+    {
+      "id": "core-formula-card-5",
+      "section": "core",
+      "type": "flashcard",
+      "chapter": 3,
+      "topic": "Tích Lũy Tư Bản",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Tích Lũy Tư Bản",
+      "options": [],
+      "answer": null,
+      "explanation": "",
+      "modelAnswer": "- Giá trị thặng dư m chia thành 2 phần:\n m = m_tl + m_td\n - m_tl: Phần giá trị thặng dư dành cho tích lũy (mở rộng sản xuất).\n - m_td: Phần giá trị thặng dư dành cho tiêu dùng cá nhân của nhà tư bản.\n- Phần tích lũy m_tl được phân bổ vào c phụ trội ( c) và v phụ trội ( v) theo cấu tạo hữu cơ c/v:\n c + v = m_tl\n ( c)/( v) = (c)/(v)\n- Công thức tính nhanh:\n v = m_tl + 1 ( = c/v)\n c = m_tl - v = × v\n- Quy mô tư bản sau tích lũy (tính trên tổng tư bản đầu tư):\n c_mới = c_tổng\\_đầu\\_tư + c\n v_mới = v_cũ + v",
+      "tags": [
+        "thẻ ghi nhớ",
+        "công thức"
+      ]
+    },
+    {
+      "id": "core-formula-card-6",
+      "section": "core",
+      "type": "flashcard",
+      "chapter": 3,
+      "topic": "Tỷ Suất Lợi Nhuận, Tỷ Suất Lợi Nhuận Bình Quân & Giá Cả Sản Xuất",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Tỷ Suất Lợi Nhuận, Tỷ Suất Lợi Nhuận Bình Quân & Giá Cả Sản Xuất",
+      "options": [],
+      "answer": null,
+      "explanation": "",
+      "modelAnswer": "- Tỷ suất lợi nhuận (p'):\n p' = (p)/(k) × 100% = mc_tiêu\\_hao + v × 100%\n *(Hoặc tính trên tổng tư bản đầu tư: p' = mK_tổng × 100% — cần đọc kỹ đề)*\n- Tỷ suất lợi nhuận bình quân (p'):\n p' = ( m)/( (c + v)) × 100%\n- Lợi nhuận bình quân (p):\n p = (c + v) × p'\n- Giá cả sản xuất (GCSX):\n GCSX = k + p = (c + v) + p",
+      "tags": [
+        "thẻ ghi nhớ",
+        "công thức"
+      ]
+    },
+    {
+      "id": "core-formula-card-7",
+      "section": "core",
+      "type": "flashcard",
+      "chapter": 3,
+      "topic": "Lợi Tức Và Lợi Nhuận Doanh Nghiệp Đi Vay (BỔ SUNG)",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Lợi Tức Và Lợi Nhuận Doanh Nghiệp Đi Vay (BỔ SUNG)",
+      "options": [],
+      "answer": null,
+      "explanation": "",
+      "modelAnswer": "- Lợi tức (z):\n z = K_vay × lãi suất × thời gian vay\n (Lãi suất tháng → nhân 12; lãi suất năm → giữ nguyên)\n- Tỷ suất lợi tức (z'):\n z' = zK_vay × 100%\n- Lợi nhuận doanh nghiệp đi vay:\n P_DN = p - z = m - z (khi chỉ có 1 doanh nghiệp, p = m)",
+      "tags": [
+        "thẻ ghi nhớ",
+        "công thức"
+      ]
+    },
+    {
+      "id": "core-formula-card-8",
+      "section": "core",
+      "type": "flashcard",
+      "chapter": 3,
+      "topic": "Lợi Nhuận Thương Nghiệp (BỔ SUNG)",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Lợi Nhuận Thương Nghiệp (BỔ SUNG)",
+      "options": [],
+      "answer": null,
+      "explanation": "",
+      "modelAnswer": "- Lợi nhuận thương nghiệp (p_tn):\n p_tn = Giá bán - Giá mua\n- Trong nền kinh tế có tư bản thương nghiệp, tỷ suất lợi nhuận bình quân tính chung:\n p' = m (K_CN + K_TN) × 100%",
+      "tags": [
+        "thẻ ghi nhớ",
+        "công thức"
+      ]
+    },
+    {
+      "id": "core-formula-card-9",
+      "section": "core",
+      "type": "flashcard",
+      "chapter": 2,
+      "topic": "Giá Trị Một Đơn Vị Sản Phẩm (BỔ SUNG)",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Giá Trị Một Đơn Vị Sản Phẩm (BỔ SUNG)",
+      "options": [],
+      "answer": null,
+      "explanation": "",
+      "modelAnswer": "- Giá trị 1 sản phẩm:\n g = (W)/(Q)\n (W: tổng giá trị hàng hóa; Q: số lượng sản phẩm)\n\n---",
+      "tags": [
+        "thẻ ghi nhớ",
+        "công thức"
+      ]
+    },
+    {
+      "id": "core-formula-card-10",
+      "section": "core",
+      "type": "flashcard",
+      "chapter": 3,
+      "topic": "Dạng 2: Phân bổ tích lũy tư bản ( c và v)",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Dạng 2: Phân bổ tích lũy tư bản ( c và v)",
+      "options": [],
+      "answer": null,
+      "explanation": "",
+      "modelAnswer": "1. Tìm lượng giá trị thặng dư tích lũy m_tl = m × %m_tl (hoặc m - m_td).\n2. Cấu tạo hữu cơ không đổi là (c)/(v) = ( c)/( v) = .\n3. Công thức tính nhanh:\n v = m_tl + 1\n c = m_tl - v = × v\n4. Cập nhật quy mô tư bản mới: c_mới = c_tổng\\_đầu\\_tư + c; v_mới = v + v.\n *(Nhớ: cộng vào tổng tư bản đầu tư, không phải c tiêu hao)*",
+      "tags": [
+        "thẻ ghi nhớ",
+        "công thức"
+      ]
+    },
+    {
+      "id": "core-formula-mcq-1",
+      "section": "core",
+      "type": "mcq",
+      "chapter": 3,
+      "topic": "Cơ Cấu Giá Trị Hàng Hóa (W)",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Công thức nào dùng để tính: Cơ Cấu Giá Trị Hàng Hóa (W)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "m' = (m)/(v) × 100% = (t')/(t) × 100%"
+        },
+        {
+          "id": "B",
+          "text": "g = (W)/(Q)"
+        },
+        {
+          "id": "C",
+          "text": "p' = (p)/(k) × 100% = mc_tiêu\\_hao + v × 100%"
+        },
+        {
+          "id": "D",
+          "text": "W = c + v + m"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Cơ Cấu Giá Trị Hàng Hóa (W): W = c + v + m",
+      "modelAnswer": "",
+      "tags": [
+        "công thức",
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "core-formula-mcq-2",
+      "section": "core",
+      "type": "mcq",
+      "chapter": 3,
+      "topic": "Phân Loại Tư Bản",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Công thức nào dùng để tính: Phân Loại Tư Bản?",
+      "options": [
+        {
+          "id": "A",
+          "text": "n = (CH)/(ch)"
+        },
+        {
+          "id": "B",
+          "text": "v = m_tl + 1"
+        },
+        {
+          "id": "C",
+          "text": "z = K_vay × lãi suất × thời gian vay"
+        },
+        {
+          "id": "D",
+          "text": "K_tổng = c + v = c_d + c_2 + v"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Phân Loại Tư Bản: K_tổng = c + v = c_d + c_2 + v",
+      "modelAnswer": "",
+      "tags": [
+        "công thức",
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "core-formula-mcq-3",
+      "section": "core",
+      "type": "mcq",
+      "chapter": 3,
+      "topic": "Tỷ Suất Và Khối Lượng Giá Trị Thặng Dư",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Công thức nào dùng để tính: Tỷ Suất Và Khối Lượng Giá Trị Thặng Dư?",
+      "options": [
+        {
+          "id": "A",
+          "text": "m = m_tl + m_td"
+        },
+        {
+          "id": "B",
+          "text": "W = c + v + m"
+        },
+        {
+          "id": "C",
+          "text": "p_tn = Giá bán - Giá mua"
+        },
+        {
+          "id": "D",
+          "text": "m' = (m)/(v) × 100% = (t')/(t) × 100%"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Tỷ Suất Và Khối Lượng Giá Trị Thặng Dư: m' = (m)/(v) × 100% = (t')/(t) × 100%",
+      "modelAnswer": "",
+      "tags": [
+        "công thức",
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "core-formula-mcq-4",
+      "section": "core",
+      "type": "mcq",
+      "chapter": 3,
+      "topic": "Chu Chuyển Tư Bản",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Công thức nào dùng để tính: Chu Chuyển Tư Bản?",
+      "options": [
+        {
+          "id": "A",
+          "text": "p' = (p)/(k) × 100% = mc_tiêu\\_hao + v × 100%"
+        },
+        {
+          "id": "B",
+          "text": "K_tổng = c + v = c_d + c_2 + v"
+        },
+        {
+          "id": "C",
+          "text": "g = (W)/(Q)"
+        },
+        {
+          "id": "D",
+          "text": "n = (CH)/(ch)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Chu Chuyển Tư Bản: n = (CH)/(ch)",
+      "modelAnswer": "",
+      "tags": [
+        "công thức",
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "core-formula-mcq-5",
+      "section": "core",
+      "type": "mcq",
+      "chapter": 3,
+      "topic": "Tích Lũy Tư Bản",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Công thức nào dùng để tính: Tích Lũy Tư Bản?",
+      "options": [
+        {
+          "id": "A",
+          "text": "z = K_vay × lãi suất × thời gian vay"
+        },
+        {
+          "id": "B",
+          "text": "m' = (m)/(v) × 100% = (t')/(t) × 100%"
+        },
+        {
+          "id": "C",
+          "text": "v = m_tl + 1"
+        },
+        {
+          "id": "D",
+          "text": "m = m_tl + m_td"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Tích Lũy Tư Bản: m = m_tl + m_td",
+      "modelAnswer": "",
+      "tags": [
+        "công thức",
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "core-formula-mcq-6",
+      "section": "core",
+      "type": "mcq",
+      "chapter": 3,
+      "topic": "Tỷ Suất Lợi Nhuận, Tỷ Suất Lợi Nhuận Bình Quân & Giá Cả Sản Xuất",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Công thức nào dùng để tính: Tỷ Suất Lợi Nhuận, Tỷ Suất Lợi Nhuận Bình Quân & Giá Cả Sản Xuất?",
+      "options": [
+        {
+          "id": "A",
+          "text": "p_tn = Giá bán - Giá mua"
+        },
+        {
+          "id": "B",
+          "text": "n = (CH)/(ch)"
+        },
+        {
+          "id": "C",
+          "text": "W = c + v + m"
+        },
+        {
+          "id": "D",
+          "text": "p' = (p)/(k) × 100% = mc_tiêu\\_hao + v × 100%"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Tỷ Suất Lợi Nhuận, Tỷ Suất Lợi Nhuận Bình Quân & Giá Cả Sản Xuất: p' = (p)/(k) × 100% = mc_tiêu\\_hao + v × 100%",
+      "modelAnswer": "",
+      "tags": [
+        "công thức",
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "core-formula-mcq-7",
+      "section": "core",
+      "type": "mcq",
+      "chapter": 3,
+      "topic": "Lợi Tức Và Lợi Nhuận Doanh Nghiệp Đi Vay (BỔ SUNG)",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Công thức nào dùng để tính: Lợi Tức Và Lợi Nhuận Doanh Nghiệp Đi Vay (BỔ SUNG)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "g = (W)/(Q)"
+        },
+        {
+          "id": "B",
+          "text": "m = m_tl + m_td"
+        },
+        {
+          "id": "C",
+          "text": "K_tổng = c + v = c_d + c_2 + v"
+        },
+        {
+          "id": "D",
+          "text": "z = K_vay × lãi suất × thời gian vay"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Lợi Tức Và Lợi Nhuận Doanh Nghiệp Đi Vay (BỔ SUNG): z = K_vay × lãi suất × thời gian vay",
+      "modelAnswer": "",
+      "tags": [
+        "công thức",
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "core-formula-mcq-8",
+      "section": "core",
+      "type": "mcq",
+      "chapter": 3,
+      "topic": "Lợi Nhuận Thương Nghiệp (BỔ SUNG)",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Công thức nào dùng để tính: Lợi Nhuận Thương Nghiệp (BỔ SUNG)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "v = m_tl + 1"
+        },
+        {
+          "id": "B",
+          "text": "p' = (p)/(k) × 100% = mc_tiêu\\_hao + v × 100%"
+        },
+        {
+          "id": "C",
+          "text": "m' = (m)/(v) × 100% = (t')/(t) × 100%"
+        },
+        {
+          "id": "D",
+          "text": "p_tn = Giá bán - Giá mua"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Lợi Nhuận Thương Nghiệp (BỔ SUNG): p_tn = Giá bán - Giá mua",
+      "modelAnswer": "",
+      "tags": [
+        "công thức",
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "core-formula-mcq-9",
+      "section": "core",
+      "type": "mcq",
+      "chapter": 2,
+      "topic": "Giá Trị Một Đơn Vị Sản Phẩm (BỔ SUNG)",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Công thức nào dùng để tính: Giá Trị Một Đơn Vị Sản Phẩm (BỔ SUNG)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "W = c + v + m"
+        },
+        {
+          "id": "B",
+          "text": "z = K_vay × lãi suất × thời gian vay"
+        },
+        {
+          "id": "C",
+          "text": "n = (CH)/(ch)"
+        },
+        {
+          "id": "D",
+          "text": "g = (W)/(Q)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Giá Trị Một Đơn Vị Sản Phẩm (BỔ SUNG): g = (W)/(Q)",
+      "modelAnswer": "",
+      "tags": [
+        "công thức",
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "core-formula-mcq-10",
+      "section": "core",
+      "type": "mcq",
+      "chapter": 3,
+      "topic": "Dạng 2: Phân bổ tích lũy tư bản ( c và v)",
+      "source": "local-formula",
+      "sourceUrl": "",
+      "question": "Công thức nào dùng để tính: Dạng 2: Phân bổ tích lũy tư bản ( c và v)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "K_tổng = c + v = c_d + c_2 + v"
+        },
+        {
+          "id": "B",
+          "text": "p_tn = Giá bán - Giá mua"
+        },
+        {
+          "id": "C",
+          "text": "m = m_tl + m_td"
+        },
+        {
+          "id": "D",
+          "text": "v = m_tl + 1"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Dạng 2: Phân bổ tích lũy tư bản ( c và v): v = m_tl + 1",
+      "modelAnswer": "",
+      "tags": [
+        "công thức",
+        "trắc nghiệm"
       ]
     },
     {

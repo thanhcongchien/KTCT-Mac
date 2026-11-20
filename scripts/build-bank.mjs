@@ -107,7 +107,32 @@ function parseTheory() {
   return defs;
 }
 
-/* ---------- 2. Parse the 12 worked exercises ---------- */
+/* ---------- 2. Parse the formula handbook ---------- */
+function parseFormulas() {
+  const md = read(join(parent, 'Tổng Quan Công Thức Và Phương Pháp Giải Nhanh.md'));
+  const parts = md.split(/^###\s+/m).slice(1);
+  const out = [];
+  for (const part of parts) {
+    const nl = part.indexOf('\n');
+    if (nl < 0) continue;
+    const heading = strip(part.slice(0, nl)).replace(/^\d+\.\s*/, '').trim();
+    const bodyRaw = part.slice(nl + 1);
+    const next = bodyRaw.search(/^##\s/m);
+    const body = next >= 0 ? bodyRaw.slice(0, next) : bodyRaw;
+    const formulas = [...body.matchAll(/\$\$([\s\S]*?)\$\$/g)].map((m) => strip(`$$${m[1]}$$`));
+    const formula = formulas.find((f) => f.length > 2);
+    if (!formula) continue;
+    out.push({
+      term: heading,
+      formula,
+      body: cleanBlock(body).slice(0, 700),
+      chapter: chapterOf(`${heading} ${body}`),
+    });
+  }
+  return out;
+}
+
+/* ---------- 3. Parse the 12 worked exercises ---------- */
 function parseExercises() {
   const md = read(join(parent, 'Lời Giải Chi Tiết 12 Bài Tập Tổng Học.md'));
   const parts = md.split(/^##\s*CÂU\s*(\d+)\s*$/m);
@@ -248,7 +273,59 @@ function buildCoreTf(defs) {
   return items;
 }
 
-/* ---------- 5. Extra questions from crawled quizzes ---------- */
+/* ---------- 5. Formula flashcards + MCQs ---------- */
+function buildFormulaItems(formulas) {
+  const cards = formulas.map((f, i) => ({
+    id: `core-formula-card-${i + 1}`,
+    section: 'core',
+    type: 'flashcard',
+    chapter: f.chapter,
+    topic: f.term,
+    source: 'local-formula',
+    sourceUrl: '',
+    question: f.term,
+    options: [],
+    answer: null,
+    explanation: '',
+    modelAnswer: f.body,
+    tags: ['thẻ ghi nhớ', 'công thức'],
+  }));
+
+  const mcqs = [];
+  formulas.forEach((f, i) => {
+    const pool = formulas.filter((x) => x.formula !== f.formula);
+    const picks = [];
+    for (let k = 0; k < pool.length && picks.length < 3; k++) {
+      const candidate = pool[(i + k * 3 + 1) % pool.length];
+      if (!picks.some((p) => p.formula === candidate.formula)) picks.push(candidate);
+    }
+    if (picks.length < 3) return;
+    const opts = [
+      { text: f.formula, correct: true },
+      ...picks.map((p) => ({ text: p.formula, correct: false })),
+    ];
+    const shuffled = shuffleDeterministic(opts);
+    mcqs.push({
+      id: `core-formula-mcq-${i + 1}`,
+      section: 'core',
+      type: 'mcq',
+      chapter: f.chapter,
+      topic: f.term,
+      source: 'local-formula',
+      sourceUrl: '',
+      question: `Công thức nào dùng để tính: ${f.term}?`,
+      options: shuffled.map((o, k) => ({ id: 'ABCD'[k], text: o.text })),
+      answer: 'ABCD'[shuffled.findIndex((o) => o.correct)],
+      explanation: `${f.term}: ${f.formula}`,
+      modelAnswer: '',
+      tags: ['công thức', 'trắc nghiệm'],
+    });
+  });
+
+  return { cards, mcqs };
+}
+
+/* ---------- 6. Extra questions from crawled quizzes ---------- */
 function loadExtra() {
   const dir = join(root, 'crawl', 'parsed');
   const files = existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith('.json')) : [];
@@ -327,12 +404,14 @@ function loadExtra() {
 
 /* ---------- 6. Assemble ---------- */
 const defs = parseTheory();
+const formulas = parseFormulas();
 const exercises = parseExercises();
 const curated = JSON.parse(read(join(root, 'content', 'core-curated.json')));
 const extra = loadExtra();
 
 const coreMcq = buildCoreMcq(defs);
 const coreTfAuto = buildCoreTf(defs);
+const formulaItems = buildFormulaItems(formulas);
 
 const coreCuratedTf = curated.truefalse.map((q, i) => ({
   id: `core-tf-c${i + 1}`,
@@ -430,6 +509,8 @@ const all = dedupe([
   ...coreTfAuto,
   ...coreMcq,
   ...flashcards,
+  ...formulaItems.cards,
+  ...formulaItems.mcqs,
   ...extra,
   ...extraCards,
 ]);
@@ -457,6 +538,7 @@ writeFileSync(join(root, 'data', 'questions.json'), json, 'utf8');
 writeFileSync(join(root, 'public', 'data', 'questions.json'), json, 'utf8');
 
 console.log('Definitions:', defs.length);
+console.log('Formulas:', formulas.length);
 console.log('Exercises:', exercises.length);
 console.log('Core MCQs:', coreMcq.length);
 console.log('Core TF (auto):', coreTfAuto.length, '+ curated:', coreCuratedTf.length);
