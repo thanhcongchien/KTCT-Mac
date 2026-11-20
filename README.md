@@ -51,12 +51,14 @@ npm run crawl
 ## Build & deploy GitHub Pages
 
 ```bash
-npm run build
+npm run deploy:pages
 ```
 
-Workflow `.github/workflows/deploy.yml` tự build và deploy khi push lên `main`. Trên GitHub: **Settings → Pages → Source = GitHub Actions**.
+Lệnh này build production với base `/KTCT-Mac/`, copy `dist/` sang nhánh `gh-pages` rồi push. Trên GitHub: **Settings → Pages → Source = Deploy from a branch → `gh-pages` / root**.
 
-Vite dùng `base: '/KTCT-Mac/'` khi chạy trong GitHub Actions (theo tên repo).
+Trang đang chạy: https://thanhcongchien.github.io/KTCT-Mac/
+
+> GitHub Actions đã được bỏ vì tài khoản GitHub đang bị khóa billing; deploy qua nhánh `gh-pages` không cần Actions.
 
 ## Ghi nguồn & bản quyền
 

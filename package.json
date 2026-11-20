@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "crawl": "node scripts/crawl-quizzes.mjs",
     "build-bank": "node scripts/build-bank.mjs",
-    "validate": "node scripts/validate-bank.mjs"
+    "validate": "node scripts/validate-bank.mjs",
+    "deploy:pages": "npm run build && node scripts/deploy-pages.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",
