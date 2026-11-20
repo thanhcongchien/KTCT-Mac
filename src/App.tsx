@@ -787,11 +787,13 @@ function ReviewView({
 
       <div className="panel score-card">
         <div className="score-ring" style={{ '--pct': pct } as React.CSSProperties}>
-          <div>{pct}%</div>
+          <div>{auto.length ? `${pct}%` : '—'}</div>
         </div>
         <div className="score-meta">
           <h2>
-            {correct}/{auto.length} câu trắc nghiệm đúng
+            {auto.length
+              ? `${correct}/${auto.length} câu trắc nghiệm đúng`
+              : 'Đã nộp bài tự luận'}
           </h2>
           <p>
             Tổng {session.items.length} câu · {auto.length} câu tự chấm · {session.items.length - auto.length} câu tự luận/bài tập
@@ -1077,18 +1079,18 @@ function FlashView({
     () => bank.questions.filter((q) => q.section === section && q.type === 'flashcard'),
     [bank, section]
   );
-  const [order, setOrder] = useState<string[]>(() => shuffle(cards.map((c) => c.id)));
+  const [deck, setDeck] = useState<Question[]>(() => shuffle(cards));
   const [index, setIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [hideKnown, setHideKnown] = useState(false);
 
   useEffect(() => {
-    setOrder(shuffle(cards.map((c) => c.id)));
+    setDeck(shuffle(cards));
     setIndex(0);
     setFlipped(false);
   }, [section]);
 
-  const visible = cards.filter((c) => !hideKnown || !known[c.id]);
+  const visible = deck.filter((c) => !hideKnown || !known[c.id]);
   const current = visible.length ? visible[index % visible.length] : null;
   const knownCount = cards.filter((c) => known[c.id]).length;
 
@@ -1187,7 +1189,7 @@ function FlashView({
           <button
             className="btn"
             onClick={() => {
-              setOrder(shuffle(cards.map((c) => c.id)));
+              setDeck(shuffle(cards));
               setIndex(0);
               setFlipped(false);
             }}
